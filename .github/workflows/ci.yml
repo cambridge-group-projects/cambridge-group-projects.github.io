@@ -17,9 +17,10 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
-      - name: clone wiki
-        run: |
-          git clone git@github.com:cambridge-group-projects/website.wiki.git
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}.wiki
+          path: wiki
 
       - uses: actions/setup-python@v5
         with:
