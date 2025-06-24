@@ -1,0 +1,6 @@
+site_name: Cambridge - Computer Science - Group Projects
+site_url: https://tobiasgrosser.github.io/group-project/
+theme:
+  name: material
+nav:
+  - Home: index.md
