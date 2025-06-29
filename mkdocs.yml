@@ -1,7 +1,7 @@
 site_name: Cambridge - CS Group Projects
 site_url: https://cambridge-group-projects.github.io/website/
 repo_url: https://github.com/cambridge-group-projects/website
-edit_uri: https://github.com/cambridge-group-projects/website/blob/main/
+edit_uri: https://github.com/cambridge-group-projects/website/blob/main/docs/
 theme:
   name: material
   features:
