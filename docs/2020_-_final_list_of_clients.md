@@ -1,0 +1,18 @@
+### Confirmed clients for 2020
+
+- [Frontier](Frontier "wikilink")
+- [Informetis](Informetis "wikilink")
+- [CambridgeSpark](CambridgeSpark "wikilink")
+- [NIAB](NIAB "wikilink")
+- [Microsoft Research](Microsoft_Research "wikilink")
+- [UNEP-WCMC](UNEP-WCMC "wikilink")
+- [UMZC](UMZC "wikilink")
+- [Dovetailed](Dovetailed "wikilink")
+- [Ocado](Ocado "wikilink")
+- [IMC](IMC "wikilink")
+- [Ubisense](Ubisense "wikilink")
+- [Africas Voices Foundation](Africas_Voices_Foundation "wikilink")
+- [Vet School](Vet_School "wikilink")
+- [MathWorks](MathWorks "wikilink")
+- [Grakn Labs](Grakn_Labs "wikilink")
+- [Google UK](Google_UK "wikilink")

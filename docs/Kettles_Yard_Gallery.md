@@ -1,0 +1,1 @@
+1.  REDIRECT [Stride Design](Stride_Design "wikilink")
