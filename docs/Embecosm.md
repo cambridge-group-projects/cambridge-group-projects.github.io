@@ -1,1 +1,0 @@
-Potential client: Will Jones <william.jones@embecosm.com>

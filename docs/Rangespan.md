@@ -1,1 +1,0 @@
-Client contact: Jurgen Van Gael <jurgen@rangespan.com>

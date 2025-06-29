@@ -1,1 +1,0 @@
-1.  REDIRECT [Surgery in the Cloud](Surgery_in_the_Cloud "wikilink")

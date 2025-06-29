@@ -1,1 +1,0 @@
-1.  REDIRECT [Soft Music Notation](Soft_Music_Notation "wikilink")

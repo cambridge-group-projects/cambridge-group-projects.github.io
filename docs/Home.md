@@ -1,1 +1,0 @@
-Go to [[index]] to get to the root file of this wiki.
