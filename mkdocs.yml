@@ -11,6 +11,9 @@ plugins:
  - search
  - github-wiki-edit-url
 
+static_templates:
+ - 404.html
+
 nav:
   - Home: index.md
   - Intellectual Property: Intellectual_property.md
