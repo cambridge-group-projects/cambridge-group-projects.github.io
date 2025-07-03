@@ -4,6 +4,7 @@ repo_url: https://github.com/cambridge-group-projects/website/wiki
 use_directory_urls:     false
 theme:
   name: material
+  custom_dir: overrides
   features:
     - content.action.edit
 
