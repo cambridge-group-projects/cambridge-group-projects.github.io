@@ -11,6 +11,8 @@ theme:
 plugins:
  - search
  - github-wiki-edit-url
+ - ezlinks
+
 
 static_templates:
  - 404.html
