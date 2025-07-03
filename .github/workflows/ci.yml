@@ -4,6 +4,7 @@ on:
     - cron: '*/5 * * * *'
   workflow_dispatch:
   gollum:
+  push:
 
 permissions:
   contents: write
