@@ -11,6 +11,9 @@ theme:
   features:
     - content.action.edit
 
+markdown_extensions:
+  - admonition
+
 plugins:
  - search
  - github-wiki-edit-url
