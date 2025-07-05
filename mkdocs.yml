@@ -5,6 +5,9 @@ use_directory_urls:     false
 theme:
   name: material
   custom_dir: overrides
+  palette:
+    primary: custom
+    accent: custom
   features:
     - content.action.edit
 
@@ -39,3 +42,6 @@ nav:
     - 2009: 2009.md
     - 2008: 2008.md
     - 2006: 2006.md
+
+extra_css:
+  - stylesheets/extra.css
