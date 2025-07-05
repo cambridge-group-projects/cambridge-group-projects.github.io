@@ -23,7 +23,7 @@ plugins:
  - search
  - github-wiki-edit-url
  - ezlinks
-
+ - autorefs
 
 static_templates:
  - 404.html

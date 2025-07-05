@@ -34,7 +34,7 @@ jobs:
           path: .cache 
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-github-wiki-edit-url mkdocs-ezlinks-plugin
+      - run: pip install mkdocs-material mkdocs-github-wiki-edit-url mkdocs-ezlinks-plugin mkdocs-autorefs
       - run: mkdocs build
 
       - name: Upload static files as artifact
