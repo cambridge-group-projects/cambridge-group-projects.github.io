@@ -10,6 +10,7 @@ theme:
     accent: custom
   features:
     - content.action.edit
+    - navigation.instant.preview
 
 markdown_extensions:
   - admonition
@@ -18,21 +19,25 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - toc:
+      permalink: '¶'
 
 plugins:
  - search
  - github-wiki-edit-url
  - ezlinks
- - autorefs
 
 static_templates:
  - 404.html
 
 nav:
   - Home: index.md
-  - Intellectual Property: Intellectual_property.md
-  - Clients:
+  - General Information:
+    - What makes a good project?: What_makes_a_good_project.md
+    - Intellectual Property: Intellectual_property.md
     - Logistics for Clients: Logistics_for_Clients.md
+    - Information for DoS: Directors_of_Studies.md
+    - Information for Project Coordinators: Coordinators.md
   - Historic Design Briefs:
     - 2025: 2025_list.md
     - 2024: 2024_list.md
