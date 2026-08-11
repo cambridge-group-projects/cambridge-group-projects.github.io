@@ -47,7 +47,7 @@ body:has(.cgp-hero) .md-search__button svg {
 }
 body:has(.cgp-hero) .md-search__icon {
   color: #ffffff !important;
-  background-color: #1a1a1a;
+  background-color: #000000 !important;
 }
 body:has(.cgp-hero) .md-search__icon svg {
   stroke: #ffffff !important;
