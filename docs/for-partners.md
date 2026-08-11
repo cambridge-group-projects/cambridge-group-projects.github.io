@@ -42,7 +42,7 @@ them with you inside the required week.
     Each meeting is preceded by a PDF, sent at least 24 hours ahead — before noon
     the day before — so you have time to review it.
 
--   :material-unlock: **Unblock the team**
+-   :material-lock-open: **Unblock the team**
 
     ---
 
