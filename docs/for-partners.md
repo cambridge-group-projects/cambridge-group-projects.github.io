@@ -13,15 +13,6 @@ you receive, and what seven weeks of student effort realistically buys.
 **At a glance:** 4 meetings with you · 7 weeks of work · 30–60 hours per student
 · 5 documents to you · one 4-minute video.
 
-!!! info "How this partner guide was put together"
-
-    The department publishes its group-project documentation for students, not as
-    a separate client handbook. Everything here is **derived** from those pages:
-    where the course tells a team "send the specification to your client at least
-    24 hours before Meeting 2", the matching commitment on your side is "read it
-    before Meeting 2". Nothing here overrides the departmental pages or anything
-    the organisers tell you directly — if in doubt, email them.
-
 ## What being a client actually involves
 
 Four formal meetings, four documents to read, and a brief to write beforehand.
