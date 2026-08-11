@@ -1,0 +1,3 @@
+Client - Fran Sutton, Cambridge Retrofit Hub <hello@cambridgeretrofithub.org>
+
+A key priority in making homes more energy efficient is to find and plug air draughts. In principle, a builder upgrading an existing house could simply fasten a fan in an open window, use a differential pressure meter to determine how airtight the house is, and start plugging holes, adjusting the number of air changes per hour to fall within a desirable range. A cheap and easy phone app could help the builder to setup and calibrate the equipment, then provide practical guidance to prioritise the most urgent repairs, giving feedback on what has been gained with each of those.

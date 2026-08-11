@@ -1,0 +1,3 @@
+Client - Bart Hommels, Open Eco-Homes <bart.hommels@gmail.com>
+
+In a well-insulated house, any continuous path of brick or stone can become a “cold bridge” that leaks indoor heat on cold winter days. The goal of this project is to allow a home-owner to diagnose this problem through time-lapse analysis of photographs taken with thermal imaging cameras at different times of day and seasons. You’ll need to use computer vision methods to normalise and register infrared/optical photographs that have been taken from slightly different conditions and poses, and then construct a heat flow model from differential analysis of the image regions.

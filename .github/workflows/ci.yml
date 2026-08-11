@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
-  gollum:
   push:
 
 permissions:
@@ -18,11 +17,6 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-
-      - uses: actions/checkout@v4
-        with:
-          repository: ${{ github.repository }}.wiki
-          path: docs
 
       - uses: actions/setup-python@v5
         with:

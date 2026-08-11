@@ -1,0 +1,3 @@
+(no client identified yet)
+
+We can’t all afford a Tesla. But mobile phones have sufficient sensing and compute that they can recreate a lot of Tesla UI functionality. Your task is to create an app that uses vision algorithms with GPS to create advanced cruise control, lane following, pedestrian avoidance, traffic rules etc. It won’t be connected to the car, so it must stimulate automatic driver reflexes, applying the simplest possible stimulus, letting you can think about other things.

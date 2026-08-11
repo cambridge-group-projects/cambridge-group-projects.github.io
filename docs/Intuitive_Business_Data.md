@@ -1,0 +1,3 @@
+Client - Ben Schofield, Calero <Ben.Schofield@calero.com>
+
+Visual programming languages like the educational product Scratch could be more accessible for nontechnical business users, but most genAI coding assistants output Python or Javascript that is hard for non-programmers to read and adjust. Your task is to create a novel programming tool for business data processing, where the first draft of the solution is generated from a natural language text prompt, but users can refine their solution just by selecting and dragging graphical data processing elements rather than endless chatbot interaction.

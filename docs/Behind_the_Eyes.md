@@ -1,0 +1,3 @@
+(no client identified yet)
+
+We all see distinctive imagery when pressing lightly on closed eyelids. It’s interesting that different people see different things, and even more interesting that no AI has ever seen those pictures, so cannot understand what they look like! Your goal is to create a research tool that allows people to “paint” the images they see behind their eyes, using a combination of verbal description for a visual language model and screen interaction using painting tools. A deployment of this product could collect a research data set of millions of images. In future, that data could be combined with neuroscience methods such brain scans for fundamental advances in the nature of perception, brain-computer interface and even consciousness.

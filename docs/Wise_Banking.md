@@ -1,0 +1,3 @@
+Client - Tokunboh Ishmael, Alitheia Capital <ti317@cam.ac.uk>
+
+Mobile banking apps are convenient, and help many students with monthly budgets, but can make it hard to plan for the long term. A particular failing is how to get life advice from other generations - not just parents, but wise friends and mentors in your home community. Your challenge is to create a personal wisdom-based banking app that connects across generations, drawing on principles from the Yellow Cowries curriculum that empower young adults to make improved financial decisions such as savings, loans, investments and insurance. It’s important to consider and go beyond AI advice models, building whatever is special in local communities and lifestyles.

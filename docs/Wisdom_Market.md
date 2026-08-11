@@ -1,0 +1,3 @@
+Client - 'Tokunboh Ishmael, Alitheia Capital
+
+Data annotation brokerages such as Amazon Mechanical Turk, and training sets for Large Language Models, erase all personal identify and geographic location, so that knowledge can be packaged as coming “from nowhere”. The goal of this project is to provide a tool for accessing practical wisdom from specific places. You’ll need to consider that the wisest people in a community may not be the young ones with mobile phones, and that compute and payment models need to be both verifiable and sustainable, not wasting local energy resources in the style of server farms or bitcoin mining.

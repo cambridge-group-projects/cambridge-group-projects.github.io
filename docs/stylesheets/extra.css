@@ -1,0 +1,19 @@
+/* Brand palette. The `--light`/`--dark`/`--transparent` variants are not free
+   slots: the theme expects shades of the base colour, and `--*-bg-color` is the
+   colour of text/icons drawn *on top of* the corresponding foreground colour. */
+:root > * {
+  /* Teal — header, sidebar accents */
+  --md-primary-fg-color:               #00BDB6;
+  --md-primary-fg-color--light:        #4DD3CE;
+  --md-primary-fg-color--dark:         #009A94;
+  --md-primary-bg-color:               white;
+  --md-primary-bg-color--light:        #ffffffb3;
+
+  /* Cambridge red — links on hover, active nav item */
+  --md-accent-fg-color:                #DD3025;
+  --md-accent-fg-color--transparent:   #dd30251a; /* accent at 10% alpha */
+  --md-accent-bg-color:                white;
+  --md-accent-bg-color--light:         #ffffffb3;
+
+  --md-hue: 225deg;
+}

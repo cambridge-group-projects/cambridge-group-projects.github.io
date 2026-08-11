@@ -1,0 +1,19 @@
+ 
+### Confirmed clients for 2020
+
+- [Frontier](Frontier)
+- [Informetis](Informetis)
+- [CambridgeSpark](CambridgeSpark)
+- [NIAB](NIAB)
+- [Microsoft Research](Microsoft_Research)
+- [UNEP-WCMC](UNEP-WCMC)
+- [UMZC](UMZC)
+- [Dovetailed](Dovetailed)
+- [Ocado](Ocado)
+- [IMC](IMC)
+- [Ubisense](Ubisense)
+- [Africas Voices Foundation](Africas_Voices_Foundation)
+- [Vet School](Vet_School)
+- [MathWorks](MathWorks)
+- [Grakn Labs](Grakn_Labs)
+- [Google UK](Google_UK)

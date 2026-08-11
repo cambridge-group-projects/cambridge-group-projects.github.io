@@ -1,0 +1,3 @@
+Client - Rachel Thorley, STEMfluent Ltd <Rachel.Thorley@chu.cam.ac.uk>
+
+Cambridge admissions interviews, like the college supervisions they could lead to, are all about conversation. Yet high school students with no personal tutor or private school may never have had a human conversation about the subject they love. Some might resort to a chatbot, but this project is about making human connections instead, perhaps exploring topics from an online resource like Isaac Physics. Pairs of users can practice interviewing each other, with an algorithm like TrueSkill maintaining scores to help students from all kinds of background assess their chances.

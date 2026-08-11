@@ -1,0 +1,3 @@
+Client - Sarah Ciston, Academy of Media Art Cologne <sarahciston@gmail.com>
+
+Are CAPTCHAs just free labour for AI-training? The internet is in an arms race between CAPTCHAs and bots that solve CAPTCHAs, but only humans are losing out. Investigative artist Sarah Ciston has won prizes for exposing military use of AI. This team will work with her to design a system that filters unwanted web traffic without judging people as "not human enough", for example if they use assistive technologies like screen readers or gaze trackers. A public demonstration will show what really happens when humans get captcha'd by social media and surveillance tech. 

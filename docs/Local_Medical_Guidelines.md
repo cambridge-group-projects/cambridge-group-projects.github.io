@@ -1,0 +1,3 @@
+Client - Charlie Artingstoll, Medical Action Myanmar <charlie.artingstoll@gmail.com>
+
+In many parts of the world, medical guidelines are created specifically for local contexts, but get published only as PDFs, not accessible when and where they are needed - on low-powered devices with poor network connectivity. The goal of this project is to make an authoring system that easily allows local medical teams to create, distribute and maintain medical guidelines as a lightweight progressive web app, ideally drawing on AI enhancements and community knowledge to combine the best features of Wikipedia and ChatGPT.

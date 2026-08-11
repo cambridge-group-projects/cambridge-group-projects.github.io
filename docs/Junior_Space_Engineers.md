@@ -1,0 +1,3 @@
+Client - Thomas Garnier, French Space Academy <thomas.garnier@centralesupelec.fr>
+
+Many space programmes offer popular opportunities for schools to propose and deploy experiments in space. This project provides a way for kids to design proposals for their own space hardware. IDM CIC is a systems engineering plus CAD tool developed by CNES, the French Space Agency. It wasn’t created for use by children, so your task is to develop an accessible design assistant, that can start from a voice prompt to explore “vibe” design ideas, then lead them in to the physics and engineering detail of defining a deployable satellite module.

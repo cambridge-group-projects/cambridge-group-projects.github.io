@@ -1,0 +1,3 @@
+Client - Stephen Baker, Evinova <Stephen.Baker@evinova.com>
+
+Design and prototype a web-based system that optimises clinical-trial visit schedules for patients and trial sites using only synthetic data and public APIs. The system ingests a trial protocol (visit windows and constraints), patient availability, and site capacity, and produces feasible schedules plus simple risk flags (e.g. missed visit windows or conflicting medications). The prototype demonstrates calendar export (iCalendar / .ics) and an optional integration with a single demo calendar service. An optional stretch goal is to showcase an “AI computer-using agent” operating in a sandboxed environment to automate a scheduling task.

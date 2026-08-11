@@ -1,0 +1,3 @@
+Client - Leontien Talboom, Cambridge University Library <lkt39@cam.ac.uk>
+
+In the century before the World-Wide Web, a whole generation of scientists kept their data and archives on floppy disks, often encoded in formats specific to a particular disk drive or PC manufacturer. Much of that data has never gone online, and is now in danger of being lost forever. This project is an archaeological exercise, developing a tool that can excavate and decode that data, perhaps applying machine learning methods to identify and reverse-engineer texts and tables from the magnetic media.Your client is a digital archive specialist, who can provide many samples, as well as technical documentation, to get you started.

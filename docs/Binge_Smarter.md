@@ -1,0 +1,3 @@
+Client - Michele Benciolini, Bending Spoons <mben@bendingspoons.com>
+
+Many viewers enjoy international films, series, and online content that they watch with English subtitles, or English-language content with subtitles to help learn vocabulary and idioms. At present, recommender algorithms in Netflix or YouTube give no assistance with following the plot, keeping track of which characters have appeared, or helping assess whether you are learning new language skills. This project will create a service that uses natural language processing APIs to match content to language learning, for a more linguistic viewing experience.
