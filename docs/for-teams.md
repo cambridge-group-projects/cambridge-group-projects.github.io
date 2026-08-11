@@ -119,115 +119,20 @@ every phase, and getting one wrong is the usual way a good project loses marks.
 ## Seven phases, from brief to awards ceremony
 
 Each phase has its own kind of activity, scheduled across different weeks and days
-as decided in your own group's project plan.
+as decided in your own group's project plan. This is the shape of the course; the
+full detail of each phase, with the tasks somebody has to own, is on
+**[The Seven Phases](team-phases.md)**.
 
-### Phase I · Briefing and project selection — *Michaelmas term*
+| Phase | When | What happens |
+| --- | --- | --- |
+| **I** · Briefing and project selection | Michaelmas term | Design briefs are presented, and you record the projects you would most like to work on. |
+| **II** · Kickoff and risk analysis | Week 1 | Teams are announced, a contact person is elected, and the first client meeting sets the requirements. |
+| **III** · Requirements analysis | Week 2 | Turn open-ended requirements into a formal functional specification and a costed project plan. |
+| **IV** · Implementation | Weeks 2–6 | Write, test and integrate the code, reporting progress at meetings 3 and 4. |
+| **V** · Wrapup | Weeks 6–7 | Finalise and document the code, film a four-minute video, and write the final group report. |
+| **VI** · Presentation and awards | Week 8 | Videos go online, the whole department votes, and the term closes with a public exhibition and prizes. |
+| **VII** · Reflection and review | By 5pm, last Wednesday of Lent | An individual personal report reflecting on the experience, your contribution, and your team. |
 
-Design briefs are presented, and you record the projects you would most like to
-work on.
-
-- In Michaelmas term, the design briefs are presented to students.
-- You express your preferences via the Moodle IB Group Project pages.
-- Some projects are far more popular than others, so there is no guarantee you
-  will be assigned to your first preference — or any of them.
-- You will work on whatever project you are assigned to, with colleagues you have
-  not chosen.
-
-### Phase II · Kickoff and risk analysis — *Week 1*
-
-Teams are announced, a contact person is elected, and the first client meeting
-sets the requirements.
-
-- Group membership, clients and assigned briefs are announced at the kick-off
-  meeting on the first Thursday of Lent term. No changes to membership are
-  considered after it.
-- If members feel they seriously cannot work together, they must tell the
-  organisers immediately.
-- Each team elects a **contact person** — the primary point of contact with the
-  client and the administration team.
-- Meeting 1 is your first priority: contact your client and schedule it within
-  Week 1, as soon as possible, to clarify requirements.
-- Within 24 hours of Meeting 1, document the most serious technical and
-  managerial risks in a risk assessment of up to **50 words**.
-
-### Phase III · Requirements analysis — *Week 2*
-
-Turn open-ended requirements into a formal functional specification and a costed
-project plan.
-
-- Turn the requirements into a formal functional specification and a project plan
-  to implement it. Take care not to over-specify and commit to more work than
-  necessary.
-- Draft the specification and plan and send it to your client at least 24 hours
-  before Meeting 2. Adapt it at the meeting, and send the final version to the
-  client and the group project email within 24 hours.
-
-The **functional specification** must include:
-
-- A general investigation of the problem and its background
-- The functionality to be provided
-- The major components of the system, and interface specifications for them
-- Acceptance criteria for the finished product
-- A management strategy for the group
-- The technical contribution to be made by each member
-
-The **project plan** must set out:
-
-- The tasks assigned to each person, with estimated time to complete each
-- Dependencies between tasks
-- An overall budget of no more than 60 hours per member
-- A technical contribution for every member of the group
-
-### Phase IV · Implementation — *Weeks 2–6*
-
-Write, test and integrate the code, reporting progress at meetings 3 and 4.
-
-- Write and test individual components in isolation, then integrate and test the
-  final system.
-- Client meetings 3 (Week 4) and 4 (Week 6) report progress and gather feedback.
-  **Progress Report 1** and **Progress Report 2** are each sent as a PDF at least
-  24 hours before the respective meeting.
-- After Meeting 3, and before Friday of Week 6, every student makes an interim
-  self-assessment of their contribution using a questionnaire on Moodle.
-
-### Phase V · Wrap-up — *Weeks 6–7*
-
-Finalise and document the code, film a four-minute video, and write the final
-group report.
-
-- Finalise and document the code, and prepare the video presentation.
-- **Deadline: noon on the Thursday at the start of Week 8.** A full copy of the
-  group code repository (zip or tar) is submitted to the examiners via Moodle. No
-  credit is given for features added after this.
-- The team then writes a final report describing the project's successes and
-  failures, lessons learned, and the work done by each member.
-
-The **video presentation** must introduce the project, highlight the technical
-challenges and your solutions, demonstrate the project working, and be no more
-than 4 minutes long.
-
-### Phase VI · Presentation and awards — *Week 8*
-
-Videos go online, the whole department votes, and the term closes with a public
-exhibition and prizes.
-
-- Videos are available to all Computer Lab staff, clients and Part IB students
-  from Monday to Wednesday of Week 8, who vote for their favourites in several
-  categories.
-- On the last Wednesday of term: a public screening, an interactive exhibition
-  with demonstrations of all projects, and presentation of the awards.
-
-### Phase VII · Reflection and review — *by 5pm, last Wednesday of Lent*
-
-An individual personal report reflecting on the experience, your contribution,
-and your team.
-
-The **personal report** has four sections:
-
-- Reflection on your overall experience
-- A summary of your personal contribution to the team's work
-- Your assessment of the contribution made by each other member
-- A sample of source code demonstrating one of your key technical contributions
 
 ## Four meetings, four documents
 
@@ -281,10 +186,47 @@ the project succeeded; three recognise what you personally achieved.
 
 </div>
 
+How each is awarded, plus the interim self-assessment and the personal report, is
+covered on **[Guidance](team-guidance.md)**.
+
+## Read on
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-numbered: **[The Seven Phases](team-phases.md)**
+
+    ---
+
+    Every phase in full, with the tasks somebody has to own — marked team, contact
+    person or individual.
+
+-   :material-calendar-month: **[Key Dates](team-dates.md)**
+
+    ---
+
+    The whole 2026–27 schedule, from the briefing lecture to the exhibition, and the
+    three scheduling rules that are easy to get wrong.
+
+-   :material-checkbox-marked-outline: **[Deliverables](team-deliverables.md)**
+
+    ---
+
+    All seventeen deliverables, team actions and individual tasks, and the four
+    rules governing how each must be sent.
+
+-   :material-compass: **[Guidance](team-guidance.md)**
+
+    ---
+
+    What the course is trying to teach you, how the ticks are awarded, and the
+    technical decisions — repository, filespace, hardware — to make early.
+
+</div>
+
 ## Where to go next
 
 Curious what your client has been told? See the
-**[Industry Partners guide](for-partners/)** — their commitments, what they
+**[Industry Partners guide](for-partners.md)** — their commitments, what they
 expect to receive, and how briefs are written.
 
 **Official pages:**
