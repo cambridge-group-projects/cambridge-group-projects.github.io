@@ -88,3 +88,8 @@
   }
 }
 
+/* Hide table of contents sidebar on for-partners and for-teams pages */
+.md-sidebar--secondary[data-md-type="toc"] {
+  display: none !important;
+}
+
