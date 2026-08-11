@@ -19,6 +19,15 @@ Copyright &copy; 2026 University of Cambridge
 # Navigation structure derived from the docs directory
 nav = [
   { "Home" = "index.md" },
+  { "Industry Partners" = [
+    { "Overview" = "for-partners.md" },
+    { "Your Commitments" = "partner-commitments.md" },
+    { "What to Expect" = "partner-expectations.md" },
+    { "Writing a Brief" = "partner-brief.md" },
+  ]},
+  { "Project Teams" = [
+    { "Overview" = "for-teams.md" },
+  ]},
   { "General Information" = [
     { "What makes a good project?" = "What_makes_a_good_project.md" },
     { "Intellectual Property" = "Intellectual_property.md" },
