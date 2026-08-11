@@ -20,8 +20,12 @@ body:has(.cgp-hero) .md-search {
   background-color: transparent;
 }
 body:has(.cgp-hero) .md-search__button {
-  background-color: #333;
+  background-color: #000 !important;
   border-radius: 0.2rem;
+  color: #fff !important;
+}
+body:has(.cgp-hero) .md-search__button::after {
+  background-color: #1a1a1a !important;
   color: #fff !important;
 }
 body:has(.cgp-hero) .md-search__input {
