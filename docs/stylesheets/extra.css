@@ -93,3 +93,13 @@
   display: none !important;
 }
 
+/* The two guides are entered from the landing page chooser, not the tab bar, so
+   drop their top-level tabs. They stay in the nav config, which is what gives each
+   guide its sidebar, breadcrumbs and section ordering — hiding them here only
+   removes the header entry. Scoped to `.md-tabs` so links to the same pages
+   elsewhere (sidebar, chooser, cross-references) are unaffected. */
+.md-tabs__item:has(> .md-tabs__link[href$="/for-partners/"]),
+.md-tabs__item:has(> .md-tabs__link[href$="/for-teams/"]) {
+  display: none;
+}
+
