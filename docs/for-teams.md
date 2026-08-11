@@ -12,8 +12,21 @@ project: a real client, a real team you didn't choose, and a deliberately hard
 brief. This is everything you need to keep on top of it — the phases, the
 deadlines, and the requirements that earn your four ticks.
 
-**At a glance:** 23 design briefs · 7 phases · 4 client meetings · 60 hours per
-member · one 4-minute video · 4 ticks to earn.
+<div class="grid cards" markdown>
+
+-   :material-file-document-multiple: **23 design briefs**
+
+-   :material-layers-triple: **7 phases**
+
+-   :material-handshake: **4 client meetings**
+
+-   :material-clock: **60 hours per member**
+
+-   :material-video: **One 4-minute video**
+
+-   :material-check-circle: **4 ticks to earn**
+
+</div>
 
 ## Twenty-three briefs, twenty-three real clients
 
