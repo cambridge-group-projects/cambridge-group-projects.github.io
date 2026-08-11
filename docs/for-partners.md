@@ -12,8 +12,19 @@ Cambridge second-year computer scientists, and meet them four times across Lent
 term. This guide sets out exactly what that involves — what you commit to, what
 you receive, and what seven weeks of student effort realistically buys.
 
-**At a glance:** 4 meetings with you · 7 weeks of work · 30–60 hours per student
-· 5 documents to you · one 4-minute video.
+<div class="grid cards" markdown>
+
+-   :material-handshake: **4 meetings with you**
+
+-   :material-calendar-week: **7 weeks of work**
+
+-   :material-clock: **30–60 hours per student**
+
+-   :material-file-document-multiple: **5 documents to you**
+
+-   :material-video: **One 4-minute video**
+
+</div>
 
 ## What being a client actually involves
 
