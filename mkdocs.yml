@@ -33,9 +33,6 @@ static_templates:
  - 404.html
 
 nav:
-  - Welcome: welcome.md
-  - Project Teams: for-teams.md
-  - Industry Partners: for-partners.md
   - Home: index.md
   - General Information:
     - What makes a good project?: What_makes_a_good_project.md
