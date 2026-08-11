@@ -41,8 +41,17 @@ body:has(.cgp-hero) label[for="__search"] svg {
 body:has(.cgp-hero) label[for="__search"] {
   color: #ffffff !important;
 }
+body:has(.cgp-hero) .md-search__button svg {
+  stroke: #ffffff !important;
+  color: #ffffff !important;
+}
 body:has(.cgp-hero) .md-search__icon {
+  color: #ffffff !important;
   background-color: #1a1a1a;
+}
+body:has(.cgp-hero) .md-search__icon svg {
+  stroke: #ffffff !important;
+  color: #ffffff !important;
 }
 body:has(.cgp-hero) .md-icon { color: #fff; }
 body:has(.cgp-hero) .md-main { display: none; }
