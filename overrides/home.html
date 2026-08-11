@@ -1,0 +1,86 @@
+{% extends "main.html" %}
+
+<!-- Full-height landing chooser, rendered above the page content. Only pages
+     that set `template: home.html` in their front matter get this. The page
+     body is intentionally empty — everything a visitor needs lives behind the
+     two panels below. -->
+{% block tabs %}{% endblock %}
+
+{% block hero %}
+  <div class="cgp-land">
+  <section class="cgp-hero md-typeset">
+    <!-- Fallback backdrop: a still from the same video, over the gradient.
+         Shown while the player loads, on small screens, and if it is blocked. -->
+    <div class="cgp-hero__canvas" aria-hidden="true"></div>
+    <div class="cgp-hero__poster" aria-hidden="true"></div>
+
+    <!-- 2026 project video (Group Foxtrot). Muted, looped, not interactive.
+         Swap the two IDs below to show a different project. -->
+    <div class="cgp-hero__media" aria-hidden="true">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/IHqoDwr4IHw?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=IHqoDwr4IHw&amp;controls=0&amp;disablekb=1&amp;modestbranding=1&amp;rel=0&amp;playsinline=1&amp;iv_load_policy=3&amp;start=4"
+        title="Group Foxtrot — Community Culture during Diaspora"
+        allow="autoplay; encrypted-media"
+        referrerpolicy="strict-origin-when-cross-origin"
+        frameborder="0"
+        tabindex="-1"></iframe>
+    </div>
+
+    <!-- Tint that keeps the copy readable over whatever the video shows. -->
+    <div class="cgp-hero__scrim" aria-hidden="true"></div>
+
+    <div class="cgp-hero__inner md-grid">
+      <header class="cgp-hero__head">
+        <span class="cgp-hero__kicker">Computer Science Tripos · University of Cambridge</span>
+        <h1>A real-world problem. <br class="cgp-hero__break">CS students solve it!</h1>
+        <p class="cgp-hero__lead">
+          Seven weeks, a real external client, and a brief that is meant to be hard.
+        </p>
+      </header>
+
+      <p class="cgp-hero__credit">
+        <a class="cgp-playlist" href="https://www.youtube.com/playlist?list=PLstyePOvf2d08_lFgNpoKEm1P7YHorYvJ">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+          Watch all 22 project videos from 2026
+        </a>
+      </p>
+    </div>
+
+    <!-- Attribution for the background video, pinned to the hero's corner. -->
+    <p class="cgp-hero__nowplaying">Background: <a href="https://www.youtube.com/watch?v=IHqoDwr4IHw&amp;list=PLstyePOvf2d08_lFgNpoKEm1P7YHorYvJ">Group Foxtrot, Community Culture during Diaspora</a></p>
+  </section>
+
+  <!-- The two ways in, on the page below the hero band. -->
+  <section class="cgp-below md-typeset">
+    <div class="cgp-chooser">
+
+        <a class="cgp-panel cgp-panel--teams" href="for-teams.html">
+          <span class="cgp-panel__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87M16 3.13A4 4 0 0 1 16 11"/></svg>
+          </span>
+          <span class="cgp-panel__eyebrow">For students</span>
+          <h2>Project Teams</h2>
+          <p>You have been assigned a brief and a client. Every phase, deadline and deliverable that stands between you and your four ticks.</p>
+          <span class="cgp-panel__go">
+            Enter the team guide
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </span>
+        </a>
+
+        <a class="cgp-panel cgp-panel--partners" href="for-partners.html">
+          <span class="cgp-panel__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+          </span>
+          <span class="cgp-panel__eyebrow">For clients</span>
+          <h2>Industry Partners</h2>
+          <p>You are writing the brief and acting as the client. What the course asks of you, what you will receive, and what seven weeks realistically buys.</p>
+          <span class="cgp-panel__go">
+            Enter the partner guide
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </span>
+        </a>
+
+    </div>
+  </section>
+  </div>
+{% endblock %}
