@@ -30,12 +30,12 @@ jobs:
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v4
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache 
+          key: zensical-${{ env.cache_id }}
+          path: .cache
           restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-github-wiki-edit-url mkdocs-ezlinks-plugin mkdocs-autorefs
-      - run: mkdocs build
+            zensical-
+      - run: pip install zensical
+      - run: zensical build
 
       - name: Upload static files as artifact
         id: deployment
