@@ -1,0 +1,126 @@
+# ============================================================================
+#
+# Zensical configuration for Cambridge Group Projects
+#
+# ============================================================================
+
+[project]
+
+site_name = "Cambridge - CS Group Projects"
+site_description = "A guide for student project teams and industry partners in the Cambridge Part IB group design projects."
+site_url = "https://group-projects.cst.cam.ac.uk/"
+
+copyright = """
+Copyright &copy; 2026 University of Cambridge
+"""
+
+# Navigation structure derived from the docs directory
+nav = [
+  { "Home" = "index.md" },
+  { "General Information" = [
+    { "What makes a good project?" = "What_makes_a_good_project.md" },
+    { "Intellectual Property" = "Intellectual_property.md" },
+    { "Logistics for Clients" = "Logistics_for_Clients.md" },
+    { "Information for DoS" = "Directors_of_Studies.md" },
+    { "Information for Project Coordinators" = "Coordinators.md" },
+  ]},
+  { "Historic Design Briefs" = [
+    { "2026" = "2026_list.md" },
+    { "2025" = "2025_list.md" },
+    { "2024" = "2024_list.md" },
+    { "2023" = "2023_list.md" },
+    { "2022" = "2022_list.md" },
+    { "2021" = "2021_list.md" },
+    { "2020" = "2020_list.md" },
+    { "2019" = "2019_list.md" },
+    { "2018" = "2018_list.md" },
+    { "2017" = "2017_list.md" },
+    { "2016" = "2016_list.md" },
+    { "2015" = "2015_list.md" },
+    { "2014" = "2014_-_final_list_of_design_briefs.md" },
+    { "2013" = "2013_-_final_list_of_design_briefs.md" },
+    { "2010" = "2010.md" },
+    { "2009" = "2009.md" },
+    { "2008" = "2008.md" },
+    { "2006" = "2006.md" },
+  ]},
+]
+
+extra_css = [
+  "stylesheets/extra.css",
+  "stylesheets/home.css",
+]
+
+[project.theme]
+
+logo = "assets/logo.png"
+favicon = "assets/logo.png"
+custom_dir = "overrides"
+
+language = "en"
+
+features = [
+  "announce.dismiss",
+  "content.action.edit",
+  "content.code.annotate",
+  "content.code.copy",
+  "content.code.select",
+  "content.footnote.tooltips",
+  "content.tabs.link",
+  "content.tooltips",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.md_in_html]
+[project.markdown_extensions.toc]
+permalink = true
+[project.markdown_extensions.pymdownx.arithmatex]
+generic = true
+[project.markdown_extensions.pymdownx.betterem]
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.emoji]
+emoji_generator = "zensical.extensions.emoji.to_svg"
+emoji_index = "zensical.extensions.emoji.twemoji"
+[project.markdown_extensions.pymdownx.highlight]
+anchor_linenums = true
+line_spans = "__span"
+pygments_lang_class = true
+[project.markdown_extensions.pymdownx.inlinehilite]
+[project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.magiclink]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.smartsymbols]
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+]
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
+combine_header_slug = true
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
+[project.markdown_extensions.pymdownx.tilde]

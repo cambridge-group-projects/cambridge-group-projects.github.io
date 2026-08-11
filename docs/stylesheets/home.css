@@ -64,6 +64,7 @@ body:has(.cgp-hero) .md-icon { color: #fff; }
 body:has(.cgp-hero) .md-main { display: none; }
 body:has(.cgp-hero) .md-sidebar { display: none; }
 body:has(.cgp-hero) .md-footer { display: none; }
+body:has(.cgp-hero) .md-header__button { display: none !important; }
 
 /* One non-scrolling screen: the hero band and the choosers share the height
    below the header, split roughly in half. */
