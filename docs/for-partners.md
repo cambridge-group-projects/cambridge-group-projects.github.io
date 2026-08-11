@@ -19,51 +19,29 @@ Four formal meetings, four documents to read, and a brief to write beforehand.
 The meetings can be in person or virtual, and it is the team's job to schedule
 them with you inside the required week.
 
-<div class="grid cards" markdown>
-
--   :material-pencil: **Write a brief**
-
-    ---
-
+!!! info ":material-pencil: Write a brief"
     Roughly 100–200 words describing a problem worth seven weeks, submitted to the
     organisers before the Michaelmas briefing lecture.
 
--   :material-handshake: **Meet four times**
-
-    ---
-
+!!! info ":material-handshake: Meet four times"
     Weeks 1, 2, 4 and 6 of Lent term. Requirements, then specification sign-off,
     then two progress reviews.
 
--   :material-file-document: **Read before you meet**
-
-    ---
-
+!!! note ":material-file-document: Read before you meet"
     Each meeting is preceded by a PDF, sent at least 24 hours ahead — before noon
     the day before — so you have time to review it.
 
--   :material-lock-open: **Unblock the team**
-
-    ---
-
+!!! warning ":material-lock-open: Unblock the team"
     Data, credentials, API access, documentation or hardware. Access that hasn't
     been approved is a classic week-one risk.
 
--   :material-video: **Watch and vote**
-
-    ---
-
+!!! success ":material-video: Watch and vote"
     Videos go online for staff, clients and students in week 8, and you can vote
     for your favourite projects.
 
--   :material-medal: **Come to the exhibition**
-
-    ---
-
+!!! success ":material-medal: Come to the exhibition"
     A public screening, demonstrations of every project and the awards, on the
     last Wednesday of Lent term.
-
-</div>
 
 ## The dates that involve you
 
