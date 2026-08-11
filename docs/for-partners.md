@@ -137,7 +137,7 @@ between a great experience and a disappointing one.
     The repository is submitted to the examiners via Moodle. Ownership of
     copyright in the source code and any other intellectual property is something
     to discuss and agree with the team — the organisers can advise if asked. See
-    [Intellectual Property](Intellectual_property).
+    [Intellectual Property](Intellectual_property.html).
 
 ## Interested in proposing a project?
 
@@ -145,12 +145,12 @@ All communication regarding the group projects should be addressed to the group
 project email address, so it reaches the whole organising team:
 [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk).
 
-See also **[what your team is being asked to do](for-teams)** — the project team
+See also **[what your team is being asked to do](for-teams.html)** — the project team
 guide, with every phase, deadline and deliverable they owe you.
 
 **Official pages:**
 [Group projects home](https://www.cst.cam.ac.uk/teaching/part-ib/group-projects)
 ·
-[What makes a good project?](What_makes_a_good_project)
+[What makes a good project?](What_makes_a_good_project.html)
 ·
-[Logistics for clients](Logistics_for_Clients)
+[Logistics for clients](Logistics_for_Clients.html)
