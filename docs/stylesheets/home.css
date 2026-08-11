@@ -24,6 +24,9 @@ body:has(.cgp-hero) .md-search__button {
   border-radius: 0.2rem;
   color: #fff !important;
 }
+body:has(.cgp-hero) .md-search__button::before {
+  background-color: #fff !important;
+}
 body:has(.cgp-hero) .md-search__button::after {
   background-color: #1a1a1a !important;
   color: #fff !important;
