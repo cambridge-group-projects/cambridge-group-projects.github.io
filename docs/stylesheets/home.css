@@ -34,8 +34,12 @@ body:has(.cgp-hero) .md-search__input::placeholder { color: #fff; }
 body:has(.cgp-hero) .md-search * {
   color: #fff !important;
 }
-body:has(.cgp-hero) label.md-header__button svg {
-  filter: brightness(0) invert(1) !important;
+body:has(.cgp-hero) label[for="__search"] svg {
+  stroke: #ffffff !important;
+  color: #ffffff !important;
+}
+body:has(.cgp-hero) label[for="__search"] {
+  color: #ffffff !important;
 }
 body:has(.cgp-hero) .md-search__icon {
   background-color: #1a1a1a;
