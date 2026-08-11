@@ -9,6 +9,8 @@
 site_name = "Cambridge - CS Group Projects"
 site_description = "A guide for student project teams and industry partners in the Cambridge Part IB group design projects."
 site_url = "https://group-projects.cst.cam.ac.uk/"
+repo_url = "https://github.com/cambridge-group-projects/cambridge-group-projects.github.io"
+edit_uri = "edit/main/docs/"
 
 copyright = """
 Copyright &copy; 2026 University of Cambridge
