@@ -1,0 +1,428 @@
+/* Landing page styles. Everything here is scoped to `.cgp-*` (or guarded by
+   `body:has(.cgp-hero)`), so including this file globally has no effect on the
+   ordinary content pages. */
+
+/* ---------------------------------------------------------------------------
+   Full-height landing layout
+
+   The landing is a single screen: a full-viewport hero with two panels and
+   nothing else. The page body is empty, so we hide the tabs, the sidebars and
+   the (empty) main column, leaving just the header and the hero.
+   --------------------------------------------------------------------------- */
+
+body:has(.cgp-hero) { overflow: hidden; } /* the landing is exactly one screen */
+body:has(.cgp-hero) .md-main { display: none; }
+body:has(.cgp-hero) .md-sidebar { display: none; }
+body:has(.cgp-hero) .md-footer { display: none; }
+
+/* One non-scrolling screen: the hero band and the choosers share the height
+   below the header, split roughly in half. */
+.cgp-land {
+  display: flex;
+  flex-direction: column;
+  height: calc(100svh - 2.4rem); /* 2.4rem = header height */
+  overflow: hidden;
+}
+
+/* ---------------------------------------------------------------------------
+   Hero
+   --------------------------------------------------------------------------- */
+
+.cgp-hero {
+  background-color: #0b1a1f;
+  display: flex;
+  flex: 1 1 50%; /* top half of the landing */
+  flex-direction: column;
+  justify-content: center;
+  min-height: 0;
+  overflow: hidden;
+  padding: 1.6rem 0;
+  position: relative;
+}
+
+/* Drifting colour fields in the brand teal and Cambridge red, plus a faint
+   grid, shown until the video paints over them. */
+.cgp-hero__canvas {
+  background:
+    radial-gradient(42rem 28rem at 12% 18%, #00bdb659, #0000 60%),
+    radial-gradient(38rem 26rem at 78% 8%,  #dd302540, #0000 62%),
+    radial-gradient(46rem 30rem at 62% 92%, #1e5f9e4d, #0000 60%),
+    linear-gradient(180deg, #0d2027, #0b1216);
+  inset: 0;
+  position: absolute;
+}
+
+.cgp-hero__canvas::before {
+  background-image:
+    linear-gradient(#ffffff0f 0.05rem, #0000 0.05rem),
+    linear-gradient(90deg, #ffffff0f 0.05rem, #0000 0.05rem);
+  background-size: 2.5rem 2.5rem;
+  content: "";
+  inset: 0;
+  mask-image: radial-gradient(60% 60% at 50% 40%, #000, #0000);
+  position: absolute;
+}
+
+/* Slow parallax drift; disabled for users who ask for reduced motion below. */
+.cgp-hero__canvas::after {
+  animation: cgp-drift 24s ease-in-out infinite alternate;
+  background:
+    radial-gradient(24rem 18rem at 30% 70%, #00bdb64d, #0000 65%),
+    radial-gradient(20rem 16rem at 70% 30%, #dd302533, #0000 65%);
+  content: "";
+  inset: -10%;
+  position: absolute;
+}
+
+@keyframes cgp-drift {
+  from { transform: translate3d(-3%, 2%, 0) scale(1); }
+  to   { transform: translate3d(3%, -2%, 0) scale(1.12); }
+}
+
+.cgp-hero__poster {
+  background: url("../assets/hero-2026-foxtrot.jpg") 50% 40% / cover no-repeat;
+  inset: 0;
+  position: absolute;
+}
+
+/* Background video. The player is sized to cover the hero box — container
+   query units give an exact 16:9 crop of whichever dimension is short. */
+.cgp-hero__media {
+  container-type: size;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+}
+
+.cgp-hero__media iframe {
+  border: 0;
+  height: 100%;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+@supports (width: 1cqw) {
+  .cgp-hero__media iframe {
+    height: max(56.25cqw, 100cqh);
+    width: max(100cqw, 177.78cqh);
+  }
+}
+
+/* Darkens the video enough for the copy and the glass panels to read over it. */
+.cgp-hero__scrim {
+  background:
+    linear-gradient(180deg, #061a1fcc 0%, #061a1f99 40%, #061a1fcc 100%),
+    radial-gradient(120% 90% at 50% 40%, #0000 0%, #061a1fbf 100%);
+  inset: 0;
+  position: absolute;
+}
+
+.cgp-hero__inner {
+  min-width: 0; /* let the flex item shrink below its content's min width */
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+/* ---- Headline block ---- */
+
+.cgp-hero__head {
+  margin: 0 0 1.4rem;
+  max-width: 52rem;
+  padding: 0 1rem;
+  text-align: left;
+}
+
+.cgp-hero__kicker {
+  color: #7fe3de;
+  display: inline-block;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  margin-bottom: 0.8rem;
+  text-transform: uppercase;
+}
+
+.md-typeset .cgp-hero__head h1 {
+  color: #fff;
+  font-size: clamp(1.6rem, 4.2vw, 2.6rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 1.14;
+  margin: 0 0 0.7rem;
+  text-shadow: 0 0 0.9rem #000a;
+}
+
+.md-typeset .cgp-hero__lead {
+  color: #ffffffe6;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin: 0;
+  max-width: 40rem;
+  text-shadow: 0 0 0.5rem #0009;
+}
+
+/* ---- The two ways in, below the hero band ---- */
+
+.cgp-below {
+  align-items: center;
+  background: var(--md-default-bg-color);
+  display: flex;
+  flex: 1 1 50%; /* bottom half; choosers centred within it */
+  min-height: 0;
+  overflow: hidden;
+  padding: 1.4rem 0;
+}
+
+.cgp-below .cgp-chooser { width: 100%; }
+
+.cgp-chooser {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+  max-width: 58rem;
+  padding: 0 1rem;
+}
+
+.cgp-chooser > * { min-width: 0; }
+
+/* Solid gradient cards — self-contained colour, so they read the same in light
+   and dark mode. Teal for the student side, Cambridge blue for the client side. */
+.cgp-panel {
+  --cgp-accent: #0c5963;
+  background: linear-gradient(155deg, #14727f 0%, #0c5963 55%, #003a41 100%);
+  border-radius: 0.5rem;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 1.7rem 1.7rem 1.5rem;
+  position: relative;
+  text-decoration: none;
+  transition: box-shadow 0.35s;
+}
+
+.cgp-panel--partners {
+  --cgp-accent: #003e74;
+  background: linear-gradient(155deg, #0072cf 0%, #005ba6 55%, #003e74 100%);
+}
+
+/* A soft highlight that appears on hover. */
+.cgp-panel::after {
+  background: radial-gradient(circle at 50% 0%, #ffffff2b, #0000 60%);
+  content: "";
+  inset: 0;
+  opacity: 0;
+  position: absolute;
+  transition: opacity 0.4s;
+}
+
+.cgp-panel:hover,
+.cgp-panel:focus-visible {
+  box-shadow: 0 1.6rem 3.2rem -1.4rem #0009;
+}
+
+.cgp-panel:hover::after,
+.cgp-panel:focus-visible::after { opacity: 1; }
+
+/* Keep the panel's contents above the hover highlight. */
+.cgp-panel > * { position: relative; z-index: 1; }
+
+/* The whole card is a link; suppress the theme's link underline throughout. */
+.md-typeset .cgp-panel,
+.md-typeset .cgp-panel:hover { text-decoration: none; }
+
+.cgp-panel__icon {
+  align-items: center;
+  background: #ffffff1f;
+  border: 0.05rem solid #ffffff40;
+  border-radius: 0.4rem;
+  color: #fff;
+  display: flex;
+  height: 2.9rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+  transition: transform 0.35s, background 0.35s;
+  width: 2.9rem;
+}
+
+.cgp-panel__icon svg { height: 1.4rem; width: 1.4rem; }
+
+.cgp-panel:hover .cgp-panel__icon,
+.cgp-panel:focus-visible .cgp-panel__icon {
+  background: #ffffff33;
+  transform: scale(1.06) rotate(-4deg);
+}
+
+.cgp-panel__eyebrow {
+  color: #ffffffb3;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.md-typeset .cgp-panel h2 {
+  color: #fff;
+  font-size: clamp(1.3rem, 2.6vw, 1.7rem);
+  letter-spacing: -0.02em;
+  margin: 0.3rem 0 0.6rem;
+}
+
+.md-typeset .cgp-panel > p {
+  color: #ffffffd9;
+  font-size: 0.8rem;
+  line-height: 1.55;
+  margin: 0 0 1rem;
+}
+
+.md-typeset .cgp-panel ul {
+  display: grid;
+  gap: 0.4rem;
+  list-style: none;
+  margin: 0 0 1.3rem;
+  padding: 0;
+}
+
+.md-typeset .cgp-panel li {
+  align-items: flex-start;
+  color: #ffffffd9;
+  display: flex;
+  font-size: 0.76rem;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.cgp-panel li svg {
+  color: #fff;
+  flex-shrink: 0;
+  height: 0.9rem;
+  margin-top: 0.12rem;
+  opacity: 0.85;
+  width: 0.9rem;
+}
+
+/* Push the CTA to the bottom so both panels align regardless of body length. */
+.cgp-panel__go {
+  align-items: center;
+  background: #fff;
+  border-radius: 0.2rem;
+  color: var(--cgp-accent);
+  display: inline-flex;
+  font-size: 0.78rem;
+  font-weight: 700;
+  gap: 0.4rem;
+  margin-top: auto;
+  padding: 0.55rem 1rem;
+  transition: gap 0.3s;
+  width: fit-content;
+}
+
+.cgp-panel__go svg { height: 0.9rem; width: 0.9rem; }
+
+.cgp-panel:hover .cgp-panel__go,
+.cgp-panel:focus-visible .cgp-panel__go { gap: 0.7rem; }
+
+/* ---- Playlist button + video credit ---- */
+
+.md-typeset .cgp-hero__credit {
+  align-items: center;
+  color: #ffffff8c;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 0.58rem;
+  gap: 0.5rem 0.9rem;
+  line-height: 1.5;
+  margin: 1.5rem 0 0;
+  max-width: 52rem;
+  padding: 0 1rem;
+  text-align: left;
+  text-shadow: 0 0 0.4rem #000000b3;
+}
+
+/* The call-to-action: a glass button with a YouTube-red play glyph. */
+.md-typeset a.cgp-playlist {
+  align-items: center;
+  backdrop-filter: blur(4px);
+  background: #ffffff1f;
+  border: 0.05rem solid #ffffff40;
+  border-radius: 2rem;
+  color: #fff;
+  display: inline-flex;
+  font-size: 0.72rem;
+  font-weight: 700;
+  gap: 0.45rem;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  transition: background 0.25s, border-color 0.25s;
+}
+
+.md-typeset a.cgp-playlist:hover,
+.md-typeset a.cgp-playlist:focus {
+  background: #ffffff2e;
+  border-color: #fff;
+  color: #fff;
+}
+
+.cgp-playlist svg {
+  color: #ff0033;
+  height: 1rem;
+  width: 1rem;
+}
+
+/* Pinned to the hero's lower-right corner. */
+.md-typeset .cgp-hero__nowplaying {
+  bottom: 0.7rem;
+  color: #ffffff8c;
+  font-size: 0.56rem;
+  margin: 0;
+  position: absolute;
+  right: 1rem;
+  text-align: right;
+  text-shadow: 0 0 0.4rem #000000b3;
+  z-index: 2;
+}
+
+.md-typeset .cgp-hero__nowplaying a {
+  color: #cfeeeb;
+  text-decoration: underline;
+  text-decoration-color: #ffffff40;
+  text-underline-offset: 0.15em;
+}
+
+.md-typeset .cgp-hero__nowplaying a:hover,
+.md-typeset .cgp-hero__nowplaying a:focus { text-decoration-color: currentcolor; }
+
+/* ---------------------------------------------------------------------------
+   Responsive + motion
+   --------------------------------------------------------------------------- */
+
+@media screen and (max-width: 44.9375em) {
+  .cgp-hero__break { display: none; }
+  .cgp-chooser { grid-template-columns: 1fr; gap: 0.9rem; max-width: 28rem; }
+
+  /* Two stacked cards plus the hero cannot honestly share one phone screen, so
+     the landing scrolls here instead of being force-fit. */
+  body:has(.cgp-hero) { overflow: auto; }
+  body:has(.cgp-hero) .md-footer { display: block; }
+  .cgp-land { height: auto; overflow: visible; }
+  .cgp-hero { flex: none; min-height: 42svh; }
+  .cgp-below { flex: none; padding: 1.8rem 0 2.4rem; }
+
+  /* A portrait crop of a 16:9 video shows almost nothing, and the download is
+     not worth it on mobile data — the still frame carries the hero instead. */
+  .cgp-hero__media { display: none; }
+}
+
+/* Motion is the whole point of the video, so drop it entirely and fall back to
+   the still frame for readers who ask for less of it. */
+@media (prefers-reduced-motion: reduce) {
+  .cgp-hero__canvas::after { animation: none; }
+  .cgp-hero__media { display: none; }
+  .cgp-panel { transition: none; }
+}
