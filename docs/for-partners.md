@@ -141,7 +141,34 @@ between a great experience and a disappointing one.
     The repository is submitted to the examiners via Moodle. Ownership of
     copyright in the source code and any other intellectual property is something
     to discuss and agree with the team — the organisers can advise if asked. See
-    [Intellectual Property](Intellectual_property.html).
+    [Intellectual Property](Intellectual_property.md).
+
+## Read on
+
+<div class="grid cards" markdown>
+
+-   :material-check-circle: **[Your Commitments](partner-commitments.md)**
+
+    ---
+
+    The eighteen things the course asks of a client, stage by stage — plus how the
+    four meetings are scheduled and what happens if one can't go ahead.
+
+-   :material-scale-balance: **[What to Expect](partner-expectations.md)**
+
+    ---
+
+    The five documents and the demonstration you receive, what seven weeks of
+    student effort realistically buys, and where the code and IP end up.
+
+-   :material-pencil: **[Writing a Brief](partner-brief.md)**
+
+    ---
+
+    What the published briefs have in common, four things worth doing, the pitfalls
+    that make a brief hard to work with, and how to send yours in.
+
+</div>
 
 ## Interested in proposing a project?
 
@@ -149,12 +176,12 @@ All communication regarding the group projects should be addressed to the group
 project email address, so it reaches the whole organising team:
 [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk).
 
-See also **[what your team is being asked to do](for-teams.html)** — the project team
+See also **[what your team is being asked to do](for-teams.md)** — the project team
 guide, with every phase, deadline and deliverable they owe you.
 
 **Official pages:**
 [Group projects home](https://www.cst.cam.ac.uk/teaching/part-ib/group-projects)
 ·
-[What makes a good project?](What_makes_a_good_project.html)
+[What makes a good project?](What_makes_a_good_project.md)
 ·
-[Logistics for clients](Logistics_for_Clients.html)
+[Logistics for clients](Logistics_for_Clients.md)
