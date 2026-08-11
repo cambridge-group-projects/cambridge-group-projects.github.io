@@ -23,15 +23,23 @@ body:has(.cgp-hero) .md-search__input {
   background-color: #333;
   border-radius: 0.2rem;
   color: #fff !important;
+  caret-color: #fff;
 }
 body:has(.cgp-hero) .md-search__input::placeholder { color: #fff; }
 body:has(.cgp-hero) .md-search * {
   color: #fff !important;
 }
-body:has(.cgp-hero) .md-search svg,
-body:has(.cgp-hero) .md-search svg * {
+body:has(.cgp-hero) .md-search__icon * {
   stroke: #fff !important;
-  fill: #fff !important;
+  fill: none !important;
+  color: #fff !important;
+}
+body:has(.cgp-hero) .md-search svg {
+  stroke: #fff !important;
+  color: #fff !important;
+}
+body:has(.cgp-hero) svg[class*="search"] {
+  stroke: #fff !important;
   color: #fff !important;
 }
 body:has(.cgp-hero) .md-icon { color: #fff; }

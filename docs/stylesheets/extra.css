@@ -18,22 +18,64 @@
   --md-hue: 225deg;
 }
 
-/* Project video embedded alongside a design brief (see e.g. 2026_list.md).
+/* Poster still linking to a project video (see e.g. 2026_list.md). A picture
+   rather than an embedded player: nothing is loaded from YouTube until click.
    Full width on narrow screens, floated beside the brief text on wide ones. */
-.md-typeset .brief-video {
+.md-typeset a.brief-video {
+  display: block;
+  position: relative;
   margin: 0 0 1rem;
-  aspect-ratio: 16 / 9;
+  border-radius: 0.2rem;
+  overflow: hidden;
+  line-height: 0;
 }
 
-.md-typeset .brief-video iframe {
+.md-typeset a.brief-video img {
   width: 100%;
-  height: 100%;
-  border: 0;
-  border-radius: 0.2rem;
+  height: auto;
+  display: block;
+  transition: transform 250ms;
+}
+
+/* Play badge */
+.md-typeset a.brief-video::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 3.4rem;
+  height: 2.4rem;
+  transform: translate(-50%, -50%);
+  border-radius: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23fff' d='M8 5v14l11-7z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1.5rem;
+  transition: background-color 250ms;
+}
+
+.md-typeset a.brief-video:hover::after,
+.md-typeset a.brief-video:focus::after {
+  background-color: var(--md-accent-fg-color);
+}
+
+.md-typeset a.brief-video:hover img {
+  transform: scale(1.03);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset a.brief-video img,
+  .md-typeset a.brief-video::after {
+    transition: none;
+  }
+  .md-typeset a.brief-video:hover img {
+    transform: none;
+  }
 }
 
 @media screen and (min-width: 60em) {
-  .md-typeset .brief-video {
+  .md-typeset a.brief-video {
     float: right;
     width: 22rem;
     max-width: 45%;
