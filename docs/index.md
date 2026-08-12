@@ -174,8 +174,6 @@ Final [2025 list](2025_list)
 
 - [MathWorks](MathWorks)
 
-<!-- -->
-
 - [Boeing](Boeing)
 - [TechWolf](TechWolf)
 - [DX Analytics](DX_Analytics)

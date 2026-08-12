@@ -128,8 +128,6 @@ creation based on new locations and influences.
 - [Listening to a million
   voices](Listening_to_a_million_voices)
 
-<!-- -->
-
 - [Dynamic Narrative](Dynamic_Narrative)
 
 ## Further proposals
