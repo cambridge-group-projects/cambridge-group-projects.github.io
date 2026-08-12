@@ -198,24 +198,24 @@ Final [2025 list](2025_list)
 ## Potential clients that did not proceed, but could be considered in future
 
 - 2022: [Autodesk](Autodesk)
-- 2021: [FetoLife](FetoLife), [Oodle](Oodle "wikilink"), [NHS
+- 2021: [FetoLife](FetoLife), [Oodle](Oodle), [NHS
   Digital](NHS_Digital), [Jump
   Trading](Jump_Trading), [Microsoft Africa Research
   Institute](Microsoft_Africa_Research_Institute)
 - 2020: [Argon Design](Argon_Design),
-  [Gearset](Gearset), [Thales](Thales "wikilink"), [Sainsbury
+  [Gearset](Gearset), [Thales](Thales), [Sainsbury
   Laboratory](Sainsbury_Laboratory)
 - 2019: [Smart Cambridge](Smart_Cambridge),
   [Mindi](Mindi), [Fauna and Flora
   International](Fauna_and_Flora_International),
-  [Fusepump](Fusepump), [Investre](Investre "wikilink"),
+  [Fusepump](Fusepump), [Investre](Investre),
 - 2018: [Sparx](Sparx), [Cambridge
   Consultants](Cambridge_Consultants),
   [Capita](Capita), [Nominet
   Trust](Nominet_Trust), [University Information
   Services](University_Information_Services), [Sport
   England](Sport_England)
-- 2017: [BT](BT), [Palantir](Palantir "wikilink"), [Elm
+- 2017: [BT](BT), [Palantir](Palantir), [Elm
   Partners](Elm_Partners), [Lucid /
   Cycorp](Lucid_/_Cycorp), [Microsoft
   Research](Microsoft_Research)
@@ -225,10 +225,10 @@ Final [2025 list](2025_list)
 - 2015: [Thales](Thales), [Steve
   Wade](Steve_Wade), [Cambridge Humanitarian
   Centre](Cambridge_Humanitarian_Centre)
-- 2014: [Broadcom](Broadcom), [last.fm](last.fm "wikilink"),
+- 2014: [Broadcom](Broadcom), [last.fm](last.fm),
   [Rangespan](Rangespan), [John
-  McMillan](John_McMillan), [Atheon](Atheon "wikilink"),
-  [OpenMarket](OpenMarket), [Google](Google "wikilink"),
+  McMillan](John_McMillan), [Atheon](Atheon),
+  [OpenMarket](OpenMarket), [Google](Google),
   [Repindex](Repindex)
 - 2013: [Neul.com](Neul.com), [Steve Smith, CU Management
   Information Systems

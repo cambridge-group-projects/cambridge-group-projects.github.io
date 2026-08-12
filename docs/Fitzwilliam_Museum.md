@@ -66,7 +66,7 @@ Museums](Cambridge_Museums)):
 
 - [Next-Generation Museum
   Guide](Next-Generation_Museum_Guide) - in
-  [2008](2008) and [2006](2006 "wikilink")
+  [2008](2008) and [2006](2006)
 
 <!-- -->
 
