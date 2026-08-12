@@ -1,4 +1,3 @@
- 
 Client: Richard Watts <richard@bigpayme.com>
 
 Proposed projects for 2022:

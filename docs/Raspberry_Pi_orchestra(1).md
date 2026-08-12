@@ -1,4 +1,3 @@
- 
 The Raspberry Pi is an ideal platform for kids to learn more about
 computing with sound and video by working in social groups. Create a
 system that will allow a number of people in the same or different

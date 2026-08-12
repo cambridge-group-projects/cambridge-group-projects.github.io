@@ -1,4 +1,3 @@
- 
 Client: Lorraine Charles, Na'amal <lorraine@naamal.org>
 
 Na’amal provides refugees and other underrepresented communities

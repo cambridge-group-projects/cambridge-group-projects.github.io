@@ -1,4 +1,3 @@
- 
 Client: Dominic Nancekievill, [G-Research](G-Research)
 <Dominic.Nancekievill@gresearch.co.uk>
 

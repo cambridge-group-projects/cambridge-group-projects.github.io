@@ -1,4 +1,3 @@
- 
 Clients:
 
 - Emma Gordon <Emma.Gordon@metaswitch.com>

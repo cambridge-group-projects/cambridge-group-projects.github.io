@@ -1,4 +1,3 @@
- 
 Client: Tetiana Bersheda <tetiana@lexsnap.com>
 
 Perhaps: [LawBot](LawBot)

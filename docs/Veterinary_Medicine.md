@@ -1,4 +1,3 @@
- 
 Potential client: Heidi Radke <hr264@cam.ac.uk>
 
 Like humans, dogs often suffer from injuries and problems in their

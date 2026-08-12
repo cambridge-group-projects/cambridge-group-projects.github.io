@@ -1,4 +1,3 @@
- 
 Client: Nigel Day, ENEA <Nigel.Day@enea.com>
 
 Most central Cambridge junctions snarl up at critical moments between

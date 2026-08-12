@@ -1,4 +1,3 @@
- 
 "David Rubin (Lo) (BLOOMBERG/ LONDON)" <drubin19@bloomberg.net>
 
 Finalised as

@@ -1,4 +1,3 @@
- 
 We could have two Oculus Rift headsets, so the goal of this project
 would be to find an application for two users in a shared world.
 

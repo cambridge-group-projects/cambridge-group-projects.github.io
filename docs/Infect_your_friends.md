@@ -1,4 +1,3 @@
- 
 Educational project suggestion on Raspberry Pi from Cecily Morrison
 <cpm38@cam.ac.uk>
 

@@ -1,4 +1,3 @@
- 
 For 2019, see [Fitzwilliam Museum](Fitzwilliam_Museum)
 
 Previous client: Ina Pruegel <ip331@cam.ac.uk> (now left Cambridge)

@@ -1,4 +1,3 @@
- 
 In the future, we’ll all have barcodes tattooed on our foreheads, but
 until then, it would be very helpful if Google Glass could recognise
 your friends (or enemies) by some kind of visual code that doesn’t look

@@ -1,4 +1,3 @@
- 
 Client: Steven Johnston, Microsoft Research <v-stejo@microsoft.com>
 
 The aim of this project is to produce a highly accurate map of the

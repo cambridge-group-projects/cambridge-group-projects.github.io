@@ -1,4 +1,3 @@
- 
 Contact: "Dong Fang (BLOOMBERG/ LONDON)" <dfang14@bloomberg.net>
 
 ### Project suggestions for 2016

@@ -1,4 +1,3 @@
- 
 [Bohemia Interactive
 Simulations](Bohemia_Interactive_Simulations)
 

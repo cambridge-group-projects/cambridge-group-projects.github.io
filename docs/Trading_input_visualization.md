@@ -1,4 +1,3 @@
- 
 # Replaced by [Virtual Reality Trading Desk](Virtual_Reality_Trading_Desk)
 
 Client: Taylan Toygarlar, [IMC

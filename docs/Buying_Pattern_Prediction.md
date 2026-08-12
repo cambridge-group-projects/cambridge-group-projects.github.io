@@ -1,4 +1,3 @@
- 
 Client:Wing Yung Chan, The Hut Group <wingyungchan@gmail.com>
 
 Online retailers face the interesting challenge of trying to understand

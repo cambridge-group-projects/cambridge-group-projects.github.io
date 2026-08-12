@@ -1,4 +1,3 @@
- 
 Harry.Collard@thehutgroup.com
 
 [Retail Startup Automator](Retail_Startup_Automator)

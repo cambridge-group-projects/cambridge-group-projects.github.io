@@ -1,4 +1,3 @@
- 
 Introduction to come from Ross Anderson
 
 Here's an idea. I was at the Europarl yesterday and a green MEP said it

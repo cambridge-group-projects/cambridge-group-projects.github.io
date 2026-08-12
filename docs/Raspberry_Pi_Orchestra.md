@@ -1,4 +1,3 @@
- 
 The Raspberry Pi is cheap enough that it could be used instead of
 instruments in a school orchestra. Each one needs a small speaker, but
 not necessarily a screen - either a mouse or keyboard can control sound

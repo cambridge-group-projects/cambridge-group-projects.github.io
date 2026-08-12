@@ -1,4 +1,3 @@
- 
 Client: Luke Morgan, IBM <MORGANLU@uk.ibm.com>
 
 Few children (or even adults) really understand what makes a password

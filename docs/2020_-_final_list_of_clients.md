@@ -1,4 +1,3 @@
- 
 ### Confirmed clients for 2020
 
 - [Frontier](Frontier)

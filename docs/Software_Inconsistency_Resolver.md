@@ -1,4 +1,3 @@
- 
 Proposed by Jasmin Jahić <jj542@cam.ac.uk>, to be discussed with Chris
 Cooper-Bland of Endava for 2026
 

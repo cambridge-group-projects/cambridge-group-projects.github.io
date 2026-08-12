@@ -1,4 +1,3 @@
- 
 Developed with [Microsoft](Microsoft) - contact
 Matthew.Smith@Microsoft.com
 

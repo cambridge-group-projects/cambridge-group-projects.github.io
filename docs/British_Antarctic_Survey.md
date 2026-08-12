@@ -1,4 +1,3 @@
- 
 Contact: Beatrix Schlarb-Ridley <beatrix@bas.ac.uk>
 
 2019 project: [Groundwater App](Groundwater_App)

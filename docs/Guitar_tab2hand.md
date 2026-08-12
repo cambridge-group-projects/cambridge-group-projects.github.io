@@ -1,4 +1,3 @@
- 
 Guitar tabs are a simple and popular alternative to music notation for
 guitar students, as well as guitarists and bassists in cover bands. The
 tab tells you where each string needs to be held, but not how to get

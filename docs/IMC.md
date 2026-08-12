@@ -1,4 +1,3 @@
- 
 Contact: Dorine van der Schalk <dorine.vanderschalk@imc.com> IMC
 Careers Europe <CareersEurope@imc.com>
 

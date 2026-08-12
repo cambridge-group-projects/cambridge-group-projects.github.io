@@ -1,4 +1,3 @@
- 
 Most of these were eventually not offered because we could not find an
 interested client. Many of them are either fun or feasible, and we're
 happy to consider using them in future.

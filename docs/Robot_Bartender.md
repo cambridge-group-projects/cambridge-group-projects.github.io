@@ -1,4 +1,3 @@
- 
 Proposed by Raoul-Gabriel Urma <rgu20@cam.ac.uk>
 
 I have a fun proposal that would combine raspberry pie, robotics &

@@ -1,4 +1,3 @@
- 
 Contact: 'Vicky Smith' <vicky.smith@stridedesign.com>
 
 Initial contact: Andrew Nairne <acn36@cam.ac.uk>

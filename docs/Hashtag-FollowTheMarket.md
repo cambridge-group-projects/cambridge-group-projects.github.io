@@ -1,4 +1,3 @@
- 
 Client: David Rubin, Bloomberg <drubin19@bloomberg.net>
 
 Sentiment analysis of social media is now fairly routine, but it's still

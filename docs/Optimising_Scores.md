@@ -1,4 +1,3 @@
- 
 Client: Arild Stenberg, Music Faculty
 
 The LaTeX typesetting system can be used to render many alternative

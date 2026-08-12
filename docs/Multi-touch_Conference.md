@@ -1,4 +1,3 @@
- 
 Client: Catherine White, [BT](BT) <catherine.white@bt.com>
 
 Rather than flying all over the world to attend meetings and

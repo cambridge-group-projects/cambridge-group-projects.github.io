@@ -1,4 +1,3 @@
- 
 Client: Philip Wilson, The Hut Group <Philip.wilson@thehutgroup.com>
 
 There are many online shopping sites where users become frustrated -

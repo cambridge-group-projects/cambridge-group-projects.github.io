@@ -1,4 +1,3 @@
- 
 Client:David Kynaston <E.Kynaston@btinternet.com>
 
 Young people with learning disabilities such as Down's Syndrome, ADHD or

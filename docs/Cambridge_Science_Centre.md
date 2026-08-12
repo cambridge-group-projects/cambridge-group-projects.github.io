@@ -1,4 +1,3 @@
- 
 Contact: Chris Lennard <chris@cambridgesciencecentre.org>
 
 Project proceeding this year will be: [Science exhibit interaction

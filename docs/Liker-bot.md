@@ -1,4 +1,3 @@
- 
 Modern teenagers have to spend hours every day pressing like buttons on
 Facebook and Instagram. Your task is to automate this drudge-work. Of
 course, these companies really want to trap eyeballs, so they won't make

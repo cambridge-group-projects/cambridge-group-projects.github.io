@@ -1,4 +1,3 @@
- 
 Chris Sandbrook <cgsandbrook@gmail.com> aims to make an introduction
 to someone from [British Trust for
 Ornithology](British_Trust_for_Ornithology)

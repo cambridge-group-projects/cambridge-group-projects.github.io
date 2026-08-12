@@ -1,4 +1,3 @@
- 
 In the past, we've had some projects that used data from the Talks.cam
 API. Perhaps we could do something that identified current research
 grants from CUFS, correlated them with research subjects at seminars

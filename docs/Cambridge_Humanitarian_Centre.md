@@ -1,4 +1,3 @@
- 
 Suggestions from Jennifer Wright
 <jennifer.wright@humanitariancentre.org>. but she will be leaving at
 end July. Use info@humanitariancentre.org for followup

@@ -1,4 +1,3 @@
- 
 Contact: Beth Gorman <bgorman@janestreet.com>
 
 Contact in summer 2022 to confirm

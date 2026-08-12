@@ -1,4 +1,3 @@
- 
 Proposed by Denes Szucs, Faculty of Education <ds377@cam.ac.uk>
 
 This will involve some kind of interactive mathematics exploration.

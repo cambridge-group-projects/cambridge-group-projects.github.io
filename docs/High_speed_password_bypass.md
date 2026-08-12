@@ -1,4 +1,3 @@
- 
 Many companies ask users to create a unique user account and password
 for systems whose security the user couldn't care less about. Sometimes
 it can be faster to just click "forgot my password", and use the emailed

@@ -1,4 +1,3 @@
- 
 Have concluded that it is too far to come to Cambridge for 3 meetings.
 
 Last contacts with Glenn Woodcock <glenn@sparx.co.uk> and Tanya Morton

@@ -1,4 +1,3 @@
- 
 Contact: Emma Salgard Cunha <Emma.SalgardCunha@enterprise.cam.ac.uk>
 
 Emma is based at Cambridge Enterprise, responsible for commercialisation

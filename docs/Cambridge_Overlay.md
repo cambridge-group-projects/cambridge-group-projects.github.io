@@ -1,4 +1,3 @@
- 
 The Cambridge University Map supports a sophisticated annotation API,
 based on GeoJSON. The resulting map functionality can be neatly embedded
 in a page using an iframe.

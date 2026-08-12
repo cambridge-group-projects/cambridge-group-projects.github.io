@@ -1,4 +1,3 @@
- 
 Maker and hacker communities like the hundreds of thousands of Raspberry
 Pi users need illustrated tools to explain tricky techniques or give
 introductory tutorials. Those tools can also be used to tell mashed-up

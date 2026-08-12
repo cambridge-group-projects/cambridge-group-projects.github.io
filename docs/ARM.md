@@ -1,4 +1,3 @@
- 
 ## 2026
 
 Tobias has been in contact with Hrutvik Kanabar

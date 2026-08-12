@@ -1,4 +1,3 @@
- 
 - [Laser cutting round boxes from square
   sheets](Laser_cutting_round_boxes_from_square_sheets)
 

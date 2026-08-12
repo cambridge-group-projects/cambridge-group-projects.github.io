@@ -1,4 +1,3 @@
- 
 contact "HAJ-NAJAFI, Arran (NHS DIGITAL)" <a.haj-najafi@nhs.net>
 
 Too late for 2019, but possible for 2020:

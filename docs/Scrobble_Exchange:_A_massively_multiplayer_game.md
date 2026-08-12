@@ -1,4 +1,3 @@
- 
 Client: Sunil Shah, Last.fm - sunil@last.fm
 
 Scrobble Exchange - A Massively Multiplayer Game

@@ -1,4 +1,3 @@
- 
 Suggestion by Peter Robinson / Simon Moore
 
 Current status: it seems unlikely that the EDSAC reconstruction project

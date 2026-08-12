@@ -1,4 +1,3 @@
- 
 Many people are vaguely aware that their home PC may be part of a
 botnet, but have no idea what this means in practice. The goal of this
 project is to create an educational botnet based on the Raspberry Pi to

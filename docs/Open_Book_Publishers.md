@@ -1,4 +1,3 @@
- 
 Nik Sultana <ns441@cam.ac.uk>
 
 "J.R.J. Gatti" <rupert.gatti@openbookpublishers.com>

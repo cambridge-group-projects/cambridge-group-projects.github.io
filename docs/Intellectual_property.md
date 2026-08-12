@@ -1,5 +1,3 @@
- 
-
 ## Ownership
 
 University of Cambridge policy is effectively that undergraduate

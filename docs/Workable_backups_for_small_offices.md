@@ -1,4 +1,3 @@
- 
 Client: Richard Watts, [Kynesim](Kynesim)
 <rrw@semiramis.org.uk>
 

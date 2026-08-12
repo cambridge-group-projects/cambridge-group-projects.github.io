@@ -1,4 +1,3 @@
- 
 Client: John Bain, Cisco <jbain@cisco.com>
 
 A key consideration in the design of video-conferencing systems is to

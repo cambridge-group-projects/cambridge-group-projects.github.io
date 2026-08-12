@@ -1,4 +1,3 @@
- 
 Many data journalists report information collected from people who are
 Western, Educated, Industrialised, Rich and Democratic, but this "WEIRD"
 demographic does not represent the majority of people in the world.

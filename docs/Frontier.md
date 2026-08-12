@@ -1,4 +1,3 @@
- 
 New Contact for 2025 is Head of Design Laurence Oldham, who plans to
 raise with Oscar Cooper, Senior Director of Development
 

@@ -1,4 +1,3 @@
- 
 Ioana Valea <ioana.valea@slcu.cam.ac.uk>
 
 ### Feedback in discussion

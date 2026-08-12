@@ -1,4 +1,3 @@
- 
 Client: Russell Bender, Potential Difference
 <russellpbender@yahoo.co.uk>
 

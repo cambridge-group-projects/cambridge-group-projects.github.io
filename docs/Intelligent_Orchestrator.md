@@ -1,4 +1,3 @@
- 
 We are increasingly deploying our telephony systems in cloud
 environments as that allows us to increase and decrease capacity
 elastically in a way that has never before been possible. In the past,

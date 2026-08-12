@@ -1,4 +1,3 @@
- 
 GVDD is a project team based at CRASSH
 
 Brief written, waiting to confirm client: [Deliberative Social

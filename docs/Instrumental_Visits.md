@@ -1,4 +1,3 @@
- 
 Ideas:
 
 The Royal College of Music Museum maintains one of the richest

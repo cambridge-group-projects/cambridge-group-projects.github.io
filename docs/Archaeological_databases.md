@@ -1,4 +1,3 @@
- 
 Not originally proposed as a group project, but may be possible - have
 sent an enquiry
 

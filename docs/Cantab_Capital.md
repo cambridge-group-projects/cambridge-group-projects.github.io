@@ -1,4 +1,3 @@
- 
 Client: Ewan Kirk <ewan.kirk@cantabcapital.com>
 
 Financial Battlefield

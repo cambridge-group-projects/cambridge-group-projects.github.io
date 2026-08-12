@@ -1,4 +1,3 @@
- 
 Membership organisation - suggestions would come from individual members
 
 Contact: Ben Hartley <bpih2@cam.ac.uk> (Previously Stewart McTavish)

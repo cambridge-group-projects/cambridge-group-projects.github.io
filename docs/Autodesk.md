@@ -1,4 +1,3 @@
- 
 Current contact was a client at his previous employer: Imdad
 Sardharwalla <imdad.sardharwalla@gmail.com>
 

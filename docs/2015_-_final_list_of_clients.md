@@ -1,4 +1,3 @@
- 
 - [Morgan Stanley](Morgan_Stanley)
 
 - [ARM](ARM)

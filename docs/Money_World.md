@@ -1,4 +1,3 @@
- 
 Client: Ben Azvine, [BT](BT) <ben.azvine@bt.com>
 
 UK voters are quite accustomed to seeing good quality visualisations of

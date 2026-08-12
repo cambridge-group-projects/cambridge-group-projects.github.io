@@ -1,4 +1,3 @@
- 
 Land management on a large scale requires a balance between productivity
 and ecological diversity, but it can be very difficult to integrate
 different data sources for strategic planning. This project will

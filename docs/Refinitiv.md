@@ -1,4 +1,3 @@
- 
 Contact: Oli Bage <oli.bage@refinitiv.com>
 
 I would indeed love to get Refinitiv and the [London Stock Exchange

@@ -1,4 +1,3 @@
- 
 We all want to be warm in winter, but how can we do it without fossil
 fuels? British houses are woefully poor in their level of preparation
 for a zero carbon economy. This project will develop an app to be used

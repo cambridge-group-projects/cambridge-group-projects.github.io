@@ -1,4 +1,3 @@
- 
 The Terra API integrates data from all kinds of wearable devices, in a
 way that is very attractive for sports enthusiasts and health insurance
 companies. Is there any future for people who just want a quiet life,

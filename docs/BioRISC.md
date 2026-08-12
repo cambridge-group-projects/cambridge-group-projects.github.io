@@ -1,4 +1,3 @@
- 
 Based in St Catherine's affiliated with the [Department of
 Zoology](Department_of_Zoology) and [Cambridge Conservation
 Initiative](Cambridge_Conservation_Initiative)

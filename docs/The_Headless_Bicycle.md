@@ -1,4 +1,3 @@
- 
 An unfortunate accident during the 2018 group design projects resulted
 in us blowing up the display head of an exercise bicycle loaned to us by
 a project client/ Your task is to revive it with a virtual reality

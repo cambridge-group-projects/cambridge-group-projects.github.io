@@ -1,4 +1,3 @@
- 
 Contact: Mark Ogilvie <mark.ogilvie@jagex.com>
 
 Considering possibility for 2019

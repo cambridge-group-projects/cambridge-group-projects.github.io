@@ -1,4 +1,3 @@
- 
 Client: Agnia Sergeyuk, Jetbrains <agnia.sergeyuk@jetbrains.com>
 
 In many agile projects, the source code provides the master

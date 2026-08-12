@@ -1,4 +1,3 @@
- 
 Contact: Michael Gifford <m.j.gifford@mountainhare.com>
 
 I am very keen to submit a project for next year and I already have some

@@ -1,4 +1,3 @@
- 
 Contact: Vaiva Kalnikaitė, [Dovetailed](Dovetailed)
 <vaiva@dovetailed.io>
 
