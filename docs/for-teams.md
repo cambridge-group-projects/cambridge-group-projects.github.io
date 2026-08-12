@@ -41,7 +41,7 @@ comes with an external client — and they are deliberately hard.
     ---
 
     The full text of every brief, with its client. See the
-    [2026 design briefs](2026_list/) for the most recent set.
+    [2026 design briefs](2026/) for the most recent set.
 
 -   **Pick your preferences early**
 

@@ -20,7 +20,7 @@ Design briefs are presented, and you record the projects you would most like to
 work on.
 
 - In Michaelmas term, the design briefs are presented to students. Browse the
-  [2026 design briefs](2026_list.md) to see what a set looks like.
+  [2026 design briefs](2026.md) to see what a set looks like.
 - You may express your preferences via the Moodle IB Group Project pages.
 - Some projects are far more popular than others, so there is no guarantee you will
   be assigned to your first preference — or indeed any of your preferences.
