@@ -53,6 +53,4 @@ potential translations into a game setting.
 
 - [CheckMate](CheckMate)
 
-<!-- -->
-
 - [Genomes are fun!](Genomes_are_fun!)

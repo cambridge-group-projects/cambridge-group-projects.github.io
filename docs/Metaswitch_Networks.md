@@ -22,8 +22,6 @@ Confirmed:
 
 - [Extrusion finder](Extrusion_finder)
 
-<!-- -->
-
 - [Culture Glasses](Culture_Glasses)
 
 Others under discussion:

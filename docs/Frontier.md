@@ -258,11 +258,7 @@ from within
 
 - [Rent-A-Mob](Rent-A-Mob)
 
-<!-- -->
-
 - [Set Builder](Set_Builder)
-
-<!-- -->
 
 - [Multi Chat](Multi_Chat)
 

@@ -68,25 +68,15 @@ Museums](Cambridge_Museums)):
   Guide](Next-Generation_Museum_Guide) - in
   [2008](2008) and [2006](2006)
 
-<!-- -->
-
 - [Smart Poster Picker](Smart_Poster_Picker) - in
   [2008](2008)
-
-<!-- -->
 
 - [Pigment Analysis](Pigment_Analysis) with [Hamilton Kerr
   Institute](Hamilton_Kerr_Institute)
 
-<!-- -->
-
 - [History Phone](History_Phone)
 
-<!-- -->
-
 - [Anthropometrics Today](Anthropometrics_Today)
-
-<!-- -->
 
 - [The Poet Laureate's web
   thresholds](The_Poet_Laureate's_web_thresholds)

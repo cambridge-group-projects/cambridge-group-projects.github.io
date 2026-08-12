@@ -1,81 +1,43 @@
  
 - [ARM](ARM)
 
-<!-- -->
-
 - [Informetis](Informetis)
 
-<!-- -->
-
 - [IMC](IMC)
-
-<!-- -->
 
 - [Cambridge Legal Risk
   Analytics](Cambridge_Legal_Risk_Analytics)
 
-<!-- -->
-
 - [Bohemia Interactive
   Simulations](Bohemia_Interactive_Simulations)
 
-<!-- -->
-
 - [British Antarctic Survey](British_Antarctic_Survey)
-
-<!-- -->
 
 - [JPMorgan](JPMorgan)
 
-<!-- -->
-
 - [Morgan Stanley](Morgan_Stanley)
-
-<!-- -->
 
 - [Cambridge University Press](Cambridge_University_Press)
 
-<!-- -->
-
 - [Microsoft](Microsoft)
-
-<!-- -->
 
 - [Altitude Angel](Altitude_Angel)
 
-<!-- -->
-
 - [Frontier](Frontier)
-
-<!-- -->
 
 - [The Hut Group](The_Hut_Group)
 
-<!-- -->
-
 - [Cantab Capital](Cantab_Capital)
-
-<!-- -->
 
 - [IMC](IMC)
 
-<!-- -->
-
 - [Boeing](Boeing)
-
-<!-- -->
 
 - [Cambridge Museums](Cambridge_Museums)
 
-<!-- -->
-
 - [Kynesim](Kynesim)
-
-<!-- -->
 
 - [UNEP World Conservation Monitoring
   Centre](UNEP_World_Conservation_Monitoring_Centre)
-
-<!-- -->
 
 - [Cydar](Cydar)

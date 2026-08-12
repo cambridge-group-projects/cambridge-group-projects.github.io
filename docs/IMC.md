@@ -18,8 +18,6 @@ Confirmed:
 
 - [Aerial Video Selfies](Aerial_Video_Selfies)
 
-<!-- -->
-
 - [Remote Reading](Remote_Reading)
 
 Original suggestions from Ben Catterall <ben.catterall@imc.com>:
@@ -111,8 +109,6 @@ Two projects confirmed:
 
 - [Eyes on the Road](Eyes_on_the_Road)
 
-<!-- -->
-
 - [Eyes in the Sky](Eyes_in_the_Sky)
 
 #### (previous discussion)
@@ -124,8 +120,6 @@ by soft-linking the two projects together:
 - Group 1 would design a project where the output is a driving
   mindstorms car (we are contemplating a project driving a car with VR
   experience - storyline remote driving a car).
-
-<!-- -->
 
 - Group 2 would design a project where the input is a driving mindstorms
   car (we are contemplating a project with a drone following a car with
@@ -522,8 +516,6 @@ think of a Pokemon Go variant that included this aspect?
 
 - [Fly-past Finance](Fly-past_Finance)
 
-<!-- -->
-
 - [Digital Currency for Public
   Good](Digital_Currency_for_Public_Good)
 
@@ -565,7 +557,5 @@ T-Note, GBL, etc.
 
 - [Virtual Reality Trading
   Desk](Virtual_Reality_Trading_Desk)
-
-<!-- -->
 
 - [Algo-Trading Game](Algo-Trading_Game)
