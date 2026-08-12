@@ -1,4 +1,3 @@
- 
 For 2022, we have been asked to contact
 
 Chris Power <chrpw@amazon.co.uk>, who responded after deadline for

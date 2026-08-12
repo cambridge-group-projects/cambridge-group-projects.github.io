@@ -1,4 +1,3 @@
- 
 Nik Sultana <ns441@cam.ac.uk>
 
 "J.R.J. Gatti" <rupert.gatti@openbookpublishers.com>
@@ -44,7 +43,7 @@ and graphically-inclined people can sharpen the UX).
 Perhaps it would be worth trying to start from the other end. Amazon's
 Kindle was an explicit attempt to create a more book-like experience as
 a counter to generic digital web platform. It doesn't seem like you're
-trying to be \*more\* book-like than the Kindle - so for people who like
+trying to be *more* book-like than the Kindle - so for people who like
 books, what will they gain from the trade-off of adding more complexity
 to the Kindle? Is the ability to add annotations a compelling
 proposition for Kindle customers? Who do you see being the market for

@@ -1,4 +1,3 @@
- 
 New Contact for 2025 is Head of Design Laurence Oldham, who plans to
 raise with Oscar Cooper, Senior Director of Development
 
@@ -257,13 +256,7 @@ from within
 ## Projects 2014:
 
 - [Rent-A-Mob](Rent-A-Mob)
-
-<!-- -->
-
 - [Set Builder](Set_Builder)
-
-<!-- -->
-
 - [Multi Chat](Multi_Chat)
 
 ## Projects in 2013:

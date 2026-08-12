@@ -1,4 +1,3 @@
- 
 Client: Matt Johnson, Frontier <mjohnson@frontier.co.uk>
 
 In sandbox games like Minecraft, the only way to define more interesting

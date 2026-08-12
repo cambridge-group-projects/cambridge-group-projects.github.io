@@ -1,4 +1,3 @@
- 
 Cylinder seals, as used by the Babylonians, are beautiful things. They
 are carved with the inverse of a linear design, so that when rolled
 across wet clay they will create a strip relief. But they are hard to

@@ -1,4 +1,3 @@
- 
 Visitors to the [Fitzwilliam Museum](Fitzwilliam_Museum) in
 Cambridge can currently use a handheld eGuide, deployed on PDAs with
 location sensing infrastructure from local company Hypertag. Your task

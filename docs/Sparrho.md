@@ -1,4 +1,3 @@
- 
 Client contact: Vivian Chan <v.chan@cantab.net>
 
 Project idea: [Intelligent Graph

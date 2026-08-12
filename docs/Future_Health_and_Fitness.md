@@ -1,4 +1,3 @@
- 
 The Terra API unlocks health and fitness data from diverse sources,
 including popular wearables and fitness apps like Fitbit, Apple Watch,
 Oura, and 70+ others. Your challenge is to leverage the Terra API to

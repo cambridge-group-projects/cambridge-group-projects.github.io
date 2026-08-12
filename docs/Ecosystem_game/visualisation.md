@@ -1,1 +1,1 @@
-1.  REDIRECT [Ecosystem Game](Ecosystem_Game "wikilink")
+1.  REDIRECT [Ecosystem Game](Ecosystem_Game)

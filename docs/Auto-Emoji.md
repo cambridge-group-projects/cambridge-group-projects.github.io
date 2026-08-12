@@ -1,4 +1,3 @@
- 
 It's useful to include emojis in your messages as a quick indicator of
 emotional state, but why should you have to call up a special keyboard,
 or scroll through many alternatives, when your emotional state could be

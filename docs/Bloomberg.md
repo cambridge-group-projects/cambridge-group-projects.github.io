@@ -1,4 +1,3 @@
- 
 Contact: "Dong Fang (BLOOMBERG/ LONDON)" <dfang14@bloomberg.net>
 
 ### Project suggestions for 2016
@@ -13,7 +12,7 @@ computer program or mobile app, and upload the data via an interactive
 map. This allows other Pebble users to download the data, and receive an
 alarm when they are near the hazard.
 
-1\) Safe way home
+1) Safe way home
 
 Goal: Build a form of detection for crime in the local area. This would
 involve crime alerts with the scope to include GeoTagging, mapping the
@@ -36,7 +35,7 @@ report to other joggers at the end of your run via an interactive map,
 or even a warning application that will run on another pebble to sound
 alarm when approaching hazards.
 
-2\) Scanning and printing of real-life objects
+2) Scanning and printing of real-life objects
 
 Goal: Use cameras/sensors to take a 360 degrees image around an object.
 Build a 3D model from the image, then send it off to a 3D printer to get

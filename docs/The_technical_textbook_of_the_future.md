@@ -1,4 +1,3 @@
- 
 Client: Rupert Gatti, [Open Book
 Publishers](Open_Book_Publishers)
 <rupert.gatti@openbookpublishers.com>

@@ -1,4 +1,3 @@
- 
 Client: Peter Cowley, CamData <peter.cowley@camdata.co.uk>
 
 A ruggedized version of the Raspberry Pi can be used for outdoor

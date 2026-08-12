@@ -1,4 +1,3 @@
- 
 Clients:
 
 - Emma Gordon <Emma.Gordon@metaswitch.com>
@@ -21,9 +20,6 @@ from stephen.remington@yahoo.co.uk and Neil.King@uis.cam.ac.uk
 Confirmed:
 
 - [Extrusion finder](Extrusion_finder)
-
-<!-- -->
-
 - [Culture Glasses](Culture_Glasses)
 
 Others under discussion:

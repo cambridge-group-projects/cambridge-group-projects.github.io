@@ -1,4 +1,3 @@
- 
 This briefing information is provided for potential client/mentors of
 group design project teams.
 

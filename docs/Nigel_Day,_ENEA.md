@@ -1,4 +1,3 @@
- 
 Reliable cycle-aware traffic light
 
 Most central Cambridge junctions snarl up at critical moments between

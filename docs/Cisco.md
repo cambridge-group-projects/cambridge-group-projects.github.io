@@ -1,4 +1,3 @@
- 
 The contact email for John Bain is jbain@cisco.com
 
 # Finalised brief
@@ -65,7 +64,7 @@ PC-based video endpoints, but we can also supply ‘real’ endpoints and
 conferencing infrastructure for testing towards the latter stages of the
 project if desired. (We anticipate an embedded platform will need the
 following peripherals at a minimum: ADC/DAC x2, GPIO, Network
-(Ethernet). \]
+(Ethernet). ]
 
 ## Notes to supervisors
 

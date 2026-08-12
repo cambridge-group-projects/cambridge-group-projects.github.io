@@ -1,7 +1,6 @@
- 
 Contact: Anne Radl <Anne.Radl@nominettrust.org.uk>
 
-`- last contact November 2016`
+`- last contact November 2016`
 
 Possible Cambridge candidate companies:
 

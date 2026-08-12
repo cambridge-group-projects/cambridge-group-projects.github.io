@@ -1,4 +1,3 @@
- 
 # Cambridge Computer Science Group Projects
 
 
@@ -173,9 +172,6 @@ Final [2025 list](2025_list)
 ### Other clients from 2021
 
 - [MathWorks](MathWorks)
-
-<!-- -->
-
 - [Boeing](Boeing)
 - [TechWolf](TechWolf)
 - [DX Analytics](DX_Analytics)
@@ -198,24 +194,24 @@ Final [2025 list](2025_list)
 ## Potential clients that did not proceed, but could be considered in future
 
 - 2022: [Autodesk](Autodesk)
-- 2021: [FetoLife](FetoLife), [Oodle](Oodle "wikilink"), [NHS
+- 2021: [FetoLife](FetoLife), [Oodle](Oodle), [NHS
   Digital](NHS_Digital), [Jump
   Trading](Jump_Trading), [Microsoft Africa Research
   Institute](Microsoft_Africa_Research_Institute)
 - 2020: [Argon Design](Argon_Design),
-  [Gearset](Gearset), [Thales](Thales "wikilink"), [Sainsbury
+  [Gearset](Gearset), [Thales](Thales), [Sainsbury
   Laboratory](Sainsbury_Laboratory)
 - 2019: [Smart Cambridge](Smart_Cambridge),
   [Mindi](Mindi), [Fauna and Flora
   International](Fauna_and_Flora_International),
-  [Fusepump](Fusepump), [Investre](Investre "wikilink"),
+  [Fusepump](Fusepump), [Investre](Investre),
 - 2018: [Sparx](Sparx), [Cambridge
   Consultants](Cambridge_Consultants),
   [Capita](Capita), [Nominet
   Trust](Nominet_Trust), [University Information
   Services](University_Information_Services), [Sport
   England](Sport_England)
-- 2017: [BT](BT), [Palantir](Palantir "wikilink"), [Elm
+- 2017: [BT](BT), [Palantir](Palantir), [Elm
   Partners](Elm_Partners), [Lucid /
   Cycorp](Lucid_/_Cycorp), [Microsoft
   Research](Microsoft_Research)
@@ -225,10 +221,10 @@ Final [2025 list](2025_list)
 - 2015: [Thales](Thales), [Steve
   Wade](Steve_Wade), [Cambridge Humanitarian
   Centre](Cambridge_Humanitarian_Centre)
-- 2014: [Broadcom](Broadcom), [last.fm](last.fm "wikilink"),
+- 2014: [Broadcom](Broadcom), [last.fm](last.fm),
   [Rangespan](Rangespan), [John
-  McMillan](John_McMillan), [Atheon](Atheon "wikilink"),
-  [OpenMarket](OpenMarket), [Google](Google "wikilink"),
+  McMillan](John_McMillan), [Atheon](Atheon),
+  [OpenMarket](OpenMarket), [Google](Google),
   [Repindex](Repindex)
 - 2013: [Neul.com](Neul.com), [Steve Smith, CU Management
   Information Systems
@@ -249,13 +245,13 @@ Final [2025 list](2025_list)
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=y3ScrljJKGPnPOFt&amp;list=PLstyePOvf2d1HSBklMXWbdLd_4T2X8pIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2024"
-    [Design briefs](2024_list) 
-    
+    [Design briefs](2024_list)
+
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=xz9xVwFrww2yms8-&amp;list=PLstyePOvf2d3jOfc6j8cG7CmmVD6LyMe_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2023"
-    [Design briefs](2023_list) 
-    
+    [Design briefs](2023_list)
+
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=Jkz7wVIPDfVFnuuZ&amp;list=PLstyePOvf2d2ZvC92BQkpR6WiaiROytev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2022"
@@ -279,7 +275,7 @@ Final [2025 list](2025_list)
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=63bzsXlZvCeU2Yrf&amp;list=PLstyePOvf2d39LYQ3YBcdWUdREimYF8e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2018"
-    [Design briefs](2018_list), [Final list of clients](2018_-_final_list_of_clients), 
+    [Design briefs](2018_list), [Final list of clients](2018_-_final_list_of_clients),
     [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1718.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=63bzsXlZvCeU2Yrf&amp;list=PLstyePOvf2d39LYQ3YBcdWUdREimYF8e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

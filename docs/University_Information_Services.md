@@ -1,4 +1,3 @@
- 
 Contact for 2022: Abraham Martin <amc203@cam.ac.uk>
 
 Ian Leslie also suggested that Kate Livingstone might be interested in

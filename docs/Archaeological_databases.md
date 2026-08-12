@@ -1,4 +1,3 @@
- 
 Not originally proposed as a group project, but may be possible - have
 sent an enquiry
 
@@ -24,15 +23,15 @@ used to generate maps. I also do some diagraming to illustrate process
 and technology, but these tend to be very specialized. Here are some
 examples:
 
-1\) Seal density at Mohenjo-daro shows the number of a category of
+1) Seal density at Mohenjo-daro shows the number of a category of
 artifact, stamp seals, recovered from different excavated portions of an
 ancient city. From my thesis.
 
-2\) Plan of an excavated area from an ancient city that juxtaposes
+2) Plan of an excavated area from an ancient city that juxtaposes
 features, colored according to particular period in time, with locations
 from which artifacts were recovered. From my thesis.
 
-3\) and 4) Maps illustrating change in settlement location through time
+3) and 4) Maps illustrating change in settlement location through time
 from the fore runner to TwoRains. (Singh et al 2011)
 
 As an active field and data integration project, TwoRains is different

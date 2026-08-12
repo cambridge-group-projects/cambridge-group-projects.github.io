@@ -1,4 +1,3 @@
- 
 Contact: "Paul, David" <David.Paul@magna.com>
 
 Client for [Clean Cycle](Clean_Cycle) systems-development

@@ -1,4 +1,3 @@
- 
 ## 2016 proposal
 
 [Citizen Science for Cancer](Citizen_Science_for_Cancer)
@@ -52,7 +51,4 @@ potential translations into a game setting.
 ## earlier suggestions
 
 - [CheckMate](CheckMate)
-
-<!-- -->
-
 - [Genomes are fun!](Genomes_are_fun!)

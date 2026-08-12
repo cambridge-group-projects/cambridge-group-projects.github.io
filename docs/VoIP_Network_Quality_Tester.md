@@ -1,4 +1,3 @@
- 
 Contact: John Palombo, [Metaswitch
 Networks](Metaswitch_Networks)
 <John.Palombo@metaswitch.com>

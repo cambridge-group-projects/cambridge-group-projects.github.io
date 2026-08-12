@@ -1,4 +1,3 @@
- 
 Contact is "Scott, John (UK)" <scottj@qti.qualcomm.com>
 
 'Tunmer, Luke' <ltunmer@qti.qualcomm.com> had proposed:

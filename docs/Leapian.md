@@ -1,4 +1,3 @@
- 
 Contacts:
 
 Nathan Wilson <nathan.wilson@cantab.net>
@@ -16,7 +15,7 @@ Others:
 
 1\. Speed reader
 
-`   There was a lot of hype around spritz, but does it actually help you`
+`   There was a lot of hype around spritz, but does it actually help you`
 
 learn faster? Spritz is a powerful tool that lets you read content
 faster, however one of its shortfalls is a decreased ability at
@@ -25,14 +24,14 @@ reading on digital content which improves comprehension and learning.
 
 2\. Photo-based deal finder
 
-`   You are in a shop and you see a good deal on a DVD - but is it the`
+`   You are in a shop and you see a good deal on a DVD - but is it the`
 
 best deal out there? Can we build an app that automatically gathers
 prices from various vendors based on a photo you take with your phone.
 
 3\. Network of local events
 
-`   There are lots of events and activities going on in Cambridge every`
+`   There are lots of events and activities going on in Cambridge every`
 
 day but finding out about them isn't always easy. Can we build a system
 that gathers events from different student societies, public concerts,
@@ -44,7 +43,7 @@ a 5km radius?
 
 4\. Contact manager
 
-`   Keeping track of your friends and contacts across different`
+`   Keeping track of your friends and contacts across different`
 
 platforms is time consuming and liable to mistakes. Let's make a system
 that puts all these contacts in once place and can smartly help you stay

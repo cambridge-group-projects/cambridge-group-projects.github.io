@@ -1,4 +1,3 @@
- 
 Contact: Steffen Oppel <Steffen.Oppel@rspb.org.uk>
 
 Project confirmed for 2022:

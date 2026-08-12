@@ -1,4 +1,3 @@
- 
 The group project coordinators use this page to document the annual
 management cycle for managing the course.
 

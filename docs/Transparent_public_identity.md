@@ -1,4 +1,3 @@
- 
 Suggestion from Ross Anderson <Ross.Anderson@cl.cam.ac.uk>
 
 Here's an idea. I was at the Europarl yesterday and a green MEP said it

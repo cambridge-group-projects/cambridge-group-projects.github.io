@@ -1,4 +1,3 @@
- 
 2021 project: Saaras Mehan, on behalf of Azure Sphere team
 
 2020 project: [Azure Sphere for Citizen

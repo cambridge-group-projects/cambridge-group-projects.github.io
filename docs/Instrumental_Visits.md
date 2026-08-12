@@ -1,4 +1,3 @@
- 
 Ideas:
 
 The Royal College of Music Museum maintains one of the richest
@@ -19,7 +18,7 @@ museum.
 
 I just had another idea which is rather novel. We could do step counting
 on the phone to try and do dead reckoning of distances people walk and
-where they might have gone to. It may also be possible to get \*some\*
+where they might have gone to. It may also be possible to get *some*
 GPS information through windows, or location services from your WiFi
 hotspots if these are configured with accurate location.
 

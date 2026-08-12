@@ -1,4 +1,3 @@
- 
 Trading as Informate Ltd.
 
 Potential project for 2023: [Fossil or

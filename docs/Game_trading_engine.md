@@ -1,4 +1,3 @@
- 
 # Has become [Algo-Trading Game](Algo-Trading_Game)
 
 Client: Radmilo Racic, [IMC (Netherlands)](IMC_(Netherlands))

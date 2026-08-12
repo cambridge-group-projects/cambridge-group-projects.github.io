@@ -1,1 +1,1 @@
-1.  REDIRECT [Emma Salgard Cunha](Emma_Salgard_Cunha "wikilink")
+1.  REDIRECT [Emma Salgard Cunha](Emma_Salgard_Cunha)

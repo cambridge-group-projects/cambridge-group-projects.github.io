@@ -1,4 +1,3 @@
- 
 Membership organisation - suggestions would come from individual members
 
 [SimPrints](SimPrints)

@@ -1,4 +1,3 @@
- 
 Client: Paul Bowes, Bacchanalia <Team@winegod.co.uk>
 
 New retail support apps often focus on providing uniform services to

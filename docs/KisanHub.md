@@ -1,4 +1,3 @@
- 
 We no longer have any contact at KisanHub
 
 Previous contact was Tim Wilkinson <tim@kisanhub.com>, after October

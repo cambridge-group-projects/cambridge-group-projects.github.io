@@ -1,4 +1,3 @@
- 
 Direct action can be an effective contribution to our preparations for
 the future. However, with limited resources in volunteer organisations,
 it is important to target action toward the problems that have greatest

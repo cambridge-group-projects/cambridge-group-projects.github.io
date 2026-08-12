@@ -1,4 +1,3 @@
- 
 Based on conversation with a potential client who has asked for their
 details to be removed from the wiki.
 

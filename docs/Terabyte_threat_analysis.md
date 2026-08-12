@@ -1,4 +1,3 @@
- 
 Client: Paul Reid, BT <paul.reid@bt.com>
 
 Large networks such as the BT phone network generate terabytes of

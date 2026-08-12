@@ -1,4 +1,3 @@
- 
 Client: Rachel Thomas, Plus Maths, rgt24@cam.ac.uk
 
 Plus Maths magazine is a Cambridge publication for maths enthusiasts of all kinds. They have a huge archive of interesting articles from the last 25 years. The goal of this project is to use vector-semantic methods to create an interface that directs the audience to other topics of interest to them, by identifying similarity in the content. As an added bonus, the same approach could be used to uncover interesting research from the massive archive of the Cambridge talks.cam system.

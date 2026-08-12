@@ -1,4 +1,3 @@
- 
 Ioana Valea <ioana.valea@slcu.cam.ac.uk>
 
 ### Feedback in discussion
@@ -10,11 +9,11 @@ clear that this could be done within the timeframe.
 On the most optimistic timescale, could we imagine project structure
 along the following lines?
 
-`Week 1 - scoping and planning`
-`Week 2-4 - build, program and test the image capture array and data annotation system`
-`Week 5 - collect and label/annotate data`
-`Week 6 - train machine learning system`
-`Week 7 - integrate and demonstrate results`
+`Week 1 - scoping and planning`
+`Week 2-4 - build, program and test the image capture array and data annotation system`
+`Week 5 - collect and label/annotate data`
+`Week 6 - train machine learning system`
+`Week 7 - integrate and demonstrate results`
 
 Would 1 week of growing time be long enough to capture sufficient
 variety of images for your research question? This timescale would also
@@ -33,7 +32,7 @@ affect the switch between them? o Does runnering exclude flowering? •
 Flower development o Is flowering induced by blue light periods in the
 morning hours?
 
-• Fruit development
+- Fruit development
 
 Materials: Plant material are 2-months old strawberries grown in a pot.
 The time-lapse pictures must be taken in light and dark conditions over

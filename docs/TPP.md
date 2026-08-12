@@ -1,4 +1,3 @@
- 
 ### Proposal for 2019
 
 Contact: ankit.sharma@tpp-uk.com

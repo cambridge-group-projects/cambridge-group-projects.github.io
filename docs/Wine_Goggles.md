@@ -1,4 +1,3 @@
- 
 # Replaced by [Locally Augmented Retail](Locally_Augmented_Retail)
 
 Client: Paul Bowes, Bacchanalia <Team@winegod.co.uk>

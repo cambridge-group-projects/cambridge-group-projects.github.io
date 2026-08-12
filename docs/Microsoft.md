@@ -1,4 +1,3 @@
- 
 Contact Lee Stott <leestott@microsoft.com> and Geoff Hughes
 <Geoff.Hughes@microsoft.com>
 

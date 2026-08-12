@@ -1,4 +1,3 @@
- 
 Initial discussion of potential museum application with Gabriele Rossi
 Rognoni and Neta Spiro
 

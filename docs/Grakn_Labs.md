@@ -1,4 +1,3 @@
- 
 Contact: Joshua Send
 
 <https://grakn.ai>

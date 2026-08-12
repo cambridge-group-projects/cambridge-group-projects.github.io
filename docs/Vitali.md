@@ -1,4 +1,3 @@
- 
 Proposed to: Stephen Devlin <sd2030@cam.ac.uk>
 
 Many older people find the full functionality of a system like Android,

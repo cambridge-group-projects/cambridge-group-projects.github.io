@@ -1,4 +1,3 @@
- 
 Victor Haghani <victor@elmfunds.com>
 
 Dear Alan, Ian and Megan,

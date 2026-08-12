@@ -1,4 +1,3 @@
- 
 Contact: Dorine van der Schalk <dorine.vanderschalk@imc.com> IMC
 Careers Europe <CareersEurope@imc.com>
 
@@ -17,9 +16,6 @@ Admin contact for 2022 will be Sanne Cuperus <Sanne.Cuperus@imc.com>
 Confirmed:
 
 - [Aerial Video Selfies](Aerial_Video_Selfies)
-
-<!-- -->
-
 - [Remote Reading](Remote_Reading)
 
 Original suggestions from Ben Catterall <ben.catterall@imc.com>:
@@ -110,9 +106,6 @@ users to interact with the rubbish collected by System 001.
 Two projects confirmed:
 
 - [Eyes on the Road](Eyes_on_the_Road)
-
-<!-- -->
-
 - [Eyes in the Sky](Eyes_in_the_Sky)
 
 #### (previous discussion)
@@ -124,9 +117,6 @@ by soft-linking the two projects together:
 - Group 1 would design a project where the output is a driving
   mindstorms car (we are contemplating a project driving a car with VR
   experience - storyline remote driving a car).
-
-<!-- -->
-
 - Group 2 would design a project where the input is a driving mindstorms
   car (we are contemplating a project with a drone following a car with
   wifi/bluetooth/visual beacon - storyline safety monitoring of high
@@ -145,7 +135,7 @@ during the public demonstrations sessions) would be awesome!
 
 ### Earlier discussion for 2018
 
-• Automated Highway System
+- Automated Highway System
 
 Highway congestion is a never ending problem. One way to increase the
 throughput of the highway is to group vehicles into platoons to shorten
@@ -168,7 +158,7 @@ might consider a hybrid system design, in which the students simulate
 larger platoons in software, and build a mechanical testbed (still using
 Lego) to evaluate or calibrate the inter-vehicle dynamics?
 
-• Autorad
+- Autorad
 
 A recent article in New Yorker magazine has explored the triumphs of
 algorithms in the diagnostic arena. Teleradiology is generally regarded
@@ -191,7 +181,7 @@ require training with a substantial dataset of segmented and labelled
 images. Did you have access to a suitable dataset, or would we need to
 find a source?
 
-• GreenPi
+- GreenPi
 
 Large-scale agriculture has the unenviable task of feeding the world’s
 ever-expanding population which is gradually headed towards unimaginable
@@ -218,7 +208,7 @@ Could we perhaps use one or two larger plants, and do more intrusive
 condition monitoring (tissue conductivity, internal water content,
 mechanical properties of the plant fibres)?
 
-• Smart House
+- Smart House
 
 Over the last years smart IOT hardware has become main stream and
 affordable to consumers. Commonly seen smart electronics in average
@@ -247,7 +237,7 @@ might shift this toward some kind of body-based (single user) or
 collaborative (multi-device) policy specification language. Did you have
 a particular smartwatch model in mind?
 
-• Geographical Pattern Recognition
+- Geographical Pattern Recognition
 
 Within the next few years, 5G will be the successor of 4G. This
 introduces the need for new placement of transmission towers. The United
@@ -273,7 +263,7 @@ coverage according to the income of the people who live there, and
 charge higher rates for the service? A geographical auction optimisation
 algorithm seems pretty interesting.
 
-• Proof-of-work for crypto currencies
+- Proof-of-work for crypto currencies
 
 A proof of work is a piece of data which is difficult (costly,
 time-consuming) to produce but easy for others to verify, and is used to
@@ -291,7 +281,7 @@ new, original and difficult to solve problem which can be used to add
 new blocks to the block chain. It should require effort to do, protected
 from exploitation and sustainable over time.
 
-• Block chain for OTC trading
+- Block chain for OTC trading
 
 Another idea we discussed was to use the Etheruem platform, and set up a
 private net, which can be used for OTC (Over The Counter) trading. OTC,
@@ -521,9 +511,6 @@ think of a Pokemon Go variant that included this aspect?
 ## 2016 projects
 
 - [Fly-past Finance](Fly-past_Finance)
-
-<!-- -->
-
 - [Digital Currency for Public
   Good](Digital_Currency_for_Public_Good)
 
@@ -565,7 +552,4 @@ T-Note, GBL, etc.
 
 - [Virtual Reality Trading
   Desk](Virtual_Reality_Trading_Desk)
-
-<!-- -->
-
 - [Algo-Trading Game](Algo-Trading_Game)

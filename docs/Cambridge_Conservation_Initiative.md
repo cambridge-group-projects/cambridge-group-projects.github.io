@@ -1,4 +1,3 @@
- 
 2021 project:
 
 [Galapagoan Machine Learning](Galapagoan_Machine_Learning),

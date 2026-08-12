@@ -1,4 +1,3 @@
- 
 Client: Vicky Smith, StrideDesign <vicky.smith@stridedesign.com>
 
 The Poet Laureate Carol Ann Duffy has appointed 10 leading poets to work

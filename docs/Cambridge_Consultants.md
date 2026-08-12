@@ -1,4 +1,3 @@
- 
 Machine learning group leader Trevor Wood
 <trevor.wood@cambridgeconsultants.com> has apparently left.
 

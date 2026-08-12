@@ -1,4 +1,3 @@
- 
 Contact: Megan Foden <Megan.Foden@alderhey.nhs.uk>
 
 [Speech Error Detection &

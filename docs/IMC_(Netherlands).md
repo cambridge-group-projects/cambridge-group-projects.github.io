@@ -1,4 +1,3 @@
- 
 contact Elisa van der Linden (Elisa.vanderLinden@imc.nl).
 
 Note that clients would be traveling from the Netherlands for project

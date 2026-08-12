@@ -1,4 +1,3 @@
- 
 Client: Megan Renoir, Stopping as Success <meganrenoir@gmail.com>
 
 International agencies work hard to support low-income communities in

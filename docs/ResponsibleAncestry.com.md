@@ -1,4 +1,3 @@
- 
 Older people often get interested in tracing their family trees on sites
 like ancestry.com. Perhaps it would be more useful if they spent the
 time planning for their grandchildren? Responsible ancestry.com should

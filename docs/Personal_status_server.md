@@ -1,4 +1,3 @@
- 
 Client: Chandra Harrison, Qualcomm <c_charri@qti.qualcomm.com>
 
 There are several ways that computers can "read your mind" by observing

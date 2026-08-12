@@ -1,4 +1,3 @@
- 
 Primary contact
 
 David Blake <David.M.Blake@morganstanley.com> was suggested for 2022
@@ -7,8 +6,8 @@ It would be particularly great if we could find a design project that
 aligns with Morgan Stanley's "Giving Back" themes around community,
 health and sustainability
 
-`   `[`https://www.morganstanley.com/about-us/giving-back`](https://www.morganstanley.com/about-us/giving-back)` `
-`   `[`https://www.morganstanley.com/about-us/sustainability-at-morgan-stanley`](https://www.morganstanley.com/about-us/sustainability-at-morgan-stanley)
+`   `[`https://www.morganstanley.com/about-us/giving-back`](https://www.morganstanley.com/about-us/giving-back)` `
+`   `[`https://www.morganstanley.com/about-us/sustainability-at-morgan-stanley`](https://www.morganstanley.com/about-us/sustainability-at-morgan-stanley)
 
 Previous Clients: Oli Bage and Theo Mauger (both have now left)
 

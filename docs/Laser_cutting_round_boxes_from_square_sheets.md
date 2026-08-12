@@ -1,4 +1,3 @@
- 
 Client: Dr Laura James <LBJ@cantab.net>, Cambridge MakeSpace
 
 Kerf bending is a cute method for making round boxes with a laser

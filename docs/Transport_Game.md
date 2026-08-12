@@ -1,4 +1,3 @@
- 
 Client: Steve Platt, [Cambridge Architectural
 Research](Cambridge_Architectural_Research)
 <steve.platt@carltd.com>

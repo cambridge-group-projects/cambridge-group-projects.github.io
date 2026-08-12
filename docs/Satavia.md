@@ -1,4 +1,3 @@
- 
 Contact: Dr. Adam Durant, CEO; adam.durant@satavia.com
 
 Proposed with [Microsoft](Microsoft)

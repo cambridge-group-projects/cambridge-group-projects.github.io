@@ -1,4 +1,3 @@
- 
 Contact: Ian Lewis <ijl20@cam.ac.uk>
 
 (Smart Cambridge is a collaboration between the University and a number

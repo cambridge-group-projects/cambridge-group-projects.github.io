@@ -1,4 +1,3 @@
- 
 In general, a good project topic includes some combination of technical
 challenge, business opportunity, human interest, and opportunity for
 students to experiment with new technologies. We would suggest aiming

@@ -1,4 +1,3 @@
- 
 Will propose a new project for 2014 - topic to be confirmed
 
 Contact: David Jeffery <david@last.fm>

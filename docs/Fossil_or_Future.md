@@ -1,4 +1,3 @@
- 
 During the COP26 conference, it became clear that many politicians
 around the world do not necessarily follow the party lines of the 20th
 century left versus right, but are dividing themselves between those who

@@ -1,4 +1,3 @@
- 
 Argon Design has now been acquired by [Broadcom](Broadcom) -
 see that page for follow-on projects.
 

@@ -1,4 +1,3 @@
- 
 Client: Philip Hazel, PMW
 
 Anyone who has learned a musical instrument or taken a music lesson at

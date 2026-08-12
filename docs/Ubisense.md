@@ -1,4 +1,3 @@
- 
 Contact: Pete Steggles, Ubisense <Pete.Steggles@ubisense.net>
 
 2020 project: [Planning Tools for Large Scale Location

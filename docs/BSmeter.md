@@ -1,4 +1,3 @@
- 
 Recent research has used machine learning methods to apply the language
 philosophy of Wittgenstein, in a way that can quantify the likelihood of
 any particular text being bulls\*\*t. These results have extraordinarily

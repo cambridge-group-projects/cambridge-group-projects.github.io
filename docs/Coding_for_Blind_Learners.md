@@ -1,4 +1,3 @@
 Client - Richard Pawson, Naked Objects Group <rpawson@nakedobjects.org>
 
 A modern IDE such as VS Code is ‘accessible’ to blind users (with a screen reader and keyboard commands) – and some blind professional developers are very proficient with them. But the design of such IDEs still reflects how sighted users think and work, adding to the challenge for blind programmers, while failing to leverage their unique strengths. Your task is to create an open-source tool specifically to help a blind person learn to program from scratch, in a text-based language. The tool is not expected to be attractive to sighted users, though it must still be usable by a sighted teacher/helper. The client will arrange for one or more blind users to provide feedback during the project.
- 

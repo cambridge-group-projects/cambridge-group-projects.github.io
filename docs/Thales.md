@@ -1,4 +1,3 @@
- 
 No contact since 2019, when we were talking to Thales eSecurity:
 
 'Taylor, Neil' <Neil.Taylor@thalesesecurity.com>

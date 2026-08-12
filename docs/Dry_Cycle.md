@@ -1,4 +1,3 @@
- 
 Client: William Jones <william.jones@embecosm.com>
 
 The Barbican Rain Room was an artificial shower, digitally controlled so

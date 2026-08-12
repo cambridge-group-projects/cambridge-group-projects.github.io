@@ -1,4 +1,3 @@
- 
 Client: Richard Watts <rrw@semiramis.org.uk>
 
 2017:
@@ -56,15 +55,15 @@ the workstation PCs, and provide reliable on-site and off-site backup of
 data which it considers to be important, according to some set of
 criteria.
 
-`It should intelligently schedule backups so as not to hog the local`
+`It should intelligently schedule backups so as not to hog the local`
 
 network, internet uplink, or attached media.
 
-`You will likely want to implement some level of deduplication.`
+`You will likely want to implement some level of deduplication.`
 
-`If you finish that off easily, you could look at providing encryption.`
+`If you finish that off easily, you could look at providing encryption.`
 
-`(b) Automatic location of "interesting" features in large datasets.`
+`(b) Automatic location of "interesting" features in large datasets.`
 
 Large compute engines can create an awful lot of data - from eg. traffic
 logs, or load monitoring.
@@ -80,7 +79,7 @@ break apart common file formats.
 It then invites you to build a set of classifiers which attempt to spot
 "anomalous" areas of data.
 
-`.. and then a set of visualisations with which you can present those areas`
+`.. and then a set of visualisations with which you can present those areas`
 
 to the user.
 

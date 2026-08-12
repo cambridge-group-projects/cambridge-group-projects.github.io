@@ -1,4 +1,3 @@
- 
 Are ideas with hardware in scope? A recent BBC Click programme reported
 cheap sensors for people entering and leaving rooms. The way they said
 it suggested it picked up mobile phone signatures. The idea that you

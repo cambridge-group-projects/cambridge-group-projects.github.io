@@ -1,4 +1,3 @@
- 
 ## 2026
 
 Tobias has been in contact with Hrutvik Kanabar
@@ -72,35 +71,35 @@ too high for an average developer. In light of the above, our proposal
 is to develop an IoT system development framework to make it easier to
 design and build IoT systems.
 
-HTML5 mobileUI frameworks, such as Ionic \[1\], allows for building
+HTML5 mobileUI frameworks, such as Ionic [1], allows for building
 cross-platform hybrid apps by using web development technologies: HTML5
 and JavaScript. We also plan to integrate a cloud based “Backend as a
-Service" (BaaS) solution such as Firebase \[2\] into our framework as a
+Service" (BaaS) solution such as Firebase [2] into our framework as a
 part of cloud data storage (and computing).
 
 The proposed hybrid IoT system development framework will include the
 following capabilities: · Easy to use Graphical User Interface (GUI) for
 app development at hub/cloud level
 
-· Connectivity utilities, including Wifi and Bluetooth
+- Connectivity utilities, including Wifi and Bluetooth
 
-· Location utilities, e.g. using GPS or Wifi
+- Location utilities, e.g. using GPS or Wifi
 
-· Embedded systems programming and interfacing at node level (e.g. using
-ARM mbed \[3\])
+- Embedded systems programming and interfacing at node level (e.g. using
+ARM mbed [3])
 
 At least one demonstrator application will be developed using the above
 framework (e.g. SWARM Intelligence)
 
-\[1\] <http://ionicframework.com/>
+[1] <http://ionicframework.com/>
 
-\[2\] <https://firebase.google.com/>
+[2] <https://firebase.google.com/>
 
-\[3\] <https://developer.mbed.org/cookbook/Interfacing-with-JavaScript>
+[3] <https://developer.mbed.org/cookbook/Interfacing-with-JavaScript>
 
 Clarification:
 
-`Since this is for second year students and there are time constraints, we might need to simplify the project. We are also open about the demonstrator application. Swarm Intelligence is just an option (e.g. depending on your lab facilities, a dozen of IoT-aided robotic swarms at a mission in a hazardous environment). Please feel free to suggest other applications.`
+`Since this is for second year students and there are time constraints, we might need to simplify the project. We are also open about the demonstrator application. Swarm Intelligence is just an option (e.g. depending on your lab facilities, a dozen of IoT-aided robotic swarms at a mission in a hazardous environment). Please feel free to suggest other applications.`
 
 ------------------------------------------------------------------------
 

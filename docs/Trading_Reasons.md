@@ -1,4 +1,3 @@
- 
 Client not assigned
 
 The valuation of commodities and investments according to their expected

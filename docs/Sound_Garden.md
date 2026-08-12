@@ -1,4 +1,3 @@
- 
 Jonathan Baldwin, Madingley Hall <Jonathan.Baldwin@ice.cam.ac.uk>
 
 Surprisingly satisfying music can be defined in terms of in terms of

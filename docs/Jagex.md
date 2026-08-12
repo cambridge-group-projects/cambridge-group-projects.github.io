@@ -1,4 +1,3 @@
- 
 Contact: Mark Ogilvie <mark.ogilvie@jagex.com>
 
 Considering possibility for 2019
@@ -127,9 +126,6 @@ creation based on new locations and influences.
 
 - [Listening to a million
   voices](Listening_to_a_million_voices)
-
-<!-- -->
-
 - [Dynamic Narrative](Dynamic_Narrative)
 
 ## Further proposals

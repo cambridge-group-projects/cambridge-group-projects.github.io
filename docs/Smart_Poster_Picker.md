@@ -1,4 +1,3 @@
- 
 Many people like to buy poster reproductions of famous artworks. This
 could be done by using a mobile phone to take a picture of the painting
 they would like to hang on their wall, and sending an MMS message to a

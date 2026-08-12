@@ -1,4 +1,3 @@
- 
 The Director of Studies in Computer Science at each Cambridge college is
 recorded here: <http://www.cl.cam.ac.uk/teaching/dos-list/>
 

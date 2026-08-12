@@ -1,4 +1,3 @@
- 
 Contact: Chris Lennard <chris@cambridgesciencecentre.org>
 
 Project proceeding this year will be: [Science exhibit interaction
@@ -55,7 +54,7 @@ contrast to an un-manned exhibit, a professional science explainer will
 often keep their audience engaged by offering challenges and additional
 information based on certain behaviours of the participant. In this
 project we will placing some sensors in a fairly traditional hands-on
-science exhibit such as \[TBD\]. These will be connected to a Raspberry
+science exhibit such as [TBD]. These will be connected to a Raspberry
 Pi powered data gathering and analysis engine which will adapt the user
 guidance based on activity monitoring of the hands-on activity. We will
 track the effectiveness of learning outcomes both with an adaptive and

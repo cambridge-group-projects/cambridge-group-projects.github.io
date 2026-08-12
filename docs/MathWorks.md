@@ -1,4 +1,3 @@
- 
 Contact: Francesco Ciriello
 
 2021 projects:

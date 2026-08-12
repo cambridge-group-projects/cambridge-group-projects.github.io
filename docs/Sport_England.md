@@ -1,4 +1,3 @@
- 
 Developed with [Microsoft](Microsoft) - contact
 Matthew.Smith@Microsoft.com
 
@@ -26,12 +25,12 @@ and become active. They are launching an incubator early next year and
 are doing some work to frame the sort of implementations they are
 looking for, but some potential use cases could:
 
-• support parents and children to find activities
+- support parents and children to find activities
 
-• be used in a healthcare setting (e.g. GPs finding activities for their
+- be used in a healthcare setting (e.g. GPs finding activities for their
 patients)
 
-• emphasise the social aspect of physical activity (e.g. can I find
+- emphasise the social aspect of physical activity (e.g. can I find
 activities with other people like me?)
 
 The Initiative is interested in whether students, equipped with

@@ -1,4 +1,3 @@
- 
 Contact: Raoul-Gabriel Urma <raoul@cambridgespark.com>
 
 2020 project: [Automatic Assessment of R
@@ -6,7 +5,7 @@ Code](Automatic_Assessment_of_R_Code)
 
 Draft:
 
-Cambridge Spark is a startup that develops ​EDUKATE.AI​, a platform on
+Cambridge Spark is a startup that develops EDUKATE.AI, a platform on
 which students can access a collection of projects and receive immediate
 automated feedback on their code -- KATE, the engine behind the
 platform, evaluates functionality and code quality and generates
@@ -16,9 +15,9 @@ improve their code and learn new skills. We currently support Python
 and Java. The aim of this project is to develop a new service that we
 can integrate into the platform in order to support projects in R.
 
-Goal:​ The service needs to integrate with our system (see below for
+Goal: The service needs to integrate with our system (see below for
 technical constraints) so that feedback can be generated and help
-students progress, learn and complete projects. Technical constraints...​
+students progress, learn and complete projects. Technical constraints...
 We have developed an infrastructure such that evaluation of code is done
 as follows:
 

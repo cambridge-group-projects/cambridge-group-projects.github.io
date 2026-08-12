@@ -1,4 +1,3 @@
- 
 Client: Dominic Nancekievill, [G-Research](G-Research)
 <Dominic.Nancekievill@gresearch.co.uk>
 
@@ -73,9 +72,9 @@ side (indicating potential buyers with how much they want to buy and
 what price they’re willing to pay) and an ask side (indicating the same
 for sellers). After my order the book looks like this:
 
-`No Ask`
+`No Ask`
 `--`
-`Bid 1000 @ £2.22`
+`Bid 1000 @ £2.22`
 
 Now suppose someone is willing to sell 500 shares but they won’t take
 less than £2.24. Their order doesn’t match mine because we disagree on
@@ -84,19 +83,19 @@ price, so their order goes onto the book too and it looks like this
 just one that works in email where any formatting I add may be mangled –
 you can do better in the visualisations you’ll write for the Pis):
 
-`Ask 500 @ £2.24`
+`Ask 500 @ £2.24`
 `--`
-`Bid 1000 @ £2.22`
+`Bid 1000 @ £2.22`
 
 Suppose another seller comes along with a better price, and another
 buyer offers a worse price. The order book is sorted by price so it
 might look like this (there have still been no trades):
 
-`Ask 500 @ £2.24`
-`Ask 800 @ £2.23 (New seller)`
+`Ask 500 @ £2.24`
+`Ask 800 @ £2.23 (New seller)`
 `--`
-`Bid 1000 @ £2.22`
-`Bid 2500 @ £2.17 (New buyer)`
+`Bid 1000 @ £2.22`
+`Bid 2500 @ £2.17 (New buyer)`
 
 A bit of terminology before continuing: My order to buy 1000 @ £2.22 is
 the highest bid price, which is referred to as “best bid”. Similarly
@@ -131,9 +130,9 @@ following:
 
 After these messages, the order book would look like this:
 
-`Ask 500 @ £2.24`
+`Ask 500 @ £2.24`
 `--`
-`Bid 200 @ £2.23 (This is what’s left of my order)`
-`Bid 2500 @ £2.17`
+`Bid 200 @ £2.23 (This is what’s left of my order)`
+`Bid 2500 @ £2.17`
 
 [Category:Raspberry Pi](Category:Raspberry_Pi)

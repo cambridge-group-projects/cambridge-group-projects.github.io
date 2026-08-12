@@ -1,4 +1,3 @@
- 
 Have concluded that it is too far to come to Cambridge for 3 meetings.
 
 Last contacts with Glenn Woodcock <glenn@sparx.co.uk> and Tanya Morton
@@ -87,7 +86,7 @@ to answer. Your task is to design a system to explore this question,
 using biorhythm monitoring to track emotional state whilst your subjects
 complete various tasks. Exactly how you test people is up to you, it
 could be anything from a simple maths quiz to a complex game with
-different physical and mental tasks ­ of course the more engaging it is
+different physical and mental tasks  of course the more engaging it is
 the more data you will get! At the end you’ll need to analyse the data
 and spot correlations in order to form a conclusion and answer the
 question. We’ll provide you with a small budget for suitable wearable

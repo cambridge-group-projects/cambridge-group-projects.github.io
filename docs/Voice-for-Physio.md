@@ -5,5 +5,5 @@ Flok Health runs automated physiotherapy clinics in the NHS, via a web/mobile ap
 
 Proposed alternative with more scope for team: Video Delphi
 
-Social media and video streaming platforms create algorithmic bubbles that polarise public debate in unhealthy ways. In contrast, 
+Social media and video streaming platforms create algorithmic bubbles that polarise public debate in unhealthy ways. In contrast,
 the Delphi Technique is used in healthcare and other domains for reaching consensus, by iteratively presenting a panel of experts with a question. This project is to build a media platform for developing LLM-assisted Delphi consensus. The platform should enable video and text forums to be set up and configured, perhaps in the style of Substack. But also, importantly, it should include comprehensive introspection and analytics on the discussion process as it unfolds so that the configuration may be updated to improve the result in a subsequent run.

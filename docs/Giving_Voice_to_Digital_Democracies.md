@@ -1,4 +1,3 @@
- 
 GVDD is a project team based at CRASSH
 
 Brief written, waiting to confirm client: [Deliberative Social
@@ -12,9 +11,6 @@ How about one of the following?
   taking the notion of data statements (e.g., Bender and Friedman 2018)
   as a starting point, develop a suite of NLP-based tools that would
   enable biases in language-based corpora to be displayed visually
-
-<!-- -->
-
 - Developing Interactive Data Statements -- -- i.e., taking the notion
   of data statements (e.g., Bender and Friedman 2018) as a starting
   point, develop an interactive version of a data statement that enables

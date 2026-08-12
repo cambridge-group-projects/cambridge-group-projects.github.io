@@ -1,4 +1,3 @@
- 
 Tim Ramsdale <timr@rivosinc.com>
 
 Bring-up and optimisation of SYCL on a high-performance RISC-V

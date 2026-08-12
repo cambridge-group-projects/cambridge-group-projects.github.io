@@ -1,4 +1,3 @@
- 
 Client: Jasmin Jahić, Queens Sustainability Lab <jj542@cam.ac.uk>
 
 Commercial salad growers must operate at scale, stripping whole plants

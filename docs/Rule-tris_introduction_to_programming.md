@@ -1,4 +1,3 @@
- 
 Client: Luke Tunmer, Qualcomm <ltunmer@qti.qualcomm.com>
 
 All kids love Tetris, so why not help them learn programming by making a

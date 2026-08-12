@@ -1,4 +1,3 @@
- 
 Client: Richard Watts <richard@bigpayme.com>
 
 Proposed projects for 2022:
@@ -9,7 +8,7 @@ Proposed projects for 2022:
 
 Two suggestions:
 
-\(a\) A treasury management system: BigPay operates in MY and SG and you
+\(a) A treasury management system: BigPay operates in MY and SG and you
 can move money between the two. Currently, we use an external service
 provider to do this but obviously it would be more efficient to do it
 ourselves. To do so, we would have to manage reserves of both currencies
@@ -24,7 +23,7 @@ and receive a price (and then confirm the transfer). As far as possible,
 the system should achieve optimal revenue. You will need to write a
 simulator for exchange rates and for customer behaviour.
 
-\(b\) Playing games with money is quite fun. As such, we'd like to
+\(b) Playing games with money is quite fun. As such, we'd like to
 introduce a game in which housemates (or larger groups) can exchange
 transactions. When you spend money, the transaction will be charged to
 some random member(s) of the group - possibly split. The catch is that

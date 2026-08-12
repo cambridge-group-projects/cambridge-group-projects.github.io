@@ -1,4 +1,3 @@
- 
 John McMillan <mcmillantech@btconnect.com>
 
 Happy to consider project proposals

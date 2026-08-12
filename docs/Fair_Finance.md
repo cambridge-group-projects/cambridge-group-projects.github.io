@@ -1,4 +1,3 @@
- 
 Potential client: 'Faisel Rahman' <faisel@fairfinance.org.uk>
 
 Original contact: matthew.jones@jbs.cam.ac.uk (Matthew is an affiliate

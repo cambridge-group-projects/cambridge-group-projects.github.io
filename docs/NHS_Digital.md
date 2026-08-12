@@ -1,4 +1,3 @@
- 
 contact "HAJ-NAJAFI, Arran (NHS DIGITAL)" <a.haj-najafi@nhs.net>
 
 Too late for 2019, but possible for 2020:
@@ -50,7 +49,7 @@ that is updated in real time showing attendance at any Accident and
 Emergency site to enable patients to make informed choice on which A&E
 site to visit when required.
 
-`* Could you clarify whether some part of the ECDS data is available as a realtime feed, or would it simply be used to train a predictive model for triage estimation?`
+`* Could you clarify whether some part of the ECDS data is available as a realtime feed, or would it simply be used to train a predictive model for triage estimation?`
 
 Some kind of back end functionality seems necessary. We did discuss this
 one with one of his team in a call I had earlier in the summer. I think

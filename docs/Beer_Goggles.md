@@ -1,4 +1,3 @@
- 
 Augmented reality project for Google Glass that displays the distance to
 the nearest pub and shows the direction to go to get there. Obviously,
 this could be made more general to provide directions to other types of

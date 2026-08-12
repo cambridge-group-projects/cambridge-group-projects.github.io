@@ -1,4 +1,3 @@
- 
 There are so many things that only happen once a year - birthdays, start
 of term, insurance renewals - if only your email system could remember
 what you did last year, and take care of it next time! Your job is to

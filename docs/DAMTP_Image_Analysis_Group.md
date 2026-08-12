@@ -1,4 +1,3 @@
- 
 Talking to
 
 Kasia Targonska-Hadzibabic <kt441@cam.ac.uk> about work with [Hamilton

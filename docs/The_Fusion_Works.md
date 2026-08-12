@@ -1,8 +1,7 @@
- 
 Contacts David Russell <david@thefusionworks.com> and Lindsay Manning
 <Lindsay@thefusionworks.com>
 
-1\) VR Motion Sickness
+1) VR Motion Sickness
 
 Motion sickness in VR is an imprecise science. There's a number of
 factors that don't necessarily impact everyone in the same way. Possible
@@ -51,7 +50,7 @@ reference implementation of a VR experience that is predicted to reduce
 motion sickness, although verifying this experimentally would make the
 project more appropriate for a dissertation than a group design project.
 
-2\) Web RTC
+2) Web RTC
 
 Feel free to ignore this bit… it’s more notes for me… I’m not sure how
 to turn this into something that students could work on…
@@ -78,7 +77,7 @@ Would Web RTC be suitable for taking multiple MIDI streams from
 different sources, time-stamping, and reassembling into a synchronised
 band at the other end? I recently heard a fairly impressive session at
 the Network Music Festival, where the band set up a four-bar riff, then
-each player added improvisations that would be layered on the \*next\*
+each player added improvisations that would be layered on the *next*
 four bars. This could be set up as a blues jam, where you get on-screen
 queues on what chord the song is up to, and you add MIDI notes that are
 stored and forwarded for integration at the right time.

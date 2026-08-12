@@ -1,4 +1,3 @@
- 
 'Peter Cowley' <peter.cowley@camdata.co.uk>
 
 [Countryside web server](Countryside_web_server)

@@ -1,4 +1,3 @@
- 
 Client: Lee Wilson <lee.wilson@kavavar.com>
 
 AfroBarometer is a pan-African research network that collects public

@@ -1,4 +1,3 @@
- 
 Has been offered to [Collusion](Collusion)
 
 Some people find it easier to express emotion with emojis than with

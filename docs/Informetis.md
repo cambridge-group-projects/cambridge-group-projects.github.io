@@ -1,4 +1,3 @@
- 
 Contact: yuichi.abe@informetis.com
 
 ## 2021 Discussion

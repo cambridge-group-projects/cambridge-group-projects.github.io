@@ -1,2 +1,1 @@
- 
 1.  REDIRECT [Grakn Labs](Grakn_Labs)
