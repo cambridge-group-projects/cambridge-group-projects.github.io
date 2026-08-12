@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=lYQoBHHxpJA"
+   title="Watch the Group Oscar project video on YouTube">
+  <img src="assets/videos/virtual-reality-trading-desk.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Virtual Reality Trading Desk project video">
+</a>
+
 Client: Taylan Toygarlar, [IMC
 (Netherlands)](IMC_(Netherlands)) (Taylan.toygarlar@imc.nl)
 

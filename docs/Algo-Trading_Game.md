@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=llHks_U8WxY"
+   title="Watch the Group Alpha project video on YouTube">
+  <img src="assets/videos/algo-trading-game.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Algo-Trading Game project video">
+</a>
+
 Client: Radmilo Racic, [IMC (Netherlands)](IMC_(Netherlands))
 <Radmilo.racic@imc.nl>
 

@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=AYer3ZnwCmo"
+   title="Watch the Group Lima project video on YouTube">
+  <img src="assets/videos/the-technical-textbook-of-the-future.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the The technical textbook of the future project video">
+</a>
+
 Client: Rupert Gatti, [Open Book
 Publishers](Open_Book_Publishers)
 <rupert.gatti@openbookpublishers.com>

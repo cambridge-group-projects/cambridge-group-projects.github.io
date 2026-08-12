@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=DqAbEBSF3uY"
+   title="Watch the Group Golf project video on YouTube">
+  <img src="assets/videos/project-darknet.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Project Darknet project video">
+</a>
+
 Client: Russell Bender, Potential Difference
 <russellpbender@yahoo.co.uk>
 

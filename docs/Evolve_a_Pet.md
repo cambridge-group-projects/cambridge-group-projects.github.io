@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=dH2r5uziVEk"
+   title="Watch the Group Bravo project video on YouTube">
+  <img src="assets/videos/evolve-a-pet.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Evolve a Pet project video">
+</a>
+
 Client: Keira Cheetham, [Illumina](Illumina)
 <KCheetham@illumina.com>
 

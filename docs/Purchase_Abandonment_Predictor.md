@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=MOmTEFPlEUw"
+   title="Watch the Group Hotel project video on YouTube">
+  <img src="assets/videos/purchase-abandonment-predictor.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Purchase Abandonment Predictor project video">
+</a>
+
 Client: Philip Wilson, The Hut Group <Philip.wilson@thehutgroup.com>
 
 There are many online shopping sites where users become frustrated -

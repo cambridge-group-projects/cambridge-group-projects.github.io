@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=DQ0iQAYiDGY"
+   title="Watch the Group Mike project video on YouTube">
+  <img src="assets/videos/transport-game.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Transport Game project video">
+</a>
+
 Client: Steve Platt, [Cambridge Architectural
 Research](Cambridge_Architectural_Research)
 <steve.platt@carltd.com>

@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=IMlGErztxPY"
+   title="Watch the Group November project video on YouTube">
+  <img src="assets/videos/unlocking-the-graphics-power-of-the-raspberry-pi.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Unlocking the graphics power of the Raspberry Pi project video">
+</a>
+
 Client: Milos Puzovic, [MathWorks](MathWorks)
 <Milos.Puzovic@mathworks.co.uk>
 
