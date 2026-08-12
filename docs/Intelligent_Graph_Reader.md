@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=msawduEicnQ"
+   title="Watch the Group Charlie project video on YouTube">
+  <img src="assets/videos/intelligent-graph-reader.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Intelligent Graph Reader project video">
+</a>
+
 Main client: Nilu Satharasinghe, [Sparrho](Sparrho)
 <nilu@sparrho.com>
 

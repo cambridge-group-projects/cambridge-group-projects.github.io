@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=CWQubtiXs9Y"
+   title="Watch the Group Juliet project video on YouTube">
+  <img src="assets/videos/resilient-and-rapid-raspberries.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Resilient and Rapid Raspberries project video">
+</a>
+
 Client: Dominic Nancekievill, [G-Research](G-Research)
 <Dominic.Nancekievill@gresearch.co.uk>
 

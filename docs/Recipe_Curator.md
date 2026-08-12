@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=rThDri1fh0c"
+   title="Watch the Group India project video on YouTube">
+  <img src="assets/videos/recipe-curator.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Recipe Curator project video">
+</a>
+
 Client: Chris Roberts <chris.roberts@cambridgeconsultants.com>
 [Cambridge Consultants](Cambridge_Consultants)
 

@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=FfApAsgP0m4"
+   title="Watch the Group Delta project video on YouTube">
+  <img src="assets/videos/multi-chat.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Multi Chat project video">
+</a>
+
 Client: Matt Johnson, [Frontier](Frontier)
 <mjohnson@frontier.co.uk>
 

@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=gAb_bkm8NGw"
+   title="Watch the Group Echo project video on YouTube">
+  <img src="assets/videos/multi-touch-conference.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Multi-touch Conference project video">
+</a>
+
 Client: Catherine White, [BT](BT) <catherine.white@bt.com>
 
 Rather than flying all over the world to attend meetings and

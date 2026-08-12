@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=8WTmhsFe2fY"
+   title="Watch the Group Kilo project video on YouTube">
+  <img src="assets/videos/sound-garden.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Sound Garden project video">
+</a>
+
 Jonathan Baldwin, Madingley Hall <Jonathan.Baldwin@ice.cam.ac.uk>
 
 Surprisingly satisfying music can be defined in terms of in terms of

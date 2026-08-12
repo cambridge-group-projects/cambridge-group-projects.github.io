@@ -1,4 +1,9 @@
- 
+<a class="brief-video" href="https://www.youtube.com/watch?v=7hVVWQlxZAs"
+   title="Watch the Group Foxtrot project video on YouTube">
+  <img src="assets/videos/money-world.jpg" width="1280" height="720" loading="lazy"
+       alt="Title card from the Money World project video">
+</a>
+
 Client: Ben Azvine, [BT](BT) <ben.azvine@bt.com>
 
 UK voters are quite accustomed to seeing good quality visualisations of
