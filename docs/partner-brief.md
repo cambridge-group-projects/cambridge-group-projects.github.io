@@ -89,8 +89,8 @@ almost every successful brief makes.
 | **The build** | "A cheap and easy phone app could help the builder to setup and calibrate the equipment, then provide practical guidance to prioritise the most urgent repairs…" — what to make, without dictating how. |
 
 Reading the published briefs is the best preparation for writing one — see the
-[2026 design briefs](2026_list.md) and the
-[2025](2025_list.md) and [2024](2024_list.md) sets.
+[2026 design briefs](2026.md) and the
+[2025](2025.md) and [2024](2024.md) sets.
 
 ## What makes a brief hard to work with
 

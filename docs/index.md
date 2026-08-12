@@ -106,7 +106,7 @@ Blackwell](https://www.cl.cam.ac.uk/~afb21/) or [Tobias Grosser](https://www.gro
 
 ### Potential clients for 2025
 
-Final [2025 list](2025_list)
+Final [2025 list](2025)
 
 - [Alder Hey Children's
   Hospital](Alder_Hey_Children's_Hospital)
@@ -237,75 +237,75 @@ Final [2025 list](2025_list)
 ## Archived records of previous years
 
 === "2026"
-    [Design briefs](2026_list)
+    [Design briefs](2026)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=y3ScrljJKGPnPOFt&amp;list=PLstyePOvf2d08_lFgNpoKEm1P7YHorYvJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2025"
-    [Design briefs](2025_list)
+    [Design briefs](2025)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=y3ScrljJKGPnPOFt&amp;list=PLstyePOvf2d1HSBklMXWbdLd_4T2X8pIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2024"
-    [Design briefs](2024_list) 
+    [Design briefs](2024) 
     
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=xz9xVwFrww2yms8-&amp;list=PLstyePOvf2d3jOfc6j8cG7CmmVD6LyMe_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2023"
-    [Design briefs](2023_list) 
+    [Design briefs](2023) 
     
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=Jkz7wVIPDfVFnuuZ&amp;list=PLstyePOvf2d2ZvC92BQkpR6WiaiROytev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2022"
-    [Design briefs](2022_list), [Final list of clients](2022_-_final_list_of_clients)
+    [Design briefs](2022), [Final list of clients](2022_-_final_list_of_clients)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=Jkz7wVIPDfVFnuuZ&amp;list=PLstyePOvf2d2ZvC92BQkpR6WiaiROytev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2021"
-    [Design briefs](2021_list), [Final list of clients](2021_-_final_list_of_clients) and playlist:
+    [Design briefs](2021), [Final list of clients](2021_-_final_list_of_clients) and playlist:
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=j0wRt8EOCA9KMVTC&amp;list=PLstyePOvf2d2o9O_K3GEY3wAtbqkkYjPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2020"
-    [Design briefs](2020_list), [Final list of clients](2020_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1920.pdf)
+    [Design briefs](2020), [Final list of clients](2020_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1920.pdf)
 
     (presentations disrupted by Covid-19 - no video).
 
 === "2019"
-    [Design briefs](2019_list), [Final list of clients](2019_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1819.pdf)
+    [Design briefs](2019), [Final list of clients](2019_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1819.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=63bzsXlZvCeU2Yrf&amp;list=PLstyePOvf2d39LYQ3YBcdWUdREimYF8e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2018"
-    [Design briefs](2018_list), [Final list of clients](2018_-_final_list_of_clients), 
+    [Design briefs](2018), [Final list of clients](2018_-_final_list_of_clients), 
     [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1718.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=63bzsXlZvCeU2Yrf&amp;list=PLstyePOvf2d39LYQ3YBcdWUdREimYF8e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2017"
-    [Design briefs](2017_list), [Final list of clients](2017_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1617.pdf)
+    [Design briefs](2017), [Final list of clients](2017_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1617.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=rmRd86vSgXvRA_Vk&amp;list=PLstyePOvf2d0fbeximiXyWR2gB5KjjjE6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2016"
-    [Design briefs](2016_list), [Final list of clients](2016_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1516.pdf)
+    [Design briefs](2016), [Final list of clients](2016_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1516.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=P3Vy5jZsf8SaSDOe&amp;list=PLstyePOvf2d2QbiVFI4naska1n4G0fhSW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2015"
-    [Design briefs](2015_list), [Final list of clients](2015_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1415.pdf)
+    [Design briefs](2015), [Final list of clients](2015_-_final_list_of_clients), [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1415.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=P6xyZ2jBQzaoOuMO&amp;list=PLstyePOvf2d0cPplAB3DxHoaJC6hTYomP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2014"
-    [Design briefs](2014_-_final_list_of_design_briefs),
+    [Design briefs](2014),
     [Final list of clients](2014_-_final_list_of_clients)
     [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1314.pdf)
 
     <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=1joGQlbTBsY4EZGj&amp;list=PLstyePOvf2d2A3vWW4DkEGIAUIm4T0fg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 === "2013"
-    [Design briefs](2013_-_final_list_of_design_briefs),
+    [Design briefs](2013),
     [Final list of clients](2013_-_final_list_of_clients),
     [Student briefing booklet](http://www.cl.cam.ac.uk/teaching/group-projects/StudentBriefing_1213.pdf)
 

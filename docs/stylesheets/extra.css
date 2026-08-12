@@ -18,7 +18,7 @@
   --md-hue: 225deg;
 }
 
-/* Poster still linking to a project video (see e.g. 2026_list.md). A picture
+/* Poster still linking to a project video (see e.g. 2026.md). A picture
    rather than an embedded player: nothing is loaded from YouTube until click.
    Full width on narrow screens, floated beside the brief text on wide ones. */
 .md-typeset a.brief-video {
