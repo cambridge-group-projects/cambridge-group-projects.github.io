@@ -34,6 +34,7 @@ nav = [
   ]},
   { "General Information" = [
     { "What makes a good project?" = "What_makes_a_good_project.md" },
+    { "Brief and client planning" = "Brief_and_client_planning.md" },
     { "Intellectual Property" = "Intellectual_property.md" },
     { "Logistics for Clients" = "Logistics_for_Clients.md" },
     { "Information for DoS" = "Directors_of_Studies.md" },
