@@ -18,5 +18,3 @@ I think it could be challenging for the following reasons:
 
 There's even a startup who presented at techcrunch disrupt that is
 trying to do something similar: <http://monsieur.co/>
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

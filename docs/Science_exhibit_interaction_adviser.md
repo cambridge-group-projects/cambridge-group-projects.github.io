@@ -17,5 +17,3 @@ designer to tag those that appear to be off-topic, incomplete or
 unhelpful. Configuration and review of interaction statistics should be
 available remotely, via a network connection to each exhibit equipped
 with one of these devices.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

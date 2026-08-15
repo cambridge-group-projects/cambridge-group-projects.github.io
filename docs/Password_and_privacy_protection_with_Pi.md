@@ -10,5 +10,3 @@ statistical experiments to understand what factors make their messages
 more secure. Children love code-breaking, so it should be easy to make
 this into an entertaining Raspberry Pi game, not just boring school
 work.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

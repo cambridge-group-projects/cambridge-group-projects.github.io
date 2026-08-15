@@ -8,5 +8,3 @@ needs to take a break,they can set their session to a robot mode, in
 which the appropriate notes are played at the right times relative to
 other players. Note that relative timing of the event streams, even in
 the case where no robots are playing, is likely to be a hard problem!
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

@@ -16,5 +16,3 @@ Step 4: Get students to think of solutions (e.g. hand washing) and use
 the RPi to monitor the amount of handwashing in a school through the use
 of various sensing attachments. This could also be applied to any other
 social networking problem if it is not winter.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

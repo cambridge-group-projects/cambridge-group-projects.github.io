@@ -14,5 +14,3 @@ then turn the same device into a fully-functional web server with data
 visualisations when it is brought inside and plugged back into a network
 port. If required, you will also be provided with a licence for the ENEA
 Polyhedra realtime embedded database.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

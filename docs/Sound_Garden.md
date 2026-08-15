@@ -21,5 +21,3 @@ music, whether played over speakers in the garden, or by remote viewers
 from their browsers. As an example of the kind of generative music that
 might result, check out the video of Dave Griffiths' techno music
 composing robots in al-jazari.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)
