@@ -3,10 +3,11 @@
 <!-- Full-height landing chooser, rendered above the page content. Only pages
      that set `template: home.html` in their front matter get this. The page
      body is intentionally empty — everything a visitor needs lives behind the
-     two panels below. -->
-{% block tabs %}{% endblock %}
+     two panels below, or in the navigation, which this page keeps. -->
 
-{% block hero %}
+{% block tabs %}
+  {{ super() }}
+
   <div class="cgp-land">
   <section class="cgp-hero md-typeset">
     <!-- Fallback backdrop: a still from the same video, over the gradient.
