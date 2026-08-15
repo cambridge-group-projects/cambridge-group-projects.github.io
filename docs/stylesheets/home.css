@@ -64,7 +64,36 @@ body:has(.cgp-hero) .md-icon { color: #fff; }
 body:has(.cgp-hero) .md-main { display: none; }
 body:has(.cgp-hero) .md-sidebar { display: none; }
 body:has(.cgp-hero) .md-footer { display: none; }
-body:has(.cgp-hero) .md-header__button { display: none !important; }
+/* Hide only the light/dark toggles. The header's other buttons share this
+   class, so matching it alone also took out the logo, the drawer toggle and
+   the small-screen search toggle. */
+body:has(.cgp-hero) .md-header__button[for^="__palette"] { display: none !important; }
+
+/* The tab bar defaults to a light strip, which reads as a seam between the
+   black header and the dark hero. Invert it so the two form one dark band. */
+body:has(.cgp-hero) .md-tabs {
+  background-color: #000;
+  color: #fff;
+  /* The theme draws the bar's hairline with a light-mode variable, which is
+     invisible against black. */
+  box-shadow: 0 -0.05rem 0 inset #ffffff29;
+}
+body:has(.cgp-hero) .md-tabs__link {
+  color: #ffffffb3;
+  opacity: 1;
+}
+body:has(.cgp-hero) .md-tabs__link:hover,
+body:has(.cgp-hero) .md-tabs__link:focus,
+body:has(.cgp-hero) .md-tabs__item--active .md-tabs__link,
+body:has(.cgp-hero) .md-tabs__link--active {
+  color: #fff;
+}
+/* Same problem for the active-tab marker: the theme's border colour is the
+   near-black default foreground, so it never showed. Recolour it only, keeping
+   the theme's 0.05rem weight so it matches the marker on every other page. */
+body:has(.cgp-hero) .md-tabs__item--active {
+  border-bottom-color: #fff;
+}
 
 /* One non-scrolling screen: the hero band and the choosers share the height
    below the header, split roughly in half. */
@@ -73,6 +102,12 @@ body:has(.cgp-hero) .md-header__button { display: none !important; }
   flex-direction: column;
   height: calc(100svh - 2.4rem); /* 2.4rem = header height */
   overflow: hidden;
+}
+
+/* Above this width the theme shows the tab bar as well, so the landing has a
+   second row to clear. Below it, only the header is above. */
+@media screen and (min-width: 76.25em) {
+  .cgp-land { height: calc(100svh - 4.8rem); }
 }
 
 /* ---------------------------------------------------------------------------
