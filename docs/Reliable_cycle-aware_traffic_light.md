@@ -10,5 +10,3 @@ data, university building management systems, bus timetables, and any
 other data sources that you can discover to accurately predict cycle
 volumes. This database should be combined with traffic sensor data to
 invent a new cycle-aware junction control model.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

@@ -11,5 +11,3 @@ end-user language, so that different texts or images are included in the
 page in response to different detected emotions. Finally, friends should
 be able to add their own supportive feedback to the page ... using
 appropriate security!
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

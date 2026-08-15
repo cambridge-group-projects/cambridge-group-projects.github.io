@@ -15,5 +15,3 @@ use that 12 and 13 year-olds can experiment with alternative phone
 designs. The whole system should be sufficiently compact that it can be
 deployed on a Raspberry Pi (we can supply large touch screens that can
 be interfaced to the Pi).
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

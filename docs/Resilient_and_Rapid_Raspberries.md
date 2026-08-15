@@ -140,5 +140,3 @@ After these messages, the order book would look like this:
 `--`
 `Bid 200 @ £2.23 (This is what’s left of my order)`
 `Bid 2500 @ £2.17`
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

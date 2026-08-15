@@ -25,5 +25,3 @@ this is a mobile character in a sandbox game, a narrative cut-scene, or
 even an intelligent avatar such as the Zoe talking head. Contact the
 client for access to the Simulink target development tools, and advice
 on the GPU porting process.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

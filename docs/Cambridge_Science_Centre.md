@@ -63,5 +63,3 @@ non-adaptive interface. The outcome of this work will help to guide
 future development of exhibits for the Cambridge Science Centre,
 potentially making higher quality learning experiences accessible to a
 wider audience in a cost-effective manner.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)
