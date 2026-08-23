@@ -1,5 +1,5 @@
 ---
-title: Industry Partners
+title: Industry Clients
 description: A guide for the organisations who write Part IB group project briefs — what the course asks of you, what the team produces, and what seven weeks realistically buys.
 hide:
   - toc
@@ -7,10 +7,10 @@ hide:
 
 # You bring the problem. They bring seven weeks.
 
-As an industry partner you write a design brief, act as the client for a team of
-Cambridge second-year computer scientists, and meet them four times across Lent
-term. This guide sets out exactly what that involves — what you commit to, what
-you receive, and what seven weeks of student effort realistically buys.
+As an industry client you write a design brief, mentor a team of Cambridge
+second-year computer scientists, and meet them four times across Lent term. This
+guide sets out exactly what that involves — what you commit to, what you
+receive, and what seven weeks of student effort realistically buys.
 
 <div class="grid cards" markdown>
 
@@ -96,7 +96,7 @@ deadlines are left out. (Dates shown are for the Lent 2027 run.)
 | Wed 17 Mar 2027, afternoon | **Exhibition and awards — you are invited.** Public screening of the videos, an interactive exhibition with demonstrations of every project, and the awards. |
 | Wed 17 Mar 2027, by 5pm | **Final Group Report reaches you.** The last possible time for the team to email you the final report as a PDF. |
 
-## Six things partners most often get wrong
+## Six things clients most often get wrong
 
 None of this is meant to put you off — projects regularly produce genuinely
 useful prototypes. But going in with the right expectations is the difference

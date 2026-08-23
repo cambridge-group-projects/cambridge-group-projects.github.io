@@ -226,7 +226,7 @@ covered on **[Guidance](team-guidance.md)**.
 ## Where to go next
 
 Curious what your client has been told? See the
-**[Industry Partners guide](client-overview.md)** — their commitments, what they
+**[Industry Clients guide](client-overview.md)** — their commitments, what they
 expect to receive, and how briefs are written.
 
 **Official pages:**
