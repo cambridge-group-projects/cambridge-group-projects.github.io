@@ -8,5 +8,3 @@ that can grab any kind of content from a Raspberry Pi screen, allow
 users to edit that content with added text, voice-over or drawn
 annotations, and publish it via a forum in the style of
 www.instructables.com
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

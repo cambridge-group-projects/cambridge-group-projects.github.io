@@ -12,5 +12,3 @@ and actions must be sufficiently constrained that it would take
 significant coding effort to make an optimal player, but should also be
 simple enough to provide incremental feedback for students, so that each
 new rule (if correctly specified) produces satisfying improvements.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

@@ -10,5 +10,3 @@ source code for the recently released Sonic Pi, and networking ideas can
 be borrowed from international laptop orchestras (PB_UP offers code
 distribution):
 <https://esp-mcmaster.wikispaces.com/Laptop+Orchestra+bibliography>
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

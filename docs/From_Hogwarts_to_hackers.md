@@ -13,5 +13,3 @@ sociable fun. A text adventure game might be the best choice - for
 example, of the kind that can be created with plot scripting language
 Inform7, or LambdaMOO, but you are free to attempt simple graphics or
 other presentation styles.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

@@ -17,5 +17,3 @@ should be able to find each other without any user intervention or
 central control. Of course, all this has to be achieved in a secure
 sand-boxed manner - real hackers shouldn't be allowed to get out of the
 sandbox!
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

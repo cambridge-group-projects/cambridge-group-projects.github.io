@@ -12,7 +12,7 @@ Feedback:
 Your suggestion is definitely an area where we are happy to have
 projects. Two examples from previous years are:
 
-[2010#Delta:_Party_Line_Detection](2010#Delta:_Party_Line_Detection)
+[Party Line Detection (2010)](2010.md#delta-party-line-detection)
 
 2016: [The Politics of Wikipedia](The_Politics_of_Wikipedia)
 

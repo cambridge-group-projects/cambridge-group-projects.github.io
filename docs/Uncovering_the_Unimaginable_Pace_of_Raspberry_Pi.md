@@ -78,5 +78,3 @@ the performance of the application. At the end of the project, you will
 be able to demonstrate how applications that rely on computer graphics
 execute faster with your project, opening up new possibilities for users
 of Raspberry Pi.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)

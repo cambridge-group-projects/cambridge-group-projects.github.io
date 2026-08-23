@@ -18,5 +18,3 @@ multiple Raspberry Pi's in each chassis or frame of the EDSAC. They
 might even be able to compensate for temporary failures, imitating the
 behaviour of that chassis to keep the rest of the system working until a
 failed component is replaced.
-
-[Category:Raspberry Pi](Category:Raspberry_Pi)
