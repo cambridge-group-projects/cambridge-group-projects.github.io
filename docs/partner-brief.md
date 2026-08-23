@@ -134,19 +134,11 @@ Reading the published briefs is the best preparation for writing one — see the
     for the current cut-off date and any format they prefer:
     [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk?subject=Part%20IB%20group%20project%20design%20brief).
 
--   :material-clock: **When**
-
-    ---
-
-    Briefs are presented to students at the briefing lecture, so yours needs to be in
-    well before then. For the 2026–27 cycle that lecture is **Monday 16 November
-    2026**, with student preferences closing on **Monday 30 November 2026** and teams
-    announced at the kick-off meeting on **Thursday 21 January 2027**.
-
 </div>
 
 ---
 
-**Previous:** [What to Expect](partner-expectations.md)
+**See also:** [What makes a good project?](What_makes_a_good_project.md) — the
+qualities that make a topic worth seven weeks.
 
 **Back to:** [Industry Partners overview](for-partners.md)

@@ -247,7 +247,6 @@ working inside.
 
 ---
 
-**Next:** [Writing a Brief](partner-brief.md) — what the published briefs have in
-common, and what makes one hard to work with.
-
 **Previous:** [Your Commitments](partner-commitments.md)
+
+**Back to:** [Industry Partners overview](for-partners.md)
