@@ -69,7 +69,7 @@ them with you inside the required week.
     Videos go online for staff, clients and students in week 8, and you can vote
     for your favourite projects.
 
--   :material-medal: **Come to the exhibition**
+-   :material-medal: **Come to the exhibition (optional)**
 
     ---
 
