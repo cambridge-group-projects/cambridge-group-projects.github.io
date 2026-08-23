@@ -89,10 +89,3 @@ to returning borrowed hardware after the exhibition.
     for the team. If you become unavailable, email
     [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk) as early as you
     can so it can be sorted out.
-
----
-
-**Next:** [What to Expect](partner-expectations.md) — what the team produces, when
-it arrives, and what seven weeks realistically buys.
-
-**Back to:** [Industry Partners overview](for-partners.md)
