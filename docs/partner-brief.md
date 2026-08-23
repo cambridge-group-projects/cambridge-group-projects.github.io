@@ -135,10 +135,3 @@ Reading the published briefs is the best preparation for writing one — see the
     [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk?subject=Part%20IB%20group%20project%20design%20brief).
 
 </div>
-
----
-
-**See also:** [What makes a good project?](What_makes_a_good_project.md) — the
-qualities that make a topic worth seven weeks.
-
-**Back to:** [Industry Partners overview](for-partners.md)
