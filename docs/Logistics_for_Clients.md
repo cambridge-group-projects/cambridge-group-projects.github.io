@@ -89,8 +89,8 @@ A selection of presentations from previous years:
 Please send all official correspondence, especially notes on attendance
 or other problems during the project, to group-project@cl.cam.ac.uk
 .Email sent to this address is received by the course directors (for
-projects in Lent term 2025, these are Alan Blackwell and Tobias
-Grosser), and by the undergraduate student administrators (in 2024/25,
+projects in Lent term 2025, these are Tobias Grosser, Anthony Harris, and Katie Seaborn),
+and by the undergraduate student administrators (in 2026/27,
 these are Becky Straw, Dean Dodds and Aidan Bishop)
 
 ## Assessment
