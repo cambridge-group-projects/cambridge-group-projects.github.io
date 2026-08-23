@@ -7,40 +7,12 @@ external client proposes a project title and a one-paragraph project brief,
 meets with our students four times (or more), and our students as a team deliver
 a technical solution.
 
-## 2026 Group Project Awards
-
-For the 2026 group projects, three teams were awarded group project awards.
-
-=== "Professional Achievement"
-
-     <iframe width="700" height="390" src="https://www.youtube-nocookie.com/embed/CWWLfDRufG8?si=SFwm8F9fUVxcutzX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-=== "Technical Achievement"
-
-    <iframe width="700" height="390" src="https://www.youtube-nocookie.com/embed/AfefuZ_XxNA?si=eI1gTRpEt-CTgqqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-=== "Better Future"
-
-    <iframe width="700" height="390" src="https://www.youtube-nocookie.com/embed/QnYLqCOon24?si=rKMFpZzLkemVbMnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 !!! warning
 
     All content on this site has draft status, subject to confirmation by
     both group project coordinators and clients. There is no
     guarantee that these projects will be offered to students, either in the
     form described here, or at all.
-
-## General Information about our Group Projects
-
-- [Intellectual Property](Intellectual_property)
-
-- [Logistics for Clients](Logistics_for_Clients)
-
-- [Information for Students, and Course History](http://www.cl.cam.ac.uk/teaching/group-projects)
-
-- [Information for Cambridge "Directors of Studies"](Directors_of_Studies)
-
-- [Information for the Group Project Coordinators](Coordinators)
 
 ## Group Project Design Briefs for 2027 (work in progress)
 
