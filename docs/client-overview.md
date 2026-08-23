@@ -149,12 +149,3 @@ All communication regarding the group projects should be addressed to the group
 project email address, so it reaches the whole organising team:
 [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk).
 
-See also **[what your team is being asked to do](for-teams.md)** — the project team
-guide, with every phase, deadline and deliverable they owe you.
-
-**Official pages:**
-[Group projects home](https://www.cst.cam.ac.uk/teaching/part-ib/group-projects)
-·
-[What makes a good project?](design_a_good_project.md)
-·
-[Logistics for clients](Logistics_for_Clients.md)
