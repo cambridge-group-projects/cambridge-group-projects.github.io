@@ -23,7 +23,7 @@ nav = [
     { "Overview" = "client-overview.md" },
     { "Logistics for Clients" = "Logistics_for_Clients.md" },
     { "What makes a good project?" = "design_a_good_project.md" },
-    { "Writing a Brief" = "partner-brief.md" },
+    { "Writing a Brief" = "client-brief.md" },
     { "Intellectual Property" = "Intellectual_property.md" },
   ]},
   { "Project Teams" = [
