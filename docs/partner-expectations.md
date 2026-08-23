@@ -247,6 +247,3 @@ working inside.
 
 ---
 
-**Previous:** [Your Commitments](partner-commitments.md)
-
-**Back to:** [Industry Partners overview](for-partners.md)
