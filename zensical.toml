@@ -20,11 +20,11 @@ Copyright &copy; 2026 University of Cambridge
 nav = [
   { "Home" = "index.md" },
   { "Industry Partners" = [
-    { "Overview" = "for-partners.md" },
     { "Your Commitments" = "partner-commitments.md" },
     { "What to Expect" = "partner-expectations.md" },
   ]},
   { "For Clients" = [
+    { "Overview" = "client-overview.md" },
     { "Logistics for Clients" = "Logistics_for_Clients.md" },
     { "What makes a good project?" = "What_makes_a_good_project.md" },
     { "Writing a Brief" = "partner-brief.md" },
