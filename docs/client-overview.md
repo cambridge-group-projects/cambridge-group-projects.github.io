@@ -143,33 +143,6 @@ between a great experience and a disappointing one.
     to discuss and agree with the team — the organisers can advise if asked. See
     [Intellectual Property](Intellectual_property.md).
 
-## Read on
-
-<div class="grid cards" markdown>
-
--   :material-check-circle: **[Your Commitments](partner-commitments.md)**
-
-    ---
-
-    The eighteen things the course asks of a client, stage by stage — plus how the
-    four meetings are scheduled and what happens if one can't go ahead.
-
--   :material-scale-balance: **[What to Expect](partner-expectations.md)**
-
-    ---
-
-    The five documents and the demonstration you receive, what seven weeks of
-    student effort realistically buys, and where the code and IP end up.
-
--   :material-pencil: **[Writing a Brief](partner-brief.md)**
-
-    ---
-
-    What the published briefs have in common, four things worth doing, the pitfalls
-    that make a brief hard to work with, and how to send yours in.
-
-</div>
-
 ## Interested in proposing a project?
 
 All communication regarding the group projects should be addressed to the group
