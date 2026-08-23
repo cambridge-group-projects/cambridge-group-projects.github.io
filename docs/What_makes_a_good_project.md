@@ -4,7 +4,7 @@ challenge, business opportunity, human interest, and opportunity for
 students to experiment with new technologies. We would suggest aiming
 for at least two of these properties, perhaps three, but all four in a
 single project would be excessive. It is worth scanning some examples of
-design briefs from previous years: [2025](2025), [2024](2024),
+design briefs from previous years: [2026](2026), [2025](2025), [2024](2024),
 [2023](2023).
 
 ## Technical challenge
