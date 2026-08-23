@@ -63,26 +63,9 @@ resources necessary.
 
 At the end of the term, groups are required to demonstrate their
 achievements in pre-recorded videos, accompanied by a public
-exhibition/demo session.
-
-Presentations are followed by a vote, and the award of prizes to the
+exhibition/demo session. Presentations are followed by a vote, and the award of prizes to the
 groups voted the best in three categories. We hope you are able to
-participate, but it is not essential.
-
-A selection of presentations from previous years:
-
-
-=== "2025"
-    <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=2b6KKNHF35SLLzJP&amp;list=PLstyePOvf2d1HSBklMXWbdLd_4T2X8pIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-=== "2024"
-    <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=nIKEoIs9QKHQwZyn&amp;list=PLstyePOvf2d3jOfc6j8cG7CmmVD6LyMe_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-=== "2023"
-    <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=nIKEoIs9QKHQwZyn&amp;list=PLstyePOvf2d3jOfc6j8cG7CmmVD6LyMe_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-=== "2022"
-    <iframe width="700" height="390" src="https://www.youtube.com/embed/videoseries?si=XWSJZPHF-IV18vfo&amp;list=PLstyePOvf2d3oPJOBgNoeA-aPA7lhUIGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+participate, but it is not essential. Check out the [videos from previous years](2026/).
 
 ## Correspondence
 
