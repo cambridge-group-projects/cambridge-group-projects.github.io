@@ -25,6 +25,11 @@ nav = [
     { "What to Expect" = "partner-expectations.md" },
     { "Writing a Brief" = "partner-brief.md" },
   ]},
+  { "For Clients" = [
+    { "Logistics for Clients" = "Logistics_for_Clients.md" },
+    { "What makes a good project?" = "What_makes_a_good_project.md" },
+    { "Intellectual Property" = "Intellectual_property.md" },
+  ]},
   { "Project Teams" = [
     { "Overview" = "for-teams.md" },
     { "The Seven Phases" = "team-phases.md" },
@@ -33,10 +38,7 @@ nav = [
     { "Guidance" = "team-guidance.md" },
   ]},
   { "General Information" = [
-    { "What makes a good project?" = "What_makes_a_good_project.md" },
     { "Brief and client planning" = "Brief_and_client_planning.md" },
-    { "Intellectual Property" = "Intellectual_property.md" },
-    { "Logistics for Clients" = "Logistics_for_Clients.md" },
     { "Information for DoS" = "Directors_of_Studies.md" },
     { "Information for Project Coordinators" = "Coordinators.md" },
   ]},
