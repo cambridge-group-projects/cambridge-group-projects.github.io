@@ -11,14 +11,6 @@ Your brief is the only thing students see before they choose. It has to make the
 want the project, tell them honestly what the hard part is, and leave them room to
 design a solution — in about a paragraph.
 
-!!! info "This page is observation, not an official template"
-
-    The department doesn't publish a brief-writing template. What follows is drawn
-    from reading the published briefs for the current cycle and from the course's
-    stated requirements. Treat it as a useful pattern, and check anything that
-    matters with the organisers. See also
-    [What makes a good project?](What_makes_a_good_project.md).
-
 ## What the published briefs have in common
 
 Almost every published brief follows roughly the same shape.
