@@ -155,6 +155,6 @@ guide, with every phase, deadline and deliverable they owe you.
 **Official pages:**
 [Group projects home](https://www.cst.cam.ac.uk/teaching/part-ib/group-projects)
 ·
-[What makes a good project?](What_makes_a_good_project.md)
+[What makes a good project?](design_a_good_project.md)
 ·
 [Logistics for clients](Logistics_for_Clients.md)

@@ -45,7 +45,7 @@ For the 2026 group projects, three teams were awarded group project awards.
 ## Group Project Design Briefs for 2027 (work in progress)
 
 We are currently collecting design briefs for the 2025/2026 group project runs (expecting 131 students, 22 teams). If you are
-interested to participate as a client, read ["What makes a good project?"](What_makes_a_good_project).
+interested to participate as a client, read ["What makes a good project?"](design_a_good_project.md).
 To put forward your project idea, get in touch with [Alan
 Blackwell](https://www.cl.cam.ac.uk/~afb21/) or [Tobias Grosser](https://www.grosser.science).
 

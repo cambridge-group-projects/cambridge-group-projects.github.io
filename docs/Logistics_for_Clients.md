@@ -7,7 +7,7 @@ group design project teams.
 We will work with you to define a reasonably open-ended one-paragraph
 design brief, in a technical and business area that interests you. For
 more information, see [What makes a good
-project](What_makes_a_good_project)?
+project](design_a_good_project.md)?
 
 We collect potential project ideas in September or earlier, and the
 design briefs are finalised in October. Projects are pitched to students
