@@ -45,22 +45,3 @@ so on. If you have a particular device you'd like to see the students
 use, the teams often work with technology loaned by clients. The one
 thing to keep in mind is that they do not have much time to acquaint
 themselves either with new languages or complex API stacks.
-
-## Things that have failed in the past
-
-See the list of projects that were pitched to students, but for which we
-weren't able to put together a team because too few students were
-willing to work on them. It's not always easy to see why these turned
-out to be unappealing, so may be no clear patterns, but at least these
-give some idea of what to avoid.
-
-[Projects that have been offered but not assigned](/index#projects-that-have-been-offered-but-not-assigned-to-groups)
-
-After keeping that list for a few years, some emerging patterns would
-seem to be that: our students are not motivated by projects related to
-road transport; they are not inspired by wine and food (apart from
-chocolate); they may be worried by projects related to surgical
-procedures; and they are not interested in poetry or dance. Despite
-this, we are always happy to explore the limits of their interests, so
-don't be too discouraged from proposing projects in these areas - just
-make sure they are appealing, and be prepared for cancellation.
