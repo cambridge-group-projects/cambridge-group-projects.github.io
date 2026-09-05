@@ -74,11 +74,10 @@ the end of March. Check out the
 
 ## Six things to remember
 
-Going in with the right expectations is the difference between a great
-experience and a disappointing one. Six of them catch clients out most often —
-the hours available, the hard stop, how students are assigned, how ambitious the
-briefs are, what is actually assessed, and where the code ends up:
-**[Six things to remember](six-things-to-remember.md)**.
+Our students have a fixed time budget, but we aim for ambitious projects. The
+code artifacts belong to our students, but clients can negotiate the follow-up
+usage. Check out
+**[six key things to remember](six-things-to-remember.md)**!
 
 ## Interested in proposing a project?
 
