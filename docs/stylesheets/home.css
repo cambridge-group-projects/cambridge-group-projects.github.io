@@ -10,51 +10,10 @@
    the (empty) main column, leaving just the header and the hero.
    --------------------------------------------------------------------------- */
 
+/* The brand palette and the header/tab colours live in extra.css: they apply
+   to every page, not just this one. */
 body:has(.cgp-hero) {
-  /* University of Cambridge brand palette.
-     cam.ac.uk/brand-resources/guidelines/colour */
-  --cgp-blue: #8EE8D8;        /* Cambridge Blue — the signature colour */
-  --cgp-blue-light: #D1F9F1;  /* Cambridge Light Blue */
-  --cgp-blue-warm: #00BDB6;   /* Cambridge Warm Blue — already the theme primary */
-  --cgp-ink: #133844;         /* Cambridge Dark Blue */
-
   overflow: hidden; /* the landing is exactly one screen */
-}
-
-/* Header and tab bar in Cambridge Warm Blue, framing the video with the band
-   below. Type and icons go Cambridge Dark Blue: white on this teal is only
-   2.4:1, while the dark blue is 5.3:1. */
-/* Header and tab bar together in Cambridge Blue, the same tone as the chooser
-   band below, so the video sits between two matching bands. Dark blue type on
-   it is 8.8:1. */
-body:has(.cgp-hero) .md-header,
-body:has(.cgp-hero) .md-tabs {
-  background-color: var(--cgp-blue);
-  color: var(--cgp-ink);
-}
-body:has(.cgp-hero) .md-header a,
-body:has(.cgp-hero) .md-header .md-icon,
-body:has(.cgp-hero) .md-header__title,
-body:has(.cgp-hero) .md-source,
-body:has(.cgp-hero) .md-tabs__link {
-  color: var(--cgp-ink);
-}
-body:has(.cgp-hero) .md-search__button {
-  background-color: #ffffffbf;
-  color: var(--cgp-ink);
-}
-
-/* The theme draws the tab bar's hairline and its active marker with light-mode
-   variables that vanish against the teal. */
-body:has(.cgp-hero) .md-tabs {
-  box-shadow: 0 -0.05rem 0 inset #1338441f;
-}
-body:has(.cgp-hero) .md-tabs__link { opacity: 0.78; }
-body:has(.cgp-hero) .md-tabs__link:hover,
-body:has(.cgp-hero) .md-tabs__link:focus,
-body:has(.cgp-hero) .md-tabs__item--active .md-tabs__link { opacity: 1; }
-body:has(.cgp-hero) .md-tabs__item--active {
-  border-bottom-color: var(--cgp-ink);
 }
 
 body:has(.cgp-hero) .md-main { display: none; }

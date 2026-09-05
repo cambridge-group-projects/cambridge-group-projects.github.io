@@ -18,6 +18,54 @@
   --md-hue: 225deg;
 }
 
+/* University of Cambridge brand palette.
+   https://www.cam.ac.uk/brand-resources/guidelines/colour */
+:root {
+  --cgp-blue: #8EE8D8;        /* Cambridge Blue — the signature colour */
+  --cgp-blue-light: #D1F9F1;  /* Cambridge Light Blue */
+  --cgp-blue-warm: #00BDB6;   /* Cambridge Warm Blue */
+  --cgp-ink: #133844;         /* Cambridge Dark Blue */
+}
+
+/* Header and tab bar in Cambridge Blue on every page. Type and icons go
+   Cambridge Dark Blue, which is 8.8:1 on this ground; white would be 1.4:1.
+   The theme colours the header from its own styles rather than from
+   --md-primary-fg-color, so these have to be set directly. */
+.md-header,
+.md-tabs {
+  background-color: var(--cgp-blue);
+  color: var(--cgp-ink);
+}
+
+.md-header a,
+.md-header .md-icon,
+.md-header__title,
+.md-source,
+.md-tabs__link {
+  color: var(--cgp-ink);
+}
+
+/* Reads as a field against the blue, where the theme's translucent fill does
+   not. */
+.md-search__button {
+  background-color: #ffffffbf;
+  color: var(--cgp-ink);
+}
+
+/* The theme draws the bar's hairline and the active marker with variables that
+   vanish against the blue. */
+.md-tabs {
+  box-shadow: 0 -0.05rem 0 inset #1338441f;
+}
+
+.md-tabs__link { opacity: 0.78; }
+
+.md-tabs__link:hover,
+.md-tabs__link:focus,
+.md-tabs__item--active .md-tabs__link { opacity: 1; }
+
+.md-tabs__item--active { border-bottom-color: var(--cgp-ink); }
+
 /* Poster still linking to a project video (see e.g. 2026.md). A picture
    rather than an embedded player: nothing is loaded from YouTube until click.
    Full width on narrow screens, floated beside the brief text on wide ones. */
