@@ -16,9 +16,24 @@ body:has(.cgp-hero) {
   overflow: hidden; /* the landing is exactly one screen */
 }
 
-body:has(.cgp-hero) .md-main { display: none; }
-body:has(.cgp-hero) .md-sidebar { display: none; }
+/* The page body is empty, so the article and the table of contents go. What
+   cannot go is `.md-main` itself: the mobile drawer's navigation lives inside
+   it, and hiding the whole element left the hamburger opening nothing. It is
+   collapsed to no height instead, which the off-canvas drawer does not need. */
+body:has(.cgp-hero) .md-main {
+  height: 0;
+  min-height: 0;
+}
+body:has(.cgp-hero) .md-main__inner { margin: 0; }
+body:has(.cgp-hero) .md-content { display: none; }
+body:has(.cgp-hero) .md-sidebar--secondary { display: none; }
 body:has(.cgp-hero) .md-footer { display: none; }
+
+/* Wide enough for the tab bar, which carries the navigation there, so the
+   sidebar is redundant — and in flow it would push the hero. */
+@media screen and (min-width: 76.25em) {
+  body:has(.cgp-hero) .md-sidebar--primary { display: none; }
+}
 
 /* One non-scrolling screen: the hero band and the choosers share the height
    below the header, split roughly in half. */
