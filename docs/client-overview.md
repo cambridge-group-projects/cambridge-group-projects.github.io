@@ -8,9 +8,7 @@ hide:
 # You bring the problem. They bring seven weeks.
 
 As an industry client you write a design brief, mentor a team of Cambridge
-second-year computer scientists, and meet them four times across Lent term. This
-guide sets out exactly what that involves — what you commit to, what you
-receive, and what seven weeks of student effort realistically buys.
+second-year computer scientists, and meet them four times.
 
 <div class="grid cards" markdown>
 
