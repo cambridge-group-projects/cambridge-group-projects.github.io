@@ -7,8 +7,8 @@ hide:
 
 # You bring the problem. They bring seven weeks.
 
-As an industry client you write a design brief, mentor a team of Cambridge
-second-year computer scientists, and meet them four times.
+As a client you write a design brief, mentor a team of Cambridge second-year
+computer scientists, and meet them four times.
 
 ## What our students offer
 
