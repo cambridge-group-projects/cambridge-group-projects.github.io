@@ -40,7 +40,7 @@ receive, and what seven weeks of student effort realistically buys.
 
     ---
 
-    Four 1-hour meetings Jan-Mar 2027.
+    Four (virtual) 1-hour meetings Jan-Mar 2027.
 
 -   :material-file-document: **Read before you meet**
 
