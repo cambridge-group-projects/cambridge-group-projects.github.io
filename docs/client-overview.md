@@ -72,9 +72,9 @@ All client meetings take place Jan-Mar 2027 and the optional exhibition is at
 the end of March. Check out the
 **[complete timeline](dates-and-timeline.md)**.
 
-## Six things to remember
+## Things to remember
 
-Our students have a fixed time budget, but we aim for ambitious projects. The
+We aim for ambitious projects, but our students have a fixed time budget. The
 code artifacts belong to our students, but clients can negotiate the follow-up
 usage. Check out
 **[six key things to remember](six-things-to-remember.md)**!

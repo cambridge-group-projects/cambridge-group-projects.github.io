@@ -1,11 +1,11 @@
 ---
-title: Six things to remember
+title: Things to remember
 description: The six expectations that most often catch a client out — the hours available, the hard stop, how students are assigned, how ambitious the briefs are, what is actually assessed, and where the code ends up.
 hide:
   - toc
 ---
 
-# Six things to remember
+# Things to remember
 
 None of this is meant to put you off — projects regularly produce genuinely
 useful prototypes. But going in with the right expectations is the difference
