@@ -16,10 +16,9 @@ a technical solution.
 
 ## Group Project Design Briefs for 2027 (work in progress)
 
-We are currently collecting design briefs for the 2025/2026 group project runs (expecting 131 students, 22 teams). If you are
+We are currently collecting design briefs for the 2026/2027 group project runs (expecting 131 students, 22 teams). If you are
 interested to participate as a client, read ["What makes a good project?"](design_a_good_project.md).
-To put forward your project idea, get in touch with [Alan
-Blackwell](https://www.cl.cam.ac.uk/~afb21/) or [Tobias Grosser](https://www.grosser.science).
+To put forward your project idea, get in touch with [Tobias Grosser](https://www.grosser.science).
 
 ### Accepted design briefs (for 2027)
 
