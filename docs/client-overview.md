@@ -94,6 +94,6 @@ briefs are, what is actually assessed, and where the code ends up:
 
 ## Interested in proposing a project?
 
-Contact the organizers at
+Contact the organisers at
 [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk).
 
