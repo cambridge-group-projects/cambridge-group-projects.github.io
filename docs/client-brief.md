@@ -13,7 +13,7 @@ design a solution — in about a paragraph.
 
 ## Three published briefs
 
-Three from the 2026 set, in full. The sections below take them apart.
+... from 2026 as examples of what a great brief can look like.
 
 !!! example "Draught Detective — Fran Sutton, Cambridge Retrofit Hub"
 
@@ -172,8 +172,7 @@ Reading the published briefs is the best preparation for writing one — see the
 
     ---
 
-    Email the group project address so it reaches the whole organising team. Ask them
-    for the current cut-off date and any format they prefer:
+    Send your project brief to
     [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk?subject=Part%20IB%20group%20project%20design%20brief).
 
 </div>
