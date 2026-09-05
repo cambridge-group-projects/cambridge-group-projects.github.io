@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+<!-- Social preview cards. Without these, WhatsApp, Slack and the rest fall
+     back to scraping the page and pick the favicon — the tall University
+     crest — which says nothing about the projects. Point them instead at the
+     hero still: students demonstrating their own 2026 project.
+
+     og:image must be an absolute URL; relative paths are ignored by every
+     scraper. Swap the three IMAGE lines below to feature a different year. -->
+
+{% block extrahead %}
+  {% set image = config.site_url ~ "assets/hero-2026-foxtrot.jpg" %}
+  {% set image_width = "1280" %}
+  {% set image_height = "720" %}
+
+  {#- The landing page is the link people actually paste, so it gets the site
+      name alone as its headline rather than the "Home - …" of its <title>.
+      Zensical has no page.is_homepage, but the home page's url is empty. -#}
+  {%- if not page.url %}
+    {% set title = config.site_name %}
+  {%- elif page.meta and page.meta.title %}
+    {% set title = page.meta.title ~ " - " ~ config.site_name %}
+  {%- elif page.title %}
+    {% set title = page.title | striptags ~ " - " ~ config.site_name %}
+  {%- else %}
+    {% set title = config.site_name %}
+  {%- endif %}
+
+  {%- if page.meta and page.meta.description %}
+    {% set description = page.meta.description %}
+  {%- else %}
+    {% set description = config.site_description %}
+  {%- endif %}
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:image" content="{{ image }}">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="{{ image_width }}">
+  <meta property="og:image:height" content="{{ image_height }}">
+  <meta property="og:image:alt" content="Two students demonstrating their group project on a wall-mounted display">
+  {%- if page.canonical_url %}
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  {%- endif %}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{{ image }}">
+{% endblock %}
