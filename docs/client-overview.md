@@ -32,7 +32,7 @@ computer scientists, and meet them four times.
 
     ---
 
-    Roughly 100–200 words describing your problem.
+    Roughly 100–200 words → [Learn more](client-brief.md).
 
 -   :material-handshake: **Meet four times**
 
