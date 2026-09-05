@@ -7,9 +7,10 @@ hide:
 
 # Writing a brief
 
-Your brief is the only thing students see before they choose. It has to make them
-want the project, tell them honestly what the hard part is, and leave them room to
-design a solution — in about a paragraph.
+Your brief is the only thing students see before they choose. It has to
+[make them want the project](design_a_good_project.md), tell them honestly what
+the hard part is, and leave them room to design a solution — in about a
+paragraph.
 
 ## Three published briefs
 
