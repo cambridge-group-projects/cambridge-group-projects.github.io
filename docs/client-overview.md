@@ -10,6 +10,8 @@ hide:
 As an industry client you write a design brief, mentor a team of Cambridge
 second-year computer scientists, and meet them four times.
 
+## What our students offer
+
 <div class="grid cards" markdown>
 
 -   :material-calendar-week: **7 weeks of work**
