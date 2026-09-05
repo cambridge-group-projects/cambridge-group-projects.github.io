@@ -7,9 +7,6 @@ hide:
 
 # Dates & Timeline
 
-Filtered down to the milestones a client is actually part of. Student-only
-deadlines are left out. (Dates shown are for the Lent 2027 run.)
-
 | When | What happens for you |
 | --- | --- |
 | Mon 16 Nov 2026 | **Briefing lecture — your brief is presented.** Students see the design briefs for the first time. Your brief needs to be with the organisers in good time before this; ask them for the current cut-off. |

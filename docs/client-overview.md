@@ -74,10 +74,11 @@ the end of March. Check out the
 
 ## Things to remember
 
-We aim for ambitious projects, but our students have a fixed time budget. The
-code artifacts belong to our students, but clients can negotiate the follow-up
-usage. Check out
-**[six key things to remember](six-things-to-remember.md)**!
+- We aim for ambitious projects, but our students have a fixed time budget.
+- The code artifacts belong to our students, but clients can negotiate the follow-up
+usage.
+
+Check out **[six key things to remember](six-things-to-remember.md)**!
 
 ## Interested in proposing a project?
 

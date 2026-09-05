@@ -7,9 +7,7 @@ hide:
 
 # Things to remember
 
-None of this is meant to put you off — projects regularly produce genuinely
-useful prototypes. But going in with the right expectations is the difference
-between a great experience and a disappointing one.
+Our students do great work, but there are limitations worth knowing about.
 
 !!! warning "Budget: 60 hours per member"
 
