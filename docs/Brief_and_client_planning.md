@@ -24,7 +24,7 @@ Blackwell](https://www.cl.cam.ac.uk/~afb21/) or [Tobias Grosser](https://www.gro
 ### Accepted design briefs (for 2027)
 
 1. [Maths Recommender](Maths_Recommender)
-2. [A Declarative MLIR Dialect for the AHB Protocol](AHB_Protocol)
+2. [A Declarative MLIR Dialect for the AHB Protocol](A Declarative MLIR Dialect for the AHB Protocol)
 
 ### Design Brief Candidates  (for 2027)
 
