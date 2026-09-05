@@ -28,10 +28,6 @@ receive, and what seven weeks of student effort realistically buys.
 
 ## What being a client actually involves
 
-Four formal meetings, four documents to read, and a brief to write beforehand.
-The meetings can be in person or virtual, and it is the team's job to schedule
-them with you inside the required week.
-
 <div class="grid cards" markdown>
 
 -   :material-pencil: **Write a brief**
@@ -56,8 +52,7 @@ them with you inside the required week.
 
     ---
 
-    Data, credentials, API access, documentation or hardware. Access that hasn't
-    been approved is a classic week-one risk.
+    Data, credentials, API access, documentation or hardware.
 
 -   :material-video: **Watch and vote**
 
