@@ -68,9 +68,9 @@ computer scientists, and meet them four times.
 
 ## Dates & Timeline
 
-The milestones you are actually part of, from the briefing lecture through the
-four meetings to the exhibition and the final report:
-**[Dates & Timeline](dates-and-timeline.md)**.
+All client meetings take place Jan-Mar 2027 and the optional exhibition is at
+the end of March. Check out the
+**[complete timeline](dates-and-timeline.md)**.
 
 ## Six things to remember
 
