@@ -64,8 +64,7 @@ receive, and what seven weeks of student effort realistically buys.
 
     ---
 
-    A public screening, demonstrations of every project and the awards, on the
-    last Wednesday of Lent term.
+    Join our public project presentation day.
 
 </div>
 
