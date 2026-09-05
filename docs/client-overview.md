@@ -58,8 +58,7 @@ receive, and what seven weeks of student effort realistically buys.
 
     ---
 
-    Videos go online for staff, clients and students in week 8, and you can vote
-    for your favourite projects.
+    Videos go online in week 8, and you can vote for your favourite projects.
 
 -   :material-medal: **Come to the exhibition (optional)**
 
