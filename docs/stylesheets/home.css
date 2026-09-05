@@ -10,90 +10,61 @@
    the (empty) main column, leaving just the header and the hero.
    --------------------------------------------------------------------------- */
 
-body:has(.cgp-hero) { overflow: hidden; } /* the landing is exactly one screen */
-body:has(.cgp-hero) .md-header {
-  background-color: #000;
-  color: #fff;
+body:has(.cgp-hero) {
+  /* University of Cambridge brand palette.
+     cam.ac.uk/brand-resources/guidelines/colour */
+  --cgp-blue: #8EE8D8;        /* Cambridge Blue — the signature colour */
+  --cgp-blue-light: #D1F9F1;  /* Cambridge Light Blue */
+  --cgp-blue-warm: #00BDB6;   /* Cambridge Warm Blue — already the theme primary */
+  --cgp-ink: #133844;         /* Cambridge Dark Blue */
+
+  overflow: hidden; /* the landing is exactly one screen */
 }
-body:has(.cgp-hero) .md-header__title { color: #fff; }
-body:has(.cgp-hero) .md-search {
-  background-color: transparent;
+
+/* Header and tab bar in Cambridge Warm Blue, framing the video with the band
+   below. Type and icons go Cambridge Dark Blue: white on this teal is only
+   2.4:1, while the dark blue is 5.3:1. */
+/* Header and tab bar together in Cambridge Blue, the same tone as the chooser
+   band below, so the video sits between two matching bands. Dark blue type on
+   it is 8.8:1. */
+body:has(.cgp-hero) .md-header,
+body:has(.cgp-hero) .md-tabs {
+  background-color: var(--cgp-blue);
+  color: var(--cgp-ink);
+}
+body:has(.cgp-hero) .md-header a,
+body:has(.cgp-hero) .md-header .md-icon,
+body:has(.cgp-hero) .md-header__title,
+body:has(.cgp-hero) .md-source,
+body:has(.cgp-hero) .md-tabs__link {
+  color: var(--cgp-ink);
 }
 body:has(.cgp-hero) .md-search__button {
-  background-color: #333 !important;
-  border-radius: 0.2rem;
-  color: #fff !important;
+  background-color: #ffffffbf;
+  color: var(--cgp-ink);
 }
-body:has(.cgp-hero) .md-search__button::before {
-  background-color: #fff !important;
+
+/* The theme draws the tab bar's hairline and its active marker with light-mode
+   variables that vanish against the teal. */
+body:has(.cgp-hero) .md-tabs {
+  box-shadow: 0 -0.05rem 0 inset #1338441f;
 }
-body:has(.cgp-hero) .md-search__button::after {
-  background-color: #1a1a1a !important;
-  color: #fff !important;
+body:has(.cgp-hero) .md-tabs__link { opacity: 0.78; }
+body:has(.cgp-hero) .md-tabs__link:hover,
+body:has(.cgp-hero) .md-tabs__link:focus,
+body:has(.cgp-hero) .md-tabs__item--active .md-tabs__link { opacity: 1; }
+body:has(.cgp-hero) .md-tabs__item--active {
+  border-bottom-color: var(--cgp-ink);
 }
-body:has(.cgp-hero) .md-search__input {
-  background-color: #333;
-  border-radius: 0.2rem;
-  color: #fff !important;
-  caret-color: #fff;
-}
-body:has(.cgp-hero) .md-search__input::placeholder { color: #fff; }
-body:has(.cgp-hero) .md-search * {
-  color: #fff !important;
-}
-body:has(.cgp-hero) label[for="__search"] svg {
-  stroke: #ffffff !important;
-  color: #ffffff !important;
-}
-body:has(.cgp-hero) label[for="__search"] {
-  color: #ffffff !important;
-}
-body:has(.cgp-hero) .md-search__button svg {
-  stroke: #ffffff !important;
-  color: #ffffff !important;
-}
-body:has(.cgp-hero) .md-search__icon {
-  color: #ffffff !important;
-  background-color: #000000 !important;
-}
-body:has(.cgp-hero) .md-search__icon svg {
-  stroke: #ffffff !important;
-  color: #ffffff !important;
-}
-body:has(.cgp-hero) .md-icon { color: #fff; }
+
 body:has(.cgp-hero) .md-main { display: none; }
 body:has(.cgp-hero) .md-sidebar { display: none; }
 body:has(.cgp-hero) .md-footer { display: none; }
+
 /* Hide only the light/dark toggles. The header's other buttons share this
    class, so matching it alone also took out the logo, the drawer toggle and
    the small-screen search toggle. */
 body:has(.cgp-hero) .md-header__button[for^="__palette"] { display: none !important; }
-
-/* The tab bar defaults to a light strip, which reads as a seam between the
-   black header and the dark hero. Invert it so the two form one dark band. */
-body:has(.cgp-hero) .md-tabs {
-  background-color: #000;
-  color: #fff;
-  /* The theme draws the bar's hairline with a light-mode variable, which is
-     invisible against black. */
-  box-shadow: 0 -0.05rem 0 inset #ffffff29;
-}
-body:has(.cgp-hero) .md-tabs__link {
-  color: #ffffffb3;
-  opacity: 1;
-}
-body:has(.cgp-hero) .md-tabs__link:hover,
-body:has(.cgp-hero) .md-tabs__link:focus,
-body:has(.cgp-hero) .md-tabs__item--active .md-tabs__link,
-body:has(.cgp-hero) .md-tabs__link--active {
-  color: #fff;
-}
-/* Same problem for the active-tab marker: the theme's border colour is the
-   near-black default foreground, so it never showed. Recolour it only, keeping
-   the theme's 0.05rem weight so it matches the marker on every other page. */
-body:has(.cgp-hero) .md-tabs__item--active {
-  border-bottom-color: #fff;
-}
 
 /* One non-scrolling screen: the hero band and the choosers share the height
    below the header, split roughly in half. */
@@ -117,12 +88,12 @@ body:has(.cgp-hero) .md-tabs__item--active {
 .cgp-hero {
   background-color: #0b1a1f;
   display: flex;
-  flex: 1 1 50%; /* top half of the landing */
+  flex: 1 1 auto; /* the video takes whatever the chooser does not need */
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-end; /* copy sits low, leaving the top of the frame clear */
   min-height: 0;
   overflow: hidden;
-  padding: 1.6rem 0;
+  padding: 1.6rem 0 0.7rem;
   position: relative;
 }
 
@@ -198,11 +169,15 @@ body:has(.cgp-hero) .md-tabs__item--active {
   }
 }
 
-/* Darkens the video enough for the copy and the glass panels to read over it. */
+/* Darkens the video only where it has to. The shade is pooled around the copy
+   in the lower left and falls away upward and to the right, so the top of the
+   frame — including the top-left corner — and the right side both play clear.
+   A thin wash along the bottom keeps the credit line legible. */
 .cgp-hero__scrim {
   background:
-    linear-gradient(180deg, #061a1fcc 0%, #061a1f99 40%, #061a1fcc 100%),
-    radial-gradient(120% 90% at 50% 40%, #0000 0%, #061a1fbf 100%);
+    radial-gradient(70% 45% at 6% 96%,
+      #061a1f99 0%, #061a1f4d 45%, #061a1f00 100%),
+    linear-gradient(0deg, #061a1f66 0%, #061a1f00 22%);
   inset: 0;
   position: absolute;
 }
@@ -214,14 +189,32 @@ body:has(.cgp-hero) .md-tabs__item--active {
   z-index: 1;
 }
 
+/* Sits inside the inner's stacking context, so it covers the video and the
+   scrim but stays behind the copy. */
+.cgp-hero__inner::before {
+  background: linear-gradient(90deg,
+    #061a1ff2 0%, #061a1fe6 62%, #061a1fcc 84%, #061a1f80 94%, #061a1f00 100%);
+  content: "";
+  inset: -7rem -0.5rem -5rem -50vw;
+  /* Fade the top edge in, or the backdrop draws a hard line across the frame. */
+  -webkit-mask-image: linear-gradient(180deg, #0000 0%, #000 32%);
+  mask-image: linear-gradient(180deg, #0000 0%, #000 32%);
+  position: absolute;
+  z-index: -1;
+}
+
 /* ---- Headline block ---- */
 
 .cgp-hero__head {
   margin: 0 0 1.4rem;
-  max-width: 52rem;
+  max-width: none; /* the headline runs as one line across the grid */
   padding: 0 1rem;
   text-align: left;
 }
+
+/* The kicker may wrap only between its two halves, so the break lands after
+   "Computer Science ·" rather than inside either name. */
+.cgp-hero__kicker > span { white-space: nowrap; }
 
 .cgp-hero__kicker {
   color: #7fe3de;
@@ -248,7 +241,7 @@ body:has(.cgp-hero) .md-tabs__item--active {
   font-size: 0.9rem;
   line-height: 1.6;
   margin: 0;
-  max-width: 40rem;
+  max-width: 33rem;
   text-shadow: 0 0 0.5rem #0009;
 }
 
@@ -256,10 +249,13 @@ body:has(.cgp-hero) .md-tabs__item--active {
 
 .cgp-below {
   align-items: stretch;
-  background: #000;
-  border-top: 0.05rem solid #333;
+  background: var(--cgp-blue);
+  border-top: 0.05rem solid #13384426;
   display: flex;
-  flex: 1 1 50%; /* bottom half; choosers centred within it */
+  /* Sized to its own content rather than a fixed share, so the video gets the
+     rest of the screen and a short viewport shrinks the video, never clips the
+     panels. */
+  flex: 0 0 auto;
   min-height: 0;
   overflow: hidden;
   padding: 0;
@@ -280,13 +276,13 @@ body:has(.cgp-hero) .md-tabs__item--active {
 
 /* Continuous panels separated by a dark stripe. */
 .cgp-panel {
-  --cgp-accent: #0c5963;
-  border-right: 0.05rem solid #222;
-  color: #fff;
+  --cgp-accent: var(--cgp-ink);
+  border-right: 0.05rem solid #13384426;
+  color: var(--cgp-ink);
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  padding: 2.4rem 2.2rem;
+  padding: 1.5rem 2.2rem;
   position: relative;
   text-decoration: none;
   transition: background 0.25s;
@@ -296,8 +292,10 @@ body:has(.cgp-hero) .md-tabs__item--active {
   border-right: none;
 }
 
-.cgp-panel--partners {
-  --cgp-accent: #0072cf;
+/* Lift the panel under the cursor out of the flat band. */
+.cgp-panel:hover,
+.cgp-panel:focus-visible {
+  background: var(--cgp-blue-light);
 }
 
 /* Keep the panel's contents above the hover highlight. */
@@ -310,12 +308,12 @@ body:has(.cgp-hero) .md-tabs__item--active {
 .cgp-panel__icon {
   align-items: center;
   color: var(--cgp-accent);
-  display: flex;
-  height: 2.4rem;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 1.5rem;
   justify-content: center;
-  margin-bottom: 0.8rem;
   transition: transform 0.25s;
-  width: 2.4rem;
+  width: 1.5rem;
 }
 
 .cgp-panel__icon svg { height: 1.3rem; width: 1.3rem; }
@@ -325,26 +323,21 @@ body:has(.cgp-hero) .md-tabs__item--active {
   transform: scale(1.08);
 }
 
-.cgp-panel__eyebrow {
-  color: var(--cgp-accent);
-  font-size: 0.6rem;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
 .md-typeset .cgp-panel h2 {
-  color: #fff;
+  align-items: center;
+  color: var(--cgp-ink);
+  display: flex;
   font-size: clamp(1.3rem, 2.2vw, 1.5rem);
+  gap: 0.5rem;
   letter-spacing: -0.02em;
-  margin: 0.2rem 0 0.5rem;
+  margin: 0 0 0.35rem;
 }
 
 .md-typeset .cgp-panel > p {
-  color: #ffffffd9;
+  color: var(--cgp-ink);
   font-size: 0.8rem;
   line-height: 1.6;
-  margin: 0 0 0.8rem;
+  margin: 0 0 0.9rem;
 }
 
 .md-typeset .cgp-panel ul {
@@ -357,7 +350,7 @@ body:has(.cgp-hero) .md-tabs__item--active {
 
 .md-typeset .cgp-panel li {
   align-items: flex-start;
-  color: #ffffffb3;
+  color: var(--cgp-ink);
   display: flex;
   font-size: 0.76rem;
   gap: 0.5rem;
@@ -375,7 +368,7 @@ body:has(.cgp-hero) .md-tabs__item--active {
 /* Push the CTA to the bottom so both panels align regardless of body length. */
 .cgp-panel__go {
   align-items: center;
-  background: var(--cgp-accent);
+  background: var(--cgp-ink);
   border-radius: 0.25rem;
   color: #fff;
   display: inline-flex;
@@ -384,77 +377,47 @@ body:has(.cgp-hero) .md-tabs__item--active {
   gap: 0.4rem;
   margin-top: auto;
   padding: 0.6rem 1.2rem;
-  transition: gap 0.25s, transform 0.25s;
+  transition: background 0.25s, color 0.25s;
   width: fit-content;
 }
 
-.cgp-panel__go svg { height: 0.85rem; width: 0.85rem; }
+.cgp-panel__go svg {
+  height: 0.85rem;
+  transition: transform 0.25s;
+  width: 0.85rem;
+}
 
+/* The button keeps its box; only the arrow travels, so nothing reflows under
+   the cursor. */
 .cgp-panel:hover .cgp-panel__go,
 .cgp-panel:focus-visible .cgp-panel__go {
-  gap: 0.65rem;
-  transform: translateX(0.1rem);
+  background: var(--cgp-blue-warm);
+  color: var(--cgp-ink);
 }
 
-/* ---- Playlist button + video credit ---- */
-
-.md-typeset .cgp-hero__credit {
-  align-items: center;
-  color: #ffffff8c;
-  display: flex;
-  flex-wrap: wrap;
-  font-size: 0.58rem;
-  gap: 0.5rem 0.9rem;
-  line-height: 1.5;
-  margin: 1.5rem 0 0;
-  max-width: 52rem;
-  padding: 0 1rem;
-  text-align: left;
-  text-shadow: 0 0 0.4rem #000000b3;
-}
-
-/* The call-to-action: a glass button with a YouTube-red play glyph. */
-.md-typeset a.cgp-playlist {
-  align-items: center;
-  backdrop-filter: blur(4px);
-  background: #ffffff1f;
-  border: 0.05rem solid #ffffff40;
-  border-radius: 2rem;
-  color: #fff;
-  display: inline-flex;
-  font-size: 0.72rem;
-  font-weight: 700;
-  gap: 0.45rem;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  transition: background 0.25s, border-color 0.25s;
-}
-
-.md-typeset a.cgp-playlist:hover,
-.md-typeset a.cgp-playlist:focus {
-  background: #ffffff2e;
-  border-color: #fff;
-  color: #fff;
-}
-
-.cgp-playlist svg {
-  color: #ff0033;
-  height: 1rem;
-  width: 1rem;
+.cgp-panel:hover .cgp-panel__go svg,
+.cgp-panel:focus-visible .cgp-panel__go svg {
+  transform: translateX(0.2rem);
 }
 
 /* Pinned to the hero's lower-right corner. */
 .md-typeset .cgp-hero__nowplaying {
-  bottom: 0.7rem;
-  color: #ffffff8c;
+  color: #ffffffb3;
   font-size: 0.56rem;
   margin: 0;
   position: absolute;
   right: 1rem;
   text-align: right;
-  text-shadow: 0 0 0.4rem #000000b3;
+  /* The top of the frame carries no scrim, so the credit needs its own. */
+  max-width: 60%;
+  text-shadow: 0 0 0.6rem #000000d9;
+  top: 0.7rem;
   z-index: 2;
 }
+
+/* Each half is unbreakable, so if the credit has to wrap it does so after the
+   group's name rather than inside either part. */
+.md-typeset .cgp-hero__nowplaying a > span { white-space: nowrap; }
 
 .md-typeset .cgp-hero__nowplaying a {
   color: #cfeeeb;
@@ -471,9 +434,8 @@ body:has(.cgp-hero) .md-tabs__item--active {
    --------------------------------------------------------------------------- */
 
 @media screen and (max-width: 44.9375em) {
-  .cgp-hero__break { display: none; }
   .cgp-chooser { grid-template-columns: 1fr; }
-  .cgp-panel { border-right: none; border-bottom: 0.05rem solid #222; padding: 1.8rem 1.2rem; }
+  .cgp-panel { border-right: none; border-bottom: 0.05rem solid #13384426; padding: 1.8rem 1.2rem; }
   .cgp-panel:last-child { border-bottom: none; }
 
   /* Two stacked panels plus the hero cannot honestly share one phone screen, so
@@ -481,12 +443,66 @@ body:has(.cgp-hero) .md-tabs__item--active {
   body:has(.cgp-hero) { overflow: auto; }
   body:has(.cgp-hero) .md-footer { display: block; }
   .cgp-land { height: auto; overflow: visible; }
-  .cgp-hero { flex: none; min-height: 42svh; }
   .cgp-below { flex: none; border-top: none; padding: 0; }
 
-  /* A portrait crop of a 16:9 video shows almost nothing, and the download is
-     not worth it on mobile data — the still frame carries the hero instead. */
-  .cgp-hero__media { display: none; }
+  /* Narrow screens stack instead of overlaying: the copy sits above the video,
+     which then plays in full rather than being read through. Overlaying cost
+     the footage either way — the copy needed shading exactly where the picture
+     was. */
+  .cgp-hero {
+    flex: none;
+    justify-content: flex-start;
+    min-height: 0;
+    padding: 1.2rem 0 0;
+  }
+  .cgp-hero__inner { order: 0; }
+  .cgp-hero__head { max-width: none; }
+
+  /* Back in flow as a 16:9 band under the copy. Positioned, so it paints above
+     the absolutely placed canvas behind it. */
+  .cgp-hero__media {
+    aspect-ratio: 16 / 9;
+    display: block;
+    inset: auto;
+    margin-top: 1.1rem;
+    order: 1;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+  }
+
+  /* Nothing left to shade: the copy is on the hero's own ground. */
+  .cgp-hero__poster,
+  .cgp-hero__scrim { display: none; }
+  .cgp-hero__inner::before { display: none; }
+
+  /* Stacked one above the other the two calls to action read as a pair, so
+     they take the panel's width rather than each sizing to its own label. */
+  .cgp-panel__go {
+    justify-content: center;
+    width: 100%;
+  }
+
+  /* Follows the video rather than floating over the copy. The corner version's
+     60% cap does not apply here — in flow it has the full width, and the cap
+     was wrapping the credit with room to spare. */
+  .md-typeset .cgp-hero__nowplaying {
+    margin: 0.5rem 1rem 0;
+    max-width: none;
+    order: 2;
+    position: static;
+    text-align: left;
+  }
+}
+
+/* On a short screen the hero is not tall enough to hold the copy against its
+   bottom edge — the block overflows the top and the kicker gets clipped. Centre
+   it again and trim the padding. */
+@media screen and (max-height: 48em) {
+  .cgp-hero {
+    justify-content: center;
+    padding: 1.2rem 0;
+  }
 }
 
 /* Motion is the whole point of the video, so drop it entirely and fall back to
@@ -494,5 +510,10 @@ body:has(.cgp-hero) .md-tabs__item--active {
 @media (prefers-reduced-motion: reduce) {
   .cgp-hero__canvas::after { animation: none; }
   .cgp-hero__media { display: none; }
-  .cgp-panel { transition: none; }
+  .cgp-panel,
+  .cgp-panel__go,
+  .cgp-panel__go svg,
+  .cgp-panel__icon { transition: none; }
+  .cgp-panel:hover .cgp-panel__go svg { transform: none; }
+  .cgp-panel:hover .cgp-panel__icon { transform: none; }
 }
