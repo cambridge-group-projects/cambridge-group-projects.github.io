@@ -44,8 +44,7 @@ them with you inside the required week.
 
     ---
 
-    Weeks 1, 2, 4 and 6 of Lent term. Requirements, then specification sign-off,
-    then two progress reviews.
+    Four 1-hour meetings Jan-Mar 2027.
 
 -   :material-file-document: **Read before you meet**
 
