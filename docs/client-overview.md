@@ -50,7 +50,7 @@ them with you inside the required week.
 
     ---
 
-    A report is sent 24h before each meeting.
+    A short report is sent 24h before each meeting.
 
 -   :material-lock-open: **Unblock the team**
 
