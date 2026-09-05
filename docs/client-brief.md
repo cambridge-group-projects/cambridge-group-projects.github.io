@@ -166,13 +166,5 @@ Reading the published briefs is the best preparation for writing one — see the
 
 ## Sending your brief in
 
-<div class="grid cards" markdown>
-
--   :material-email: **Where it goes**
-
-    ---
-
-    Send your project brief to
-    [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk?subject=Part%20IB%20group%20project%20design%20brief).
-
-</div>
+Send your project brief to
+[group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk?subject=Part%20IB%20group%20project%20design%20brief).
