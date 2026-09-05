@@ -18,6 +18,8 @@ receive, and what seven weeks of student effort realistically buys.
 
 -   :material-clock: **30–60 hours per student**
 
+-   :material-laptop: **A (prototypical) software / app / website**
+
 -   :material-video: **One 4-minute video**
 
 </div>
