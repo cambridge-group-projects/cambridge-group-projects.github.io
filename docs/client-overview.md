@@ -38,8 +38,7 @@ them with you inside the required week.
 
     ---
 
-    Roughly 100–200 words describing a problem worth seven weeks, submitted to the
-    organisers before the Michaelmas briefing lecture.
+    Roughly 100–200 words describing your problem.
 
 -   :material-handshake: **Meet four times**
 
