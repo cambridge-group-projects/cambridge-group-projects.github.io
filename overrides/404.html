@@ -3,5 +3,8 @@
 <!-- Content -->
 {% block content %}
   <h1>404 - Not found 13</h1>
-  <a href="#" onclick="this.href='https://github.com/cambridge-group-projects/website/wiki/' + window.location.pathname.split('\\').pop().split('/').pop() + '/_new'">New Page from URL</a>
+  <!-- The content moved out of the GitHub wiki and into docs/ in this repo, so
+       offer to create the missing page there. The last non-empty path segment
+       is the page slug: /Some_Page/ becomes docs/Some_Page.md. -->
+  <a href="#" onclick="this.href='{{ config.repo_url }}/new/main?filename=docs/' + ((window.location.pathname.split('/').filter(Boolean).pop() || 'new-page').replace(/\.html$/, '')) + '.md'">New Page from URL</a>
 {% endblock %}
