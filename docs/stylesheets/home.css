@@ -20,11 +20,6 @@ body:has(.cgp-hero) .md-main { display: none; }
 body:has(.cgp-hero) .md-sidebar { display: none; }
 body:has(.cgp-hero) .md-footer { display: none; }
 
-/* Hide only the light/dark toggles. The header's other buttons share this
-   class, so matching it alone also took out the logo, the drawer toggle and
-   the small-screen search toggle. */
-body:has(.cgp-hero) .md-header__button[for^="__palette"] { display: none !important; }
-
 /* One non-scrolling screen: the hero band and the choosers share the height
    below the header, split roughly in half. */
 .cgp-land {
