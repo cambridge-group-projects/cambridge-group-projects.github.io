@@ -35,7 +35,6 @@ Blackwell](https://www.cl.cam.ac.uk/~afb21/) or [Tobias Grosser](https://www.gro
 
 - Zanado - Quantum Compiler
 - Vianca Shah - AI for Medical Tools
-- Mosaic - CIRCT EDA Tools
 - [IMC](IMC) - Contact Campus events
 - Chengyu Zhang - Testing of ITPs
 
