@@ -14,13 +14,9 @@ receive, and what seven weeks of student effort realistically buys.
 
 <div class="grid cards" markdown>
 
--   :material-handshake: **4 meetings with you**
-
 -   :material-calendar-week: **7 weeks of work**
 
 -   :material-clock: **30–60 hours per student**
-
--   :material-file-document-multiple: **5 documents to you**
 
 -   :material-video: **One 4-minute video**
 
