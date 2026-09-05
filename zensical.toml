@@ -21,10 +21,10 @@ nav = [
   { "Home" = "index.md" },
   { "For Clients" = [
     { "Overview" = "client-overview.md" },
-    { "Dates & Timeline" = "dates-and-timeline.md" },
-    { "Things to remember" = "six-things-to-remember.md" },
     { "Design a good project" = "design_a_good_project.md" },
     { "Writing a Brief" = "client-brief.md" },
+    { "Dates & Timeline" = "dates-and-timeline.md" },
+    { "Things to remember" = "six-things-to-remember.md" },
     { "Logistics for Clients" = "Logistics_for_Clients.md" },
     { "Intellectual Property" = "Intellectual_property.md" },
   ]},
