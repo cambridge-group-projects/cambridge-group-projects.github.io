@@ -29,7 +29,7 @@ Blackwell](https://www.cl.cam.ac.uk/~afb21/) or [Tobias Grosser](https://www.gro
 
 ### Design Brief Candidates  (for 2027)
 
-- no candidates yet
+- Simon Wan - OncoBench NHS
 
 ### Potential Clients (for 2027)
 
