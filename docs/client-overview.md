@@ -32,7 +32,7 @@ computer scientists, and meet them four times.
 
     ---
 
-    Roughly 100–200 words → [Learn more](client-brief.md).
+    Roughly 100–200 words → [Learn to write a brief](client-brief.md).
 
 -   :material-handshake: **Meet four times**
 
