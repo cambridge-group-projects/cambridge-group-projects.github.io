@@ -94,7 +94,6 @@ briefs are, what is actually assessed, and where the code ends up:
 
 ## Interested in proposing a project?
 
-All communication regarding the group projects should be addressed to the group
-project email address, so it reaches the whole organising team:
+Contact the organizers at
 [group-project@cl.cam.ac.uk](mailto:group-project@cl.cam.ac.uk).
 
