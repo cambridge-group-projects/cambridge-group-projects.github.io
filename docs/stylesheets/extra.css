@@ -66,6 +66,14 @@
 
 .md-tabs__item--active { border-bottom-color: var(--cgp-ink); }
 
+/* The active item in the sidebar. The theme paints it from the accent colour,
+   which is the Crest red and also drives every link hover — so this is set
+   directly rather than by moving the accent. */
+.md-nav--primary .md-nav__item .md-nav__link--active {
+  background: var(--cgp-blue-light);
+  color: var(--cgp-ink);
+}
+
 /* Poster still linking to a project video (see e.g. 2026.md). A picture
    rather than an embedded player: nothing is loaded from YouTube until click.
    Full width on narrow screens, floated beside the brief text on wide ones. */
