@@ -11,6 +11,48 @@ Your brief is the only thing students see before they choose. It has to make the
 want the project, tell them honestly what the hard part is, and leave them room to
 design a solution — in about a paragraph.
 
+## Three published briefs
+
+Three from the 2026 set, in full. The sections below take them apart.
+
+!!! example "Draught Detective — Fran Sutton, Cambridge Retrofit Hub"
+
+    A key priority in making homes more energy efficient is to find and
+    plug air draughts. In principle, a builder upgrading an existing house
+    could simply fasten a fan in an open window, use a differential
+    pressure meter to determine how airtight the house is, and start
+    plugging holes, adjusting the number of air changes per hour to fall
+    within a desirable range. A cheap and easy phone app could help the
+    builder to setup and calibrate the equipment, then provide practical
+    guidance to prioritise the most urgent repairs, giving feedback on what
+    has been gained with each of those.
+
+!!! example "Digging for Data — Leontien Talboom, Cambridge University Library"
+
+    In the century before the World-Wide Web, a whole generation of
+    scientists kept their data and archives on floppy disks, often encoded
+    in formats specific to a particular disk drive or PC manufacturer.
+    Much of that data has never gone online, and is now in danger of being
+    lost forever. This project is an archaeological exercise, developing a
+    tool that can excavate and decode that data, perhaps applying machine
+    learning methods to identify and reverse-engineer texts and tables
+    from the magnetic media. Your client is a digital archive specialist,
+    who can provide many samples, as well as technical documentation, to
+    get you started.
+
+!!! example "Wise Banking — Tokunboh Ishmael, Alitheia Capital"
+
+    Mobile banking apps are convenient, and help many students with
+    monthly budgets, but can make it hard to plan for the long term. A
+    particular failing is how to get life advice from other generations,
+    not just parents, but wise friends and mentors in your home community.
+    Your challenge is to create a personal wisdom-based banking app that
+    connects across generations, drawing on principles from the Yellow
+    Cowries curriculum that empower young adults to make improved
+    financial decisions such as savings, loans, investments and insurance.
+    It's important to consider and go beyond AI advice models, building
+    whatever is special in local communities and lifestyles.
+
 ## What the published briefs have in common
 
 Almost every published brief follows roughly the same shape.
