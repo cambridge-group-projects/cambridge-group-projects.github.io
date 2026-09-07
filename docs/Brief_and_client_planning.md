@@ -31,6 +31,8 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Simon Wan - OncoBench NHS
 - Mathworks
 - Flea by Douce
+- Riverlane
+  
 ### Potential Clients (for 2027)
 
 - Zanado - Quantum Compiler
