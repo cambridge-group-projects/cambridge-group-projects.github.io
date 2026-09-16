@@ -1,0 +1,4 @@
+
+Client: Patrick Wollner, check, patrickwollner@gmail.com.
+
+Design an AI automation platform specifically for the managers of factories, farms, or other small and medium business in Africa. This should exploit the capabilities of open-weight LLMs for African languages such as Yoruba (e.g. from Sunbird.ai), to configure simple scheduling, quality control and process management facilities. Your platform should provide customisable interfaces to devices such as check-weighers, programmable logic controllers and packaging machinery. While the managers of such factories often do business in English, many factory staff are more confident working in their first language, and would be able to initiate conversations to optimise their workplace, potentially with an edge model hosted on a commodity smart phone.
