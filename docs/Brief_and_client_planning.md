@@ -31,7 +31,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 
 ### Design Brief Candidates  (for 2027)
 
-- African Automation Assistant](African_Automation_Assistant)
+- [African Automation Assistant](African_Automation_Assistant)
 - Mathworks
 - Flea by Douce
 - Riverlane
