@@ -26,6 +26,8 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 2. [A Declarative MLIR Dialect for the AHB Protocol](A_Declarative_MLIR_Dialect_for_the_AHB_Protocol)
 3. [Text Immersion](Text_Immersion)
 4. [OncoBench NHS: Real-World Oncology Outcomes](OncoBench_NHS:_Real-World_Oncology_Outcomes)
+5. [Global Green Solutions](Global_Green_Solutions)
+
 
 ### Design Brief Candidates  (for 2027)
 
