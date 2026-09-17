@@ -1,0 +1,4 @@
+
+Client: Martina Sciola <msciola@mathworks.com>
+
+Modern automotive systems rely on embedded software to run deterministically on resource-constrained microcontrollers. Engineers use model-based design workflows to build control models and automatically generate production C code. Processor-in-the-Loop (PIL) testing runs this code on a virtual target while the plant model stays in simulation. This step verifies timing, numerical behavior, and real-time deadline compliance before physical prototyping, supporting ISO 26262 compliance. Your task is to execute this complete development and verification workflow for a pre-built Simulink automotive control model. You will define software requirements, design test scenarios, generate C code from the controller subsystem, run PIL tests on a virtual Arm Cortex-M7 processor, analyze execution times, and publish a comprehensive verification report.
