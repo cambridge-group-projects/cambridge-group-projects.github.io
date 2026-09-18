@@ -29,6 +29,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 5. [Global Green Solutions](Global_Green_Solutions)
 6. [ARM PIL Emulator](ARM_PIL_Emulator)
 7. [Medical Edge Vision](Medical_Edge_Vision)
+8. [Big Boxed Security](Big_Boxed_Security)
 
 ### Design Brief Candidates  (for 2027)
 
