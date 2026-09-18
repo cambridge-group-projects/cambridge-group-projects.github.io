@@ -1,0 +1,22 @@
+
+George V. Neville-Neil MSB Associates <gnn@neville-neil.com>
+
+Modern computer systems require fine grained security to protect users
+from attackers.  Recent advances in computer hardware such as CHERI
+(Capability Hardware Enhanced RISC Instructions) and compiler software
+through MLIR (Multi-Level Intermediate Representation) mean that
+modern programming languages can now express these fine grained
+security boundaries at the programming language level.  A system that
+exposes easy to grok computer langauge primitives that encrourages
+programmers to build secure is challenging and possible.  Your users
+are fellow programmers who want build the most secure software
+possible, but they need the tools to do the job.  Your project will
+produce an MLIR dialect that provides langauge primitives to describe
+compartments, the data that goes into them and the conditions under
+which data may enter or exit.  With the dialect in place a new tool,
+or tools, can be built to take description of what data to protect,
+and turn that into the corresponding primitives.  A stretch goal would
+be an end to end secure programming system that uses a small number
+these new programming language primitives, adds them to an existing
+compiled language such as Rust, C or C++, and uses the LLVM compiler
+toolkit to translate the primitives into effective CHERI compartments.
