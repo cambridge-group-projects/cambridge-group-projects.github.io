@@ -31,6 +31,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 7. [Medical Edge Vision](Medical_Edge_Vision)
 8. [Big Boxed Security](Big_Boxed_Security)
 9. [Trouble Detector](Trouble_Detector)
+10. [Sentient Classrooms](Sentient_Classrooms)
 
 ### Design Brief Candidates  (for 2027)
 
