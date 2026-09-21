@@ -1,2 +1,5 @@
 # Sentient Classrooms
 
+Client: Annaliese Micallef Grimaud, Cambridge University Press & Assessment, annaliese.grimaud@cambridge.org.
+
+It is a challenge for classroom teachers to focus their attention on learners who need more personal help, rather than those progressing well with online tools such as Isaac Science. This project will build an augmented-reality overlay on a photograph or live video of a whole classroom, using learner-response and location-specific data provided by QR codes from each student’s phone to help prioritise the teacher's attention. Analysing responses to individual activities could help direct support where it is most needed - for example, by suggesting assistance from a nearby learner, providing AI-enhanced feedback, or identifying groups with a shared difficulty that the teacher could address together. The tool should support, rather than replace, the teacher's judgement. 
