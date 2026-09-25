@@ -32,6 +32,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 8. [Big Boxed Security](Big_Boxed_Security)
 9. [Trouble Detector](Trouble_Detector)
 10. [Sentient Classrooms](Sentient_Classrooms)
+11. [Smart GPU Allocation](Smart_GPU_Allocation)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -46,6 +47,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Vianca Shah - AI for Medical Tools
 - [IMC](IMC) - Contact Campus events
 - Chengyu Zhang - Testing of ITPs
+- Hugh Baker-Smith, Youron - Smart GPU Allocation
 
 ### Design briefs suggested to several potential clients
 
