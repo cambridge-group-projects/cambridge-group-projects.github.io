@@ -49,7 +49,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Vianca Shah - AI for Medical Tools
 - [IMC](IMC) - Contact Campus events
 - Chengyu Zhang - Testing of ITPs
-- Hugh Baker-Smith, Youron - Smart GPU Allocation
 
 ### Design briefs suggested to several potential clients
 
