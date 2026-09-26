@@ -33,6 +33,8 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 9. [Trouble Detector](Trouble_Detector)
 10. [Sentient Classrooms](Sentient_Classrooms)
 11. [Smart GPU Allocation](Smart_GPU_Allocation)
+12. [Lit Scout](Lit_Scout)
+13. [Finding Fire](Finding_Fire)
 
 ### Design Brief Candidates  (for 2027)
 
