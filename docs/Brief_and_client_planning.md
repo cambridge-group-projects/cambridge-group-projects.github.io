@@ -49,6 +49,9 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Vianca Shah - AI for Medical Tools
 - [IMC](IMC) - Contact Campus events
 - Chengyu Zhang - Testing of ITPs
+- Ann O'Neill, Adora Health - Wearables
+- Gideon Farrell, Converge - Topic to be confirmed
+- Chris Poole, Cambridge Partners - App for amateur football
 
 ### Design briefs suggested to several potential clients
 
