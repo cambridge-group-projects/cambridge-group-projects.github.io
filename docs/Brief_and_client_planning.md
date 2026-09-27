@@ -52,6 +52,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Ann O'Neill, Adora Health - Wearables
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
+- Botty Dimanov and Maleakhi Wijaya, Tenyks - Vision AI tracking and ReID system
 
 ### Design briefs suggested to several potential clients
 
