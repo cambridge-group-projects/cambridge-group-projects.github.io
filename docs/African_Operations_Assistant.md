@@ -1,2 +1,5 @@
 # African Operations Assistant
 
+Client: Patrick Wollner, tbc, patrickwollner@gmail.com.
+
+Design an AI assistant for the manager of a small or medium-sized agricultural processing business in Africa, for example a coffee processor with around 60 staff, buying from smallholder farmers and selling to European roasters. The manager runs the business in English, while staff and suppliers mostly work in their first language, and much of the operation lives in notebooks, memory and WhatsApp voice notes. Your platform should let staff and suppliers report in their own language (intake weights, grades, defects, stock movements, problems), using open-weight models for African languages such as Sunbird AI's Sunflower, potentially with an edge model hosted on a commodity smartphone. It should turn these reports into structured records and a view the manager can act on, and propose actions such as reorders, quality alerts, buyer updates and traceability records for export. A human approves every action, and every step leaves an audit trail. Integration with devices such as check-weighers is an optional stretch goal.
