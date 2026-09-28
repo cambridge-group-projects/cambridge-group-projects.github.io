@@ -39,7 +39,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 
 ### Design Brief Candidates  (for 2027)
 
-- Mathworks
 - Flea by Douce
 - Riverlane
   
