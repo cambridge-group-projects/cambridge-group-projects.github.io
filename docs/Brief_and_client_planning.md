@@ -52,6 +52,15 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
 - Botty Dimanov and Maleakhi Wijaya, Tenyks - Vision AI tracking and ReID system
+- Henry Dunne, Microneedle Solutions - Robotics software (brief received)
+- Matt Millar, HomeServe EMEA - Topic to be confirmed (brief promised)
+- Bob Pettigrew, CitiPod - Topic to be confirmed
+- Philip Nelson, Google - Topic to be confirmed
+- Suezann Holmes, ScaleXP - ML for financial data extraction or cash-health engine
+- Andy Ward, Ubisense - AI analysis of location-sensing signals
+- Alex Murray, FLIT - Test rig, operational tools or website widgets
+- Stu Bevan, Ski Club of Great Britain - Topic to be confirmed
+- Simon Allocca, RareCan - Topic to be confirmed
 
 ### Design briefs suggested to several potential clients
 
