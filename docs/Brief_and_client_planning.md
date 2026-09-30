@@ -36,6 +36,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 12. [Lit Scout](Lit_Scout)
 13. [Finding Fire](Finding_Fire)
 14. [African Operations Assistant](African_Operations_Assistant)
+15. [Station Anywhere](Station_Anywhere)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -52,7 +53,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
 - Botty Dimanov and Maleakhi Wijaya, Tenyks - Vision AI tracking and ReID system
-- Henry Dunne, Microneedle Solutions - Robotics software (brief received)
 - Matt Millar, HomeServe EMEA - Topic to be confirmed (brief promised)
 - Bob Pettigrew, CitiPod - Topic to be confirmed
 - Philip Nelson, Google - Topic to be confirmed
@@ -61,6 +61,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
 - Stu Bevan, Ski Club of Great Britain - Topic to be confirmed
 - Simon Allocca, RareCan - Topic to be confirmed
+- Vishal Gulati, Meridian (Recode Ventures spinout) - AI project "Restless"
 
 ### Design briefs suggested to several potential clients
 
