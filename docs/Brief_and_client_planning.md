@@ -37,6 +37,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 13. [Finding Fire](Finding_Fire)
 14. [African Operations Assistant](African_Operations_Assistant)
 15. [Station Anywhere](Station_Anywhere)
+16. [Court Room Compass](Court_Room_Compass)
 
 ### Design Brief Candidates  (for 2027)
 
