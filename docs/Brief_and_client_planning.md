@@ -39,6 +39,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 15. [Station Anywhere](Station_Anywhere)
 16. [Court Room Compass](Court_Room_Compass)
 17. [BEACON: Biomarker Evaluation & Clinical Oncology Navigator](BEACON)
+18. [Compound Memory](Compound_Memory)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -62,7 +63,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Andy Ward, Ubisense - AI analysis of location-sensing signals
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
 - Stu Bevan, Ski Club of Great Britain - Topic to be confirmed
-- Vishal Gulati, Meridian (Recode Ventures spinout) - AI project "Restless"
 
 ### Design briefs suggested to several potential clients
 
