@@ -1,2 +1,5 @@
 # Clear Score
 
+Client: Mark Gotham, Four Score and More, mark.gotham@kcl.ac.uk.
+
+This project aims to develop an accessibility tool integrated with the IMSLP public domain music library API to assist visually impaired musicians who struggle to read low-resolution or small-print legacy score scans. The student team will build a workflow that automatically fetches the appropriate instrumental part-score, converts the scanned notation into MusicXML (or a similar format) via Optical Music Recognition (OMR), and provides an interactive renderer. This tool must dynamic-reflow musical content and generate magnified PDFs or digital reader views suitable for tablets and page-turners while strictly preserving essential performance annotations such as bar numbering, rehearsal letters, and expressive markings. Additionally, the system should incorporate an image-based upscaling fallback for lower-quality scans where OMR processing falls short.
