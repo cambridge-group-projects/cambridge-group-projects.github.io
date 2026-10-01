@@ -47,7 +47,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 
 - Flea by Douce
 - Riverlane
-- [Tasting Fairly](Tasting_Fairly)
 - [Clear Score](Clear_Score)
   
 ### Potential Clients (for 2027)
