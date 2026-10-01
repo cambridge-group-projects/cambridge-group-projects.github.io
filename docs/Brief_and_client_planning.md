@@ -41,6 +41,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 17. [BEACON: Biomarker Evaluation & Clinical Oncology Navigator](BEACON)
 18. [Compound Memory](Compound_Memory)
 19. [Cross-Camera Re-ID](Cross_Camera_Re-ID)
+20. [Tasting, and Savouring, Fairly](Tasting,_and_Savouring,_Fairly)
 
 ### Design Brief Candidates  (for 2027)
 
