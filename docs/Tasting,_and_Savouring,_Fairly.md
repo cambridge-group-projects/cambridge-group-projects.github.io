@@ -1,2 +1,5 @@
 # Tasting, and Savouring, Fairly
 
+Client: Spencer Hyman, Cocoa Runners, spencer@cocoarunners.com.
+
+There is an interesting intersection of people engaged in fair trade and fine dining. Cocoa Runners is a local company that distributes fine craft chocolate, and also advocates for better recognition of the countries and growers that the cocoa beans come from. The goal of this project is to compare tasting notes between communities of chocolate lovers, exploring the distinction between tastes, textures and flavours and allowing them to interact with young people from countries like Ghana, Peru, Ecuador, Taiwan and many more where the cocoa is grown. The science of taste, flavour and texture is more complex than you might think - fine chocolate is as complex and distinctive as fine wine, but with relatively little technical support, by comparison to the huge industry of wine production. By starting in a community-led way, you could contribute to the chocolate of the future!
