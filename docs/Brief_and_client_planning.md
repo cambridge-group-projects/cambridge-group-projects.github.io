@@ -40,6 +40,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 16. [Court Room Compass](Court_Room_Compass)
 17. [BEACON: Biomarker Evaluation & Clinical Oncology Navigator](BEACON)
 18. [Compound Memory](Compound_Memory)
+19. [Cross-Camera Re-ID](Cross_Camera_Re-ID)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -57,7 +58,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Ann O'Neill, Adora Health - Wearables
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
-- Botty Dimanov and Maleakhi Wijaya, Tenyks - Vision AI tracking and ReID system
 - Matt Millar, HomeServe EMEA - Topic to be confirmed (brief promised)
 - Bob Pettigrew, CitiPod - Topic to be confirmed
 - Philip Nelson, Google - Topic to be confirmed
