@@ -42,6 +42,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 18. [Compound Memory](Compound_Memory)
 19. [Cross-Camera Re-ID](Cross_Camera_Re-ID)
 20. [Tasting, and Savouring, Fairly](Tasting,_and_Savouring,_Fairly)
+21. [Ski Club Mountain Companion](Ski_Club_Mountain_Companion)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -64,7 +65,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Suezann Holmes, ScaleXP - ML for financial data extraction or cash-health engine
 - Andy Ward, Ubisense - AI analysis of location-sensing signals
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
-- Stu Bevan, Ski Club of Great Britain - Topic to be confirmed
 
 ### Design briefs suggested to several potential clients
 
