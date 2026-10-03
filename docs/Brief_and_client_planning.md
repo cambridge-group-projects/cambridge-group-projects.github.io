@@ -43,6 +43,8 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 19. [Cross-Camera Re-ID](Cross_Camera_Re-ID)
 20. [Tasting, and Savouring, Fairly](Tasting,_and_Savouring,_Fairly)
 21. [Ski Club Mountain Companion](Ski_Club_Mountain_Companion)
+22. [Next-Day Network](Next-Day_Network)
+23. [Heat Pump Ready?](Heat_Pump_Ready)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -59,7 +61,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Ann O'Neill, Adora Health - Wearables
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
-- Matt Millar, HomeServe EMEA - Topic to be confirmed (brief promised)
 - Bob Pettigrew, CitiPod - Topic to be confirmed
 - Philip Nelson, Google - Topic to be confirmed
 - Suezann Holmes, ScaleXP - ML for financial data extraction or cash-health engine
