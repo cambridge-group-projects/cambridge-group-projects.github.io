@@ -18,7 +18,7 @@ a technical solution.
 
 We are currently collecting design briefs for the 2026/2027 group project runs (expecting 131 students, 22 teams). If you are
 interested to participate as a client, read ["What makes a good project?"](design_a_good_project.md).
-To put forward your project idea, get in touch with [Tobias Grosser](https://www.grosser.science).
+To put forward your project idea, get in touch with [Tobias Grosser](https://www.grosser.science) or [Anthony (Tony) Harris](https://www.cst.cam.ac.uk/people/awh28).
 
 ### Accepted design briefs (for 2027)
 
