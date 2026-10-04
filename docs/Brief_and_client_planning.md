@@ -45,6 +45,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 21. [Ski Club Mountain Companion](Ski_Club_Mountain_Companion)
 22. [Next-Day Network](Next-Day_Network)
 23. [Heat Pump Ready?](Heat_Pump_Ready)
+24. [CitiPod Connect](CitiPod_Connect)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -61,7 +62,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Ann O'Neill, Adora Health - Wearables
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
-- Bob Pettigrew, CitiPod - Topic to be confirmed
 - Philip Nelson, Google - Topic to be confirmed
 - Suezann Holmes, ScaleXP - ML for financial data extraction or cash-health engine
 - Andy Ward, Ubisense - AI analysis of location-sensing signals
