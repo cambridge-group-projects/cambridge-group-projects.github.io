@@ -46,6 +46,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 22. [Next-Day Network](Next-Day_Network)
 23. [Heat Pump Ready?](Heat_Pump_Ready)
 24. [CitiPod Connect](CitiPod_Connect)
+25. [Financial Date Extraction](Financial_Date_Extraction)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -63,7 +64,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Gideon Farrell, Converge - Topic to be confirmed
 - Chris Poole, Cambridge Partners - App for amateur football
 - Philip Nelson, Google - Topic to be confirmed
-- Suezann Holmes, ScaleXP - ML for financial data extraction or cash-health engine
 - Andy Ward, Ubisense - AI analysis of location-sensing signals
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
 
