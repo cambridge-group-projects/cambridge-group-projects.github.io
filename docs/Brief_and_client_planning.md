@@ -62,7 +62,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Chengyu Zhang - Testing of ITPs
 - Ann O'Neill, Adora Health - Wearables
 - Gideon Farrell, Converge - Topic to be confirmed
-- Chris Poole, Cambridge Partners - App for amateur football
 - Philip Nelson, Google - Topic to be confirmed
 - Andy Ward, Ubisense - AI analysis of location-sensing signals
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
