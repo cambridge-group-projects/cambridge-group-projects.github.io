@@ -47,6 +47,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 23. [Heat Pump Ready?](Heat_Pump_Ready)
 24. [CitiPod Connect](CitiPod_Connect)
 25. [Financial Date Extraction](Financial_Date_Extraction)
+26. [Concrete Proof](Concrete_Proof)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -61,7 +62,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - [IMC](IMC) - Contact Campus events
 - Chengyu Zhang - Testing of ITPs
 - Ann O'Neill, Adora Health - Wearables
-- Gideon Farrell, Converge - Topic to be confirmed
 - Philip Nelson, Google - Topic to be confirmed
 - Andy Ward, Ubisense - AI analysis of location-sensing signals
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
