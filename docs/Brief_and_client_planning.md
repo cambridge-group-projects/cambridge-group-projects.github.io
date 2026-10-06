@@ -48,6 +48,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 24. [CitiPod Connect](CitiPod_Connect)
 25. [Financial Date Extraction](Financial_Date_Extraction)
 26. [Concrete Proof](Concrete_Proof)
+27. [Signal Sleuth](Signal_Sleuth)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -63,7 +64,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Chengyu Zhang - Testing of ITPs
 - Ann O'Neill, Adora Health - Wearables
 - Philip Nelson, Google - Topic to be confirmed
-- Andy Ward, Ubisense - AI analysis of location-sensing signals
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
 
 ### Design briefs suggested to several potential clients
