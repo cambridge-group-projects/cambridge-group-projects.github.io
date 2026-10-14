@@ -49,6 +49,7 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 25. [Financial Date Extraction](Financial_Date_Extraction)
 26. [Concrete Proof](Concrete_Proof)
 27. [Signal Sleuth](Signal_Sleuth)
+28. [Women's Health](Womens_Health)
 
 ### Design Brief Candidates  (for 2027)
 
@@ -62,7 +63,6 @@ To put forward your project idea, get in touch with [Tobias Grosser](https://www
 - Vianca Shah - AI for Medical Tools
 - [IMC](IMC) - Contact Campus events
 - Chengyu Zhang - Testing of ITPs
-- Ann O'Neill, Adora Health - Wearables
 - Philip Nelson, Google - Topic to be confirmed
 - Alex Murray, FLIT - Test rig, operational tools or website widgets
 

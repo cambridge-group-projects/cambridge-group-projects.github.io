@@ -1,0 +1,5 @@
+# Women's Health
+
+Client: Ann O'Neill, Adora Digital Health.
+
+Women going through perimenopause and menopause now generate health data in many places: wearables that record sleep, heart rate and night-time temperature, at-home hormone tests, blood results, prescription records and symptom check-ins. Each tells part of the story, but nothing reads them together, so adjusting a treatment such as HRT still relies on what a woman can remember at a short appointment. Your task is to build a prototype that brings whichever of these sources a woman has into one timeline and shows, in plain language, whether she is improving, settling in or should be reviewed by a clinician, with a one-page summary for that clinician. The hard part is drawing trustworthy signals from data that is patchy, noisy and different for every woman, and being honest about uncertainty: the system must still be useful from check-ins alone, must explain why it has flagged something, and must never suggest doses or diagnoses. You will work with a realistic simulated cohort, with guidance from a women's health expert and an Adora engineer. How you model, visualise and test it is yours to design.
