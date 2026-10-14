@@ -14,10 +14,10 @@ a technical solution.
     guarantee that these projects will be offered to students, either in the
     form described here, or at all.
 
-## Group Project Design Briefs for 2027 (work in progress)
+## Group Project Design Briefs for 2027 (finalised list)
 
-We are currently collecting design briefs for the 2026/2027 group project runs (expecting 131 students, 22 teams). If you are
-interested to participate as a client, read ["What makes a good project?"](design_a_good_project.md).
+Unless you have already submitted your project to us in draft form, we are no longer currently collecting design briefs for the 2026/2027 group projects (expecting 131 students, 22 teams). If you are
+interested to participate as a client next year (2027/28), read ["What makes a good project?"](design_a_good_project.md).
 To put forward your project idea, get in touch with [Tobias Grosser](https://www.grosser.science) or [Anthony (Tony) Harris](https://www.cst.cam.ac.uk/people/awh28).
 
 ### Accepted design briefs (for 2027)
