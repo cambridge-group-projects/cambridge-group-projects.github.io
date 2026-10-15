@@ -17,8 +17,8 @@ a technical solution.
 ## Group Project Design Briefs for 2027 (finalised list)
 
 Unless you have already submitted your project to us in draft form, we are no longer currently collecting design briefs for the 2026/2027 group projects (expecting 132 students, 22 teams). If you are
-interested in participating as a client next year (2027/28), read ["What makes a good project?"](design_a_good_project.md).
-To put forward your project idea, get in touch with [Tobias Grosser](https://www.grosser.science) or [Anthony (Tony) Harris](https://www.cst.cam.ac.uk/people/awh28).
+interested in participating as a client next year (2027/28) then please read ["What makes a good project?"](design_a_good_project.md).
+If you would like to propose a project idea for 2027/28 then please do get in touch with [Tobias Grosser](https://www.grosser.science) or [Anthony (Tony) Harris](https://www.cst.cam.ac.uk/people/awh28).
 
 ### Accepted design briefs (for 2027)
 
