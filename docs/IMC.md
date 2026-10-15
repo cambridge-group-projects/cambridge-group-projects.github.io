@@ -297,7 +297,7 @@ seller and the clearing bank.
 Design your own crypto currency Alternatively we could ask students to
 define a new crypto currency from scratch, although that might be a lot.
 
-Responsible: Renier Eijkelestam â€
+Responsible: Renier Eijkelestam
 
 Feedback: Your proposals to work with block chain technologies seem a
 good idea to me, and likely to inspire students. We did include a
