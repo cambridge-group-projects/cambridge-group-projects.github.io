@@ -1,8 +1,8 @@
  
 Current contact was a client at his previous employer: Imdad
-Sardharwalla <imdad.sardharwalla@gmail.com>
+Sardharwalla
 
-Previous contact: Luke Edwards <luke.edwards@autodesk.com>
+Previous contact: Luke Edwards
 
 2019 discussion - One of the things Autodesk are looking to do in the
 next few years in move manufacturing to the cloud. We are in the early

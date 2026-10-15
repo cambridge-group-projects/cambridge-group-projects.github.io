@@ -1,7 +1,7 @@
  
 Client: [MathWorks](MathWorks)
 
-Contact: Milos Puzovic Milos.Puzovic@mathworks.co.uk
+Contact: Milos Puzovic
 
 Model-Based Design (MBD) is a prevalent methodology that is used in
 complex control, signal processing and communication systems to address

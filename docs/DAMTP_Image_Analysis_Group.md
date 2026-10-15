@@ -1,10 +1,10 @@
  
 Talking to
 
-Kasia Targonska-Hadzibabic <kt441@cam.ac.uk> about work with [Hamilton
+Kasia Targonska-Hadzibabic about work with [Hamilton
 Kerr Institute](Hamilton_Kerr_Institute)
 
-Julian Gilbey <jdg18@cam.ac.uk> about image labelling / annotation
+Julian Gilbey about image labelling / annotation
 tools building on work by Ariel
 
 Intelligent Tools for Coeliac Disease Diagnosis

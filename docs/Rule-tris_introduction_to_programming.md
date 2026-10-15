@@ -1,5 +1,5 @@
  
-Client: Luke Tunmer, Qualcomm <ltunmer@qti.qualcomm.com>
+Client: Luke Tunmer, Qualcomm
 
 All kids love Tetris, so why not help them learn programming by making a
 Tetris-playing robot? You need to start with a simple Tetris port on the

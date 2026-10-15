@@ -5,7 +5,7 @@
 </a>
 
 Client: Matt Johnson, [Frontier](Frontier)
-<mjohnson@frontier.co.uk>
+
 
 Many games allow online players to chat in one form or another. More
 adult games allow free chat in lobbies, or within the game. Some

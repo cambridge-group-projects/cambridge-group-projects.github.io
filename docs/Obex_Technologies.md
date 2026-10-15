@@ -1,5 +1,5 @@
  
-Contact: Michael Gifford <m.j.gifford@mountainhare.com>
+Contact: Michael Gifford
 
 I am very keen to submit a project for next year and I already have some
 ideas that I think would work well within the context of the project

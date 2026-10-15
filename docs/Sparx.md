@@ -1,8 +1,8 @@
  
 Have concluded that it is too far to come to Cambridge for 3 meetings.
 
-Last contacts with Glenn Woodcock <glenn@sparx.co.uk> and Tanya Morton
-<Tanya.Morton@sparx.co.uk>
+Last contacts with Glenn Woodcock and Tanya Morton
+
 
 ### 2018
 
@@ -44,7 +44,7 @@ equations!
 ### 2017 proposal
 
 The client will be Tanya Morton and Will Bolam
-((will.bolam@sparx.co.uk).
+(.
 
 Another idea from me:
 

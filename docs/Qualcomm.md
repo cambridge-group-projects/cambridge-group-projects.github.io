@@ -1,7 +1,7 @@
  
-Contact is "Scott, John (UK)" <scottj@qti.qualcomm.com>
+Contact is "Scott, John (UK)"
 
-'Tunmer, Luke' <ltunmer@qti.qualcomm.com> had proposed:
+'Tunmer, Luke' had proposed:
 
 Because the Pi is such a cheap computer, it seems it should be ideal for
 the increasingly discussed ideas of home-hubs, automated home and the

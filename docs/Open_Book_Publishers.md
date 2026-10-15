@@ -1,7 +1,7 @@
  
-Nik Sultana <ns441@cam.ac.uk>
+Nik Sultana
 
-"J.R.J. Gatti" <rupert.gatti@openbookpublishers.com>
+"J.R.J. Gatti"
 
 Proposal: [The technical textbook of the
 future](The_technical_textbook_of_the_future)

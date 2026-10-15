@@ -1,4 +1,4 @@
  
-Contact Gavin Shelton <Gavin.Shelton@fauna-flora.org>
+Contact Gavin Shelton
 
 Head of Conservation Labs

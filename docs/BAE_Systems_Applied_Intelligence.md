@@ -1,5 +1,5 @@
  
-Contact: contact Owen Coombs (owen.coombs@baesystems.com)
+Contact: contact Owen Coombs
 
 [Reinfection Monitor](Reinfection_Monitor)
 
@@ -8,7 +8,6 @@ Original suggestion ...
 No-hassle internet security
 
 Client: James Dickin, BAE Systems Applied Intelligence
-james.dickin@baesystems.com
 
 How easy do you find it to set up and maintain internet security on your
 computer? How about your parents? Or your grandparents? For some people

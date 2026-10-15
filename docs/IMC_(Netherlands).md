@@ -1,5 +1,5 @@
  
-contact Elisa van der Linden (Elisa.vanderLinden@imc.nl).
+contact Elisa van der Linden.
 
 Note that clients would be traveling from the Netherlands for project
 meetings - they would proceed with two of these at most.
@@ -7,13 +7,13 @@ meetings - they would proceed with two of these at most.
 ## Initial proposals
 
 [News Analysis](News_Analysis): Owner: Julien Mattei
-(Julien.mattei@imc.nl)
+
 
 [Game trading engine](Game_trading_engine): Owner: Radmilo
-Racic (Radmilo.racic@imc.nl)
+Racic
 
 [Trading input visualization](Trading_input_visualization):
-Owner: Taylan Toygarlar (Taylan.toygarlar@imc.nl)
+Owner: Taylan Toygarlar
 
 [Network queuing analysis](Network_queuing_analysis): Owner:
-Pedro Estrela (Pedro.estrela@imc.nl)
+Pedro Estrela

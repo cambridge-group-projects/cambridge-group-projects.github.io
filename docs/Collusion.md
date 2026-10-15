@@ -1,12 +1,12 @@
  
 Contacts:
 
-Rachel Drury <rachel@collusion.org.uk>
+Rachel Drury
 
-Simon Poulter <simon@collusion.org.uk>
+Simon Poulter
 
 Possibly with involvement of:
 
-Daria Jelonek <daria.jelonek@network.rca.ac.uk>
+Daria Jelonek
 
-Perry-James Sugden <perry-james.sugden@network.rca.ac.uk>
+Perry-James Sugden

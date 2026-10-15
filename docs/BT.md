@@ -1,7 +1,6 @@
  
 Potential contact for 2020:
 
-alex.healing@bt.com
 
 On 31 Oct 2019: Just a note to let you know that due to time constraints
 I will be unable to submit a brief this year I'm afraid.
@@ -10,7 +9,7 @@ On 7 Feb 2019, Alex says: Many thanks, I'll have a think and see what we
 can suggest that is likely to fit the brief and be in touch I come up
 with anything.
 
-Previous contact: Daniel Garner, daniel.garner@bt.com
+Previous contact: Daniel Garner
 
 Daniel says:
 
@@ -501,7 +500,7 @@ vision.
 
 # Last year - 2014
 
-Contacts: fraser.burton@bt.com
+Contacts: Fraser Burton
 
 Projects proceeding:
 
@@ -566,7 +565,7 @@ as relatedness in a single or multiple category).
 
 ## 2013
 
-Contacts: paul.reid@bt.com james.mistry@bt.com oliver.newbury@bt.com
+Contacts: Paul Reid, James Mistry, Oliver Newbury
 
 Final project was: [Terabyte threat
 analysis](Terabyte_threat_analysis)

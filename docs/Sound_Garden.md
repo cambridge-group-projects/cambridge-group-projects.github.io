@@ -4,7 +4,7 @@
        alt="Title card from the Sound Garden project video">
 </a>
 
-Jonathan Baldwin, Madingley Hall <Jonathan.Baldwin@ice.cam.ac.uk>
+Jonathan Baldwin, Madingley Hall
 
 Surprisingly satisfying music can be defined in terms of in terms of
 simple regular grammars. Simple regular grammars can be derived from

@@ -5,7 +5,7 @@
 </a>
 
 Client: Dominic Nancekievill, [G-Research](G-Research)
-<Dominic.Nancekievill@gresearch.co.uk>
+
 
 In today’s world of high frequency trading, understanding the rapidly
 changing quotes from a myriad of trading algorithms is a colossal data

@@ -1,5 +1,5 @@
  
-Suggestion from Ross Anderson <Ross.Anderson@cl.cam.ac.uk>
+Suggestion from Ross Anderson
 
 Here's an idea. I was at the Europarl yesterday and a green MEP said it
 would be great to have a "tranparency app" that would enable her and her

@@ -1,5 +1,5 @@
  
-Client: Luke Morgan, IBM <MORGANLU@uk.ibm.com>
+Client: Luke Morgan, IBM
 
 Few children (or even adults) really understand what makes a password
 secure, or how to keep their online information safe. Your task is to

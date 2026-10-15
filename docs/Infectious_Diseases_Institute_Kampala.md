@@ -1,5 +1,5 @@
  
-Contact: Rosalind Parkes-Ratanshi <rp549@medschl.cam.ac.uk>
+Contact: Rosalind Parkes-Ratanshi
 
 Suggestion:
 

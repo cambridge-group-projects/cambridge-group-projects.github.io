@@ -1,6 +1,6 @@
  
 Client: Alastair Beresford [Computer Lab](Computer_Lab),
-<Alastair.Beresford@cl.cam.ac.uk>
+
 
 Lecturing a large group is a challenging task, not least because there
 are few feedback cues: how much of the room is understanding? Too fast?

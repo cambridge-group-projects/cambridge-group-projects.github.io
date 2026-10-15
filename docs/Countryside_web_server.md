@@ -1,5 +1,5 @@
  
-Client: Peter Cowley, CamData <peter.cowley@camdata.co.uk>
+Client: Peter Cowley, CamData
 
 A ruggedized version of the Raspberry Pi can be used for outdoor
 applications, like monitoring wildlife activity via USB peripherals

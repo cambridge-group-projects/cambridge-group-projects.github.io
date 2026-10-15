@@ -6,7 +6,7 @@
 
 Client: Rupert Gatti, [Open Book
 Publishers](Open_Book_Publishers)
-<rupert.gatti@openbookpublishers.com>
+
 
 In fast-moving technical fields, it is hard to keep good textbooks up to
 date. Online resources such as wikipedia are useful ways to collect

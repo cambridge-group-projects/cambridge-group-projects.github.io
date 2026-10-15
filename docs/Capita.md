@@ -1,2 +1,2 @@
  
-"Law, Steven (ESS)" <Steven.Law@capita.co.uk>
+"Law, Steven (ESS)"

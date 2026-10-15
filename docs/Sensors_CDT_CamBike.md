@@ -1,7 +1,7 @@
  
-Johanna - js2303@cam.ac.uk
+Johanna
 
-Lorena Gordillo-Dagallier <lmg53@cam.ac.uk>
+Lorena Gordillo-Dagallier
 
 Propose [Clean Cycle](Clean_Cycle), but probably with client
 from [ARM](ARM), arranged by [Centre for Global

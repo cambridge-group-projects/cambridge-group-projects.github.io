@@ -1,6 +1,6 @@
  
-Contact: Dorine van der Schalk <dorine.vanderschalk@imc.com> IMC
-Careers Europe <CareersEurope@imc.com>
+Contact: Dorine van der Schalk IMC
+Careers Europe
 
 ## 2023 projects
 
@@ -10,7 +10,7 @@ Careers Europe <CareersEurope@imc.com>
 
 Plan to propose three, for selection of two
 
-Admin contact for 2022 will be Sanne Cuperus <Sanne.Cuperus@imc.com>
+Admin contact for 2022 will be Sanne Cuperus
 
 ## 2021 projects
 
@@ -20,7 +20,7 @@ Confirmed:
 
 - [Remote Reading](Remote_Reading)
 
-Original suggestions from Ben Catterall <ben.catterall@imc.com>:
+Original suggestions from Ben Catterall:
 
 Drone assisted filming Drones have become an essential tool for many
 filmmakers, but they require manual control usually from additional
@@ -150,7 +150,6 @@ multiple vehicles autonomously follow the leader. Safety is of paramount
 importance, each vehicle should do its best to avoid collisions.
 
 Tools: 3 - 4 sets of Lego Windstorms Responsible: Jan Kis
-jan.kis@imc.com
 
 Feedback: It looks like fun, and autonomous vehicles are a timely area
 of interest. It’s nice for both students and the demo day audience to
@@ -177,7 +176,7 @@ and associated reports. Bonus: Ascertain the technical accuracy of the
 scan (position, dosage etc)
 
 Tools: An extensive medical image source is required for this project.
-Responsible: Arindam Paul arindam.paul@imc.com
+Responsible: Arindam Paul
 
 Feedback: If I understand correctly, the core of this appears to be a
 relatively straightforward computer vision application, which would
@@ -202,7 +201,7 @@ inside. Given the time challenges of this project I propose growing
 radishes, green beans and peas
 
 Tools: All required sensors, solar panels and raspberry pi kits will be
-supplied Responsible: Arindam Paul arindam.paul@imc.com
+supplied Responsible: Arindam Paul
 
 Feedback: Are you a keen gardener? As you note, timescale is a problem -
 what kinds of plants grow indoors in February? I suspect that the
@@ -226,7 +225,6 @@ automatically switch on lights and close curtains. There should also be
 a UI that can be loaded on a web browser or as app for mainstream OS'es.
 
 Tools: IOT hardware / smartwatch Responsible: William Bakker
-william.bakker@imc.com
 
 Feedback: This is a rapidly growing area, with products such as IoTool
 and IFTTT delivering this kind of generic functionality. We might want
@@ -253,7 +251,7 @@ determine the optimal location. The user interface should show a
 graphical overlay of signal coverage and cost.
 
 Tools: (license for) high quality satellite data. Responsible: William
-Bakker william.bakker@imc.com
+Bakker
 
 Feedback: I’ve had an intern this summer using UK government open data
 from Ordnance Survey, which might be more appropriate than satellite
@@ -299,7 +297,7 @@ seller and the clearing bank.
 Design your own crypto currency Alternatively we could ask students to
 define a new crypto currency from scratch, although that might be a lot.
 
-Responsible: Renier Eijkelestam – renier.Eijkelestam@imc.com
+Responsible: Renier Eijkelestam �
 
 Feedback: Your proposals to work with block chain technologies seem a
 good idea to me, and likely to inspire students. We did include a
@@ -332,7 +330,7 @@ More ideas:
 
 #### 24000 words per second
 
-Ben Catterall : ben.catterall@imc.com
+Ben Catterall
 
 Many fields in machine learning, from image recognition to machine
 translation have recently received a tremendous boost using deep
@@ -414,7 +412,6 @@ libraries is way beyond the capability of undergrads.
 
 #### Neural Networks in FPGA
 
-Taylan.Toygarlar@imc.com
 
 We are entering a new era in computing, where the services provided are
 becoming more and more dependent on machine learning and artificial
@@ -456,7 +453,7 @@ something from scratch?
 
 #### Shelved for 2017: Tamagotchi Brief
 
-Jan Kis : jan.kis@imc.com
+Jan Kis
 
 (‘Creative’) Pokemon Go took the world by storm. Now it’s your turn!
 Remember those cute, egg-shaped devices with the dancing critters you
@@ -521,7 +518,7 @@ think of a Pokemon Go variant that included this aspect?
 
 ### earlier ideas
 
-Maksym Korotkiy Maksym Korotkiy <Maksym.Korotkiy@imc.nl>
+Maksym Korotkiy Maksym Korotkiy
 
 Prototype a 2D visualization for an execution of a genetic algorithm
 (GA) applied to a multi-dimensional search problem. The visualization
@@ -534,9 +531,9 @@ internal workings of GA and to show an impact of different selection and
 crossover strategies or mutation rates. Students can use any general GA
 implementation and can apply it to any multi-dimensional search problem.
 
-Taylan Toygarlar <Taylan.Toygarlar@imc.nl>
+Taylan Toygarlar
 
-Radmilo Racic <radmilo.racic@imc.nl>
+Radmilo Racic
 
 Visualization techniques for large set of financial markets data This
 project develops techniques for visualizing multiple data sets of

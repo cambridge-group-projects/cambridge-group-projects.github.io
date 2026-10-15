@@ -1,6 +1,6 @@
  
 Educational project suggestion on Raspberry Pi from Cecily Morrison
-<cpm38@cam.ac.uk>
+
 
 Step 1: Groups of students can model the spread of influenza and then
 visualise it graphically on one screen or with sound/light across each

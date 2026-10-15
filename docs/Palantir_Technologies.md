@@ -1,5 +1,5 @@
  
-Laura Frankish <lfrankish@palantir.com>
+Laura Frankish
 
-Introduction from Miklos Danka mdanka@palantir.com (Disney
+Introduction from Miklos Danka (Disney
 pico-projector project)

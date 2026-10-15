@@ -1,5 +1,5 @@
  
-John McMillan <mcmillantech@btconnect.com>
+John McMillan
 
 Happy to consider project proposals
 

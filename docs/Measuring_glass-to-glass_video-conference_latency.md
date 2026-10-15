@@ -1,5 +1,5 @@
  
-Client: John Bain, Cisco <jbain@cisco.com>
+Client: John Bain, Cisco
 
 A key consideration in the design of video-conferencing systems is to
 minimise the latency added to the video and audio, since this can have a

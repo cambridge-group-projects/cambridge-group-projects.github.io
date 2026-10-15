@@ -1,4 +1,4 @@
-On 25 Oct 2017, at 04:17, Kay Firth-Butterfield <kay@ai-austin.org>
+On 25 Oct 2017, at 04:17, Kay Firth-Butterfield
 wrote:
 
 Hi Alan,
@@ -14,8 +14,8 @@ any interest in the possibility you and I discussed that Cambridge
 students might work with Lucid technology in their annual design project
 course?
 
-I do not use this email. Please contact me at kay@krwmail.com
+I do not use this email. Please contact me at my other address.
 
-Original contact Kay Firth-Butterfield <kay@lucid.ai>
+Original contact Kay Firth-Butterfield
 
 Michael Witbrock at Cycorp and Michael Stewart of Lucid are interested

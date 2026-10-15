@@ -1,8 +1,7 @@
  
 Discuss with:
 
-John Fanshawe <John.Fanshawe@birdlife.org>
+John Fanshawe
 
-tim.wilkinson@unep-wcmc.org
 
-Chris Sandbrook <cgsandbrook@gmail.com>
+Chris Sandbrook

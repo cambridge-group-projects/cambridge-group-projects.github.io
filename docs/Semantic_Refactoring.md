@@ -1,5 +1,5 @@
  
-Client: Agnia Sergeyuk, Jetbrains <agnia.sergeyuk@jetbrains.com>
+Client: Agnia Sergeyuk, Jetbrains
 
 In many agile projects, the source code provides the master
 documentation of system functionality. When customers and users change

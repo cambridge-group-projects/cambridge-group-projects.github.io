@@ -1,8 +1,8 @@
  
 Client: Keira Cheetham,
-[Illumina](Illumina)<KCheetham@illumina.com>
+[Illumina](Illumina)
 
-Contact: "Oldham, Scott" <soldham@illumina.com>
+Contact: "Oldham, Scott"
 
 Design and implement a game (on iOs and/or Android) to teach the user
 about genomes or genomic sequencing, targeted to a GCSE or A level

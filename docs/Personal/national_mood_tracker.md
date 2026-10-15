@@ -1,4 +1,4 @@
-Client: Tomas Cervenka, VisualDNA <tomas@visualdna.com>
+Client: Tomas Cervenka, VisualDNA
 
 National wellbeing is the aggregate of the population mood, but it's
 difficult to know whether mood estimates are accurate or not. In fact,

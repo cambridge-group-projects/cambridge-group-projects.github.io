@@ -1,7 +1,7 @@
  
 # Replaced by [Locally Augmented Retail](Locally_Augmented_Retail)
 
-Client: Paul Bowes, Bacchanalia <Team@winegod.co.uk>
+Client: Paul Bowes, Bacchanalia
 
 One of the group project coordinators has an excellent memory for wine,
 but a poor memory for names. When he walks into Bacchanalia, his local

@@ -1,5 +1,5 @@
 
-Client: Moritz Scherer <moritz@mosaic-soc.com>
+Client: Moritz Scherer
 
 The AHB Protocol is a widely used protocol in digital hardware design to connect endpoints and enable on-chip communication.
 

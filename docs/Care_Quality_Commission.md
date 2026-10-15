@@ -1,8 +1,8 @@
  
 Contacts:
 
-- "Smith, Jessica" <Jessica.Smith@cqc.org.uk>
-- "Williamson, Paul" <Paul.Williamson@cqc.org.uk>
+- "Smith, Jessica"
+- "Williamson, Paul"
 
 I spoke to Paul yesterday. We are both interested in principle however
 we are currently in the process of procuring a tool that will, in brief,

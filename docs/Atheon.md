@@ -1,9 +1,9 @@
  
 Contacts:
 
-Guy Cuthbert <guy.cuthbert@atheon.co.uk>
+Guy Cuthbert
 
-For 2023 - Konrad Maliszewski <konrad.maliszewski@atheon.co.uk>
+For 2023 - Konrad Maliszewski
 
 Idea for consideration, as proposed by AFB:
 

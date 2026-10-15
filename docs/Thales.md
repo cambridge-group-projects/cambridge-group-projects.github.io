@@ -1,15 +1,15 @@
  
 No contact since 2019, when we were talking to Thales eSecurity:
 
-'Taylor, Neil' <Neil.Taylor@thalesesecurity.com>
+'Taylor, Neil'
 
-'Surdhar, Pali' <Pali.Surdhar@thalesesecurity.com>
+'Surdhar, Pali'
 
 Previous contacts with:
 
-ROUX Raphael - Contractor <raphael.roux@external.thalesgroup.com>
-Jerome Euziere <jerome.euziere@gmail.com>
+ROUX Raphael - Contractor
+Jerome Euziere
 
-Previous Contact: FIRTH Chris <Chris.Firth@uk.thalesgroup.com>
+Previous Contact: FIRTH Chris
 
 making introduction to Thales eSecurity, with office in Cambridge

@@ -1,7 +1,7 @@
  
 Client: [Cambridge Consultants](Cambridge_Consultants)
 
-Contact: Alistair Morfey <alistair.morfey@cambridgeconsultants.com>
+Contact: Alistair Morfey
 
 An increasing number of our projects need to include embedded security.
 This is particularly true as more devices expect to support remote

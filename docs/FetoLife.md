@@ -1,2 +1,2 @@
  
-Contact Nora Jöchlinger <nora.joechlinger@fetolife.com>
+Contact Nora Jöchlinger

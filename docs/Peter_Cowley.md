@@ -1,5 +1,5 @@
  
-'Peter Cowley' <peter.cowley@camdata.co.uk>
+'Peter Cowley'
 
 [Countryside web server](Countryside_web_server)
 

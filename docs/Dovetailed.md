@@ -1,10 +1,10 @@
  
 Contact: Vaiva Kalnikaitė, [Dovetailed](Dovetailed)
-<vaiva@dovetailed.io>
+
 
 ### 2021
 
-suggestion from Victoria Doerfer <victoria@dovetailed.io> "Barometer
+suggestion from Victoria Doerfer "Barometer
 of Public Emotions"
 
 Feedback:
@@ -22,7 +22,7 @@ project: [Ethical Surgery
 Assistant](Ethical_Surgery_Assistant)
 
 Additional contact in 2019 - Francine Ganter Restrepo
-<francine@dovetailed.io>
+
 
 Idea for 2020:
 

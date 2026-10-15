@@ -4,7 +4,7 @@
        alt="Title card from the Multi-touch Conference project video">
 </a>
 
-Client: Catherine White, [BT](BT) <catherine.white@bt.com>
+Client: Catherine White, [BT](BT)
 
 Rather than flying all over the world to attend meetings and
 conferences, it seems as though governments and businesses could save

@@ -1,4 +1,4 @@
  
-Alexander Gash <alexander.l.gash@gmail.com>
+Alexander Gash
 
 Something to do with apps and autism

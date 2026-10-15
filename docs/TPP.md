@@ -1,7 +1,6 @@
  
 ### Proposal for 2019
 
-Contact: ankit.sharma@tpp-uk.com
 
 Final brief: [Bone Doctor](Bone_Doctor)
 
@@ -49,7 +48,7 @@ used a pre-trained network [Neural Guide](Neural_Guide)
 
 ### Previous discussion
 
-Contact: Sara Dowrick (sara.dowrick@tpp-uk.com).
+Contact: Sara Dowrick.
 
 Suggestion:
 

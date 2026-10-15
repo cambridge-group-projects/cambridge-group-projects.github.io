@@ -1,5 +1,5 @@
  
-Proposed to: Stephen Devlin <sd2030@cam.ac.uk>
+Proposed to: Stephen Devlin
 
 Many older people find the full functionality of a system like Android,
 with its multiple apps, too confusing or difficult to use. Your task is

@@ -1,5 +1,5 @@
  
-Contact: Andrew Grant <ajg60@cam.ac.uk>
+Contact: Andrew Grant
 
 University Senior Lecturer in Bacterial Pathogenesis, Department of
 Veterinary Medicine

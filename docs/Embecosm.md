@@ -1,2 +1,2 @@
  
-Potential client: Will Jones <william.jones@embecosm.com>
+Potential client: Will Jones

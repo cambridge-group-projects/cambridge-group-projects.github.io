@@ -1,5 +1,5 @@
  
-Contact: Steve Platt <steve.platt@carltd.com>
+Contact: Steve Platt
 
 [StreetPay](StreetPay)
 

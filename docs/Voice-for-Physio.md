@@ -1,4 +1,4 @@
-Client - Ric da Silva, Flok.health <ric@flok.health>
+Client - Ric da Silva, Flok.health
 
 Flok Health runs automated physiotherapy clinics in the NHS, via a web/mobile app. Patients get what looks like a video call with a physio, but is actually fully autonomous: The physio on screen asks questions, patients submit answers via buttons that appear,
  and the conversation evolves based on the responses. This works well, but using the buttons is sometimes awkward for patients. This project is to add a voice control mechanism, letting patients simply speak their answer. You'll be given a Typescript interface around which you'll build the new voice-powered UI and a (back-end or front-end) transcription system. The solution must be very performant, and a careful thought must be put into the UX so that it really feels responsive.

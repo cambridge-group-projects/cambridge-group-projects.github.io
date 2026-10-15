@@ -1,5 +1,5 @@
  
-Contact: John Pettigrew <johnp@umbrellaanalytics.net>
+Contact: John Pettigrew
 
 2021 project; [De-biasing the Employment
 Process](De-biasing_the_Employment_Process)

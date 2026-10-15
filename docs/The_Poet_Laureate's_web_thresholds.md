@@ -1,5 +1,5 @@
  
-Client: Vicky Smith, StrideDesign <vicky.smith@stridedesign.com>
+Client: Vicky Smith, StrideDesign
 
 The Poet Laureate Carol Ann Duffy has appointed 10 leading poets to work
 with Cambridge University Museums and young people from the county. Your

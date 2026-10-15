@@ -1,5 +1,5 @@
  
-Phil Martin <pam79@cam.ac.uk>
+Phil Martin
 
 Curating Conservation Evidence
 

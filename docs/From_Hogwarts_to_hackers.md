@@ -1,5 +1,5 @@
  
-Client: Jeff Patmore, Engineering Design Centre <jjp43@cam.ac.uk>
+Client: Jeff Patmore, Engineering Design Centre
 
 Many children are more interested in imaginative stories than tinkering
 with circuit boards. But they need not be excluded from Raspberry Pi.

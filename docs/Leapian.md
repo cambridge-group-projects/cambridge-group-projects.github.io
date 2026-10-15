@@ -1,9 +1,8 @@
  
 Contacts:
 
-Nathan Wilson <nathan.wilson@cantab.net>
+Nathan Wilson
 
-carlo.minciacchi@cantab.net
 
 ------------------------------------------------------------------------
 

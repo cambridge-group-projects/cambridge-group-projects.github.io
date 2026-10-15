@@ -1,5 +1,5 @@
  
-Client: Ian Hosking, Engineering Design Centre <imh29@cam.ac.uk>
+Client: Ian Hosking, Engineering Design Centre
 
 Touch screen prototyping at school
 

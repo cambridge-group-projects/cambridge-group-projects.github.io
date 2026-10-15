@@ -1,7 +1,7 @@
  
 Client: Andrew Knights, [Cambridge
 Consultants](Cambridge_Consultants)
-<andrew.knights@cambridgeconsultants.com>
+
 
 A musical score is in effect a single line of n bars. Lines, pages, and
 to some extent repeat markers appear due to the score being printed on a

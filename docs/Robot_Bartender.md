@@ -1,5 +1,5 @@
  
-Proposed by Raoul-Gabriel Urma <rgu20@cam.ac.uk>
+Proposed by Raoul-Gabriel Urma
 
 I have a fun proposal that would combine raspberry pie, robotics &
 mobile programming.

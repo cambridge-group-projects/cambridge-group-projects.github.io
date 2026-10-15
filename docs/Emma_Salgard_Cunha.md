@@ -1,5 +1,5 @@
  
-Contact: Emma Salgard Cunha <Emma.SalgardCunha@enterprise.cam.ac.uk>
+Contact: Emma Salgard Cunha
 
 Emma is based at Cambridge Enterprise, responsible for commercialisation
 of research from Cambridge Arts, Humanities and Social Science

@@ -1,5 +1,5 @@
  
-Contact: Chris Lennard <chris@cambridgesciencecentre.org>
+Contact: Chris Lennard
 
 Project proceeding this year will be: [Science exhibit interaction
 adviser](Science_exhibit_interaction_adviser)

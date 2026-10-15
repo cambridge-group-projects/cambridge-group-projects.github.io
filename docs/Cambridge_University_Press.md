@@ -1,5 +1,5 @@
  
-Contact: Jennifer Wright <jwright@cambridge.org>
+Contact: Jennifer Wright
 
 First draft:
 

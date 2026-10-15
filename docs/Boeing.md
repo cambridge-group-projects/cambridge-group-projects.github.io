@@ -1,9 +1,9 @@
  
-Contact: Richie Jones <richard.jones16@boeing.com>
+Contact: Richie Jones
 
 Suggestion for 2021:
 
-Proposed client: Luke Baxter (luke.b.baxter@boeing.com)
+Proposed client: Luke Baxter
 
 Interested in use of probabilistic programming approaches that allows
 decision makers to intuitively specify and explore policy models when

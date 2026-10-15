@@ -1,7 +1,7 @@
  
 Membership organisation - suggestions would come from individual members
 
-Contact: Ben Hartley <bpih2@cam.ac.uk> (Previously Stewart McTavish)
+Contact: Ben Hartley (Previously Stewart McTavish)
 
 The following invitation was passed on to Ben for 2021 and 2022
 

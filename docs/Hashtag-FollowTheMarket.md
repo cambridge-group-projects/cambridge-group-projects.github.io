@@ -1,5 +1,5 @@
  
-Client: David Rubin, Bloomberg <drubin19@bloomberg.net>
+Client: David Rubin, Bloomberg
 
 Sentiment analysis of social media is now fairly routine, but it's still
 relatively new in the world of finance. Coupling popular sentiment with

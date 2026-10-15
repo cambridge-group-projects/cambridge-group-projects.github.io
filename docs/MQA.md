@@ -1,4 +1,4 @@
  
-Contact: Alan Wood <Al@mqa.co.uk>
+Contact: Alan Wood
 
 Something audio/music related? www.mqa.co.uk

@@ -1,5 +1,5 @@
  
-Potential client: Darren Macey <Darren.Macey@Cambridgemaths.org>
+Potential client: Darren Macey
 
 Possible project title: [Cascading Galton
 Boards](Cascading_Galton_Boards)

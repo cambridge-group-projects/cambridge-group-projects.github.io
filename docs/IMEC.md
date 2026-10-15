@@ -1,1 +1,1 @@
-Contact is CampusEventsEU@imc.com
+Contact is the campus events team

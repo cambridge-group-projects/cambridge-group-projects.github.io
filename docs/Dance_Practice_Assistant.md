@@ -1,7 +1,7 @@
  
 Client: [Cambridge Consultants](Cambridge_Consultants)
 
-Contact: Rodrigo Queiro <rodrigo.queiro@cambridgeconsultants.com>
+Contact: Rodrigo Queiro
 
 For learning swing dance routines such as the Shim Sham, dancers are
 often taught individual stages of the routine without music, starting

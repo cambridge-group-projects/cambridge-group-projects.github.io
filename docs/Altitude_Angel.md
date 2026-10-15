@@ -1,7 +1,7 @@
  
 (Introduced by Lee Stott at [Microsoft](Microsoft))
 
-Client: Chris Forster <chris@altitudeangel.com>
+Client: Chris Forster
 
 [Drone Safety](Drone_Safety)
 

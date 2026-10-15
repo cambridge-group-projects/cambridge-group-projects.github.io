@@ -1,6 +1,6 @@
  
 Client: David Russell, [Altfusion](Altfusion)
-<david.russell@altfusion.co.uk>
+
 
 The Cambridge University Map supports a sophisticated annotation API,
 based on GeoJSON. Your task is to create an interactive application that

@@ -1,5 +1,5 @@
  
-Tim Ramsdale <timr@rivosinc.com>
+Tim Ramsdale
 
 Bring-up and optimisation of SYCL on a high-performance RISC-V
 platform - sponsored by Rivos and Intel. We could target it towards a

@@ -1,5 +1,5 @@
  
-Client:David Kynaston <E.Kynaston@btinternet.com>
+Client:David Kynaston
 
 Young people with learning disabilities such as Down's Syndrome, ADHD or
 dyslexia are increasingly excluded from social media opportunities. Your

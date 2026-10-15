@@ -1,5 +1,5 @@
  
-Client: Steven Johnston, Microsoft Research <v-stejo@microsoft.com>
+Client: Steven Johnston, Microsoft Research
 
 The aim of this project is to produce a highly accurate map of the
 Cambridge cycle network including information about inclines, one way

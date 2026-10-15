@@ -5,7 +5,7 @@
 </a>
 
 Client: Milos Puzovic, [MathWorks](MathWorks)
-<Milos.Puzovic@mathworks.co.uk>
+
 
 The Raspberry Pi has become incredibly popular, and it's great for hobby
 applications, but its appeal to children is reduced by the fact that

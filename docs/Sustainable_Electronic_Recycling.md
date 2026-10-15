@@ -1,5 +1,5 @@
  
-Client: Franck Courbon, Ethicronics <franck@ethicronics.com>
+Client: Franck Courbon, Ethicronics
 
 Recycling is a challenges posed by electronics devices. This project
 involves the design and own implementation of a data gathering solution

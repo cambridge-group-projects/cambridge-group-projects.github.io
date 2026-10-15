@@ -1,5 +1,5 @@
  
-Contact: Mark Ogilvie <mark.ogilvie@jagex.com>
+Contact: Mark Ogilvie
 
 Considering possibility for 2019
 
@@ -13,10 +13,10 @@ Project 2:
 
 Multidimensional descriptive engine and visualisation system
 
-Eric Lagel - Senior Producer (eric.lagel@jagex.com)
+Eric Lagel - Senior Producer
 
 Joel Graham - Director of Analytics & Data Science
-(joel.graham@jagex.com)
+
 
 In games, as well as wider entertainment, there exist many different
 systems to describe features of a product. From the user perspective
@@ -102,7 +102,7 @@ consider that as a starting point?
 Original suggestion for project 1: Social positioning and influence in a
 virtual space
 
-Mark Ogilvie - Design Director (mark.ogilvie@jagex.com)
+Mark Ogilvie - Design Director
 
 How we perceive ourselves socially is subject to many influences, and it
 is a difficult subject to study objectively due to those influences.
@@ -132,7 +132,7 @@ creation based on new locations and influences.
 
 ## Further proposals
 
-Sponsor: David Solari Email: david.solari@jagex.com
+Sponsor: David Solari
 
 Full motion video adventure game engine and toolset:- This project is
 about creating an engine and tool set which allows video footage to be
@@ -145,8 +145,7 @@ quick time interaction system. Control interface features would include
 mouse and keyboard; mobile touch and VR gesture. A simple proof of
 concept demonstrating the engine and tools would be required.
 
-Strategy Card Game Creator (Sponsor: Mark Killey, email:
-mark.killey@jagex.com)
+Strategy Card Game Creator (Sponsor: Mark Killey)
 
 Chronicle: RuneScape Legends is a new strategy card game based around an
 innovative core mechanic and experimental card systems. While The
@@ -168,7 +167,7 @@ meritocracy where the best games are easy to find and play!
 
 ### More appropriate to MPhil student: Flame charts
 
-(Sponsor: Philip Bielby, email: philip.bielby@jagex.com)
+(Sponsor: Philip Bielby)
 
 Google Chrome and Mozilla FireFox have some excellent profiling
 frameworks that produce charts that show time on the X-axis, and what

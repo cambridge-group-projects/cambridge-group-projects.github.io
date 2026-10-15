@@ -1,5 +1,5 @@
  
-Contact: Luke Church <luke@church.name>
+Contact: Luke Church
 
 2020 project: [Probably Helpful
 Planning](Probably_Helpful_Planning)

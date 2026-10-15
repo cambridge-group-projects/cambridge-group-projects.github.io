@@ -1,5 +1,5 @@
  
-contact "HAJ-NAJAFI, Arran (NHS DIGITAL)" <a.haj-najafi@nhs.net>
+contact "HAJ-NAJAFI, Arran (NHS DIGITAL)"
 
 Too late for 2019, but possible for 2020:
 

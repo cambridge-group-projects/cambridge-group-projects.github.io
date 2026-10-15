@@ -1,25 +1,22 @@
  
-Suggestions from Jennifer Wright
-<jennifer.wright@humanitariancentre.org>. but she will be leaving at
-end July. Use info@humanitariancentre.org for followup
+Suggestions from Jennifer Wright. but she will be leaving at
+end July. Use the Centre's general enquiries address for followup
 
 1.) Aptivate - <http://www.aptivate.org>. We met with them recently and
 they're doing lots of really interesting work, which means they're quite
 stretched at the moment, but may have capacity nearer the time of the
-project. - Tom Lord - toml@aptivate.org - is our key contact.
+project. - Tom Lord - is our key contact.
 
 2.) Engineers Without Borders - there is a Cambs University Student
 Society (http://ewb-cam.org) branch which is supported by the UK branch
 of the main EWB organisation. The UK branch would be interesting to
 collaborate with. - Chloe Underdown (Innovation Engagement Coordinator),
-chloe.underdown@ewb-uk.org
 
 3.) We are also currently working with Harsha Liyanage, from Sarvodaya
 Fusion (http://fusion.lk). I know we are currently asking quite a lot
 from them in terms of collaboration, and Sonia suggested they may have
 more capacity to get involved in planning such a project in the autumn
 as opposed to at the moment, but I pass on their details just in case. -
-enovation4d@gmail.com
 
 In terms of other NGOs we don't directly have links to but which may be
 interested in being involved in such a project:

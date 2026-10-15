@@ -1,5 +1,5 @@
 Client: Austin Donnelly, Microsoft Research
-<Austin.Donnelly@microsoft.com>
+
 
 Elderly people sometimes need help to remain active and social. This
 project explores how a smartphone can arrange social gatherings/

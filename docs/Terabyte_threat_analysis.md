@@ -1,5 +1,5 @@
  
-Client: Paul Reid, BT <paul.reid@bt.com>
+Client: Paul Reid, BT
 
 Large networks such as the BT phone network generate terabytes of
 routing metadata, but the size of the dataset makes it difficult to

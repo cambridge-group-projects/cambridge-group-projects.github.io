@@ -1,5 +1,5 @@
  
-Client: Dr Laura James <LBJ@cantab.net>, Cambridge MakeSpace
+Client: Dr Laura James, Cambridge MakeSpace
 
 Kerf bending is a cute method for making round boxes with a laser
 cutter, but it requires quite a bit of planning. The goal of this
@@ -15,4 +15,4 @@ Background on kerf bending:
 <http://hackaday.com/2012/06/12/bending-laser-cut-wood-without-steam-or-forms/>
 
 Special resource - interfacing details and access to laser cutter will
-need to be arranged with Brian Jones <bdj23@cam.ac.uk>
+need to be arranged with Brian Jones

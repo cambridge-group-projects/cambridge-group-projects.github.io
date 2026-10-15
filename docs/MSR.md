@@ -1,5 +1,4 @@
  
-Contact: james.scott@microsoft.com
 
 Azure Sphere for citizen science
 

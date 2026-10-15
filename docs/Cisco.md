@@ -1,5 +1,5 @@
  
-The contact email for John Bain is jbain@cisco.com
+The contact is John Bain
 
 # Finalised brief
 

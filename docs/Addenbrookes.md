@@ -1,11 +1,11 @@
  
-Original contact: "Allen, Louise" <louise.allen@addenbrookes.nhs.uk>
+Original contact: "Allen, Louise"
 
 ### 2018 agreed
 
 [Way to the Clinic](Way_to_the_Clinic)
 
-with Stefanie Reichelt <reichelt.stefanie@gmail.com>
+with Stefanie Reichelt
 
 ### 2016 agreed
 

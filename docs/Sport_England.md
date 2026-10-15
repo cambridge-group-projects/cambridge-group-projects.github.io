@@ -1,6 +1,5 @@
  
 Developed with [Microsoft](Microsoft) - contact
-Matthew.Smith@Microsoft.com
 
 Deriving health benefits from open data
 

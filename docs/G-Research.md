@@ -1,7 +1,6 @@
  
 ### 2019
 
-Lucy.Mair@gresearch.co.uk
 
 Define a simple scripting language and API suitable for creating
 algorithms. Can enter scripts directly into an interactive game then see
@@ -37,7 +36,7 @@ one. So perhaps we could modify it a little further like this:
 
 ## earlier
 
-Contact was Dominic.Nancekievill@gresearch.co.uk
+Contact was Dominic Nancekievill
 
 ### 2016
 

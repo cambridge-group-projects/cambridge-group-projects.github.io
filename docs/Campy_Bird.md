@@ -1,6 +1,6 @@
  
 Client: Gerard Hester, [Morgan Stanley](Morgan_Stanley)
-<Gerard.Hester@morganstanley.com>
+
 
 Flappy bird is possibly the least intelligent video game ever made. But
 similar game mechanics could perhaps be used to automatically acquire

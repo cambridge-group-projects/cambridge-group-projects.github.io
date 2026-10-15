@@ -1,5 +1,5 @@
  
-Client: Sunil Shah, Last.fm - sunil@last.fm
+Client: Sunil Shah, Last.fm
 
 Scrobble Exchange - A Massively Multiplayer Game
 

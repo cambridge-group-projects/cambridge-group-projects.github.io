@@ -1,5 +1,5 @@
  
-Client: Ewan Kirk <ewan.kirk@cantabcapital.com>
+Client: Ewan Kirk
 
 Financial Battlefield
 

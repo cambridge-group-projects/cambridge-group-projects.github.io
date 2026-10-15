@@ -1,7 +1,7 @@
  
 Primary contact
 
-David Blake <David.M.Blake@morganstanley.com> was suggested for 2022
+David Blake was suggested for 2022
 
 It would be particularly great if we could find a design project that
 aligns with Morgan Stanley's "Giving Back" themes around community,

@@ -4,7 +4,7 @@
        alt="Title card from the Purchase Abandonment Predictor project video">
 </a>
 
-Client: Philip Wilson, The Hut Group <Philip.wilson@thehutgroup.com>
+Client: Philip Wilson, The Hut Group
 
 There are many online shopping sites where users become frustrated -
 they can't find what they want, get bored, or simply fail to complete a

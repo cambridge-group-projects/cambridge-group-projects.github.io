@@ -1,12 +1,12 @@
  
 Contacts:
 
-Kevin Males <Kevin.Males@uk.ibm.com> Phil Rodgers
-<Phil.Rodgers@uk.ibm.com>
+Kevin Males Phil Rodgers
+
 
 May be Raspberry Pi related?
 
-Client nominated: Luke Morgan <MORGANLU@uk.ibm.com>
+Client nominated: Luke Morgan
 
 Proposal: [Password and privacy protection with
 Pi](Password_and_privacy_protection_with_Pi)

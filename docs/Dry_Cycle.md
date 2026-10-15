@@ -1,5 +1,5 @@
  
-Client: William Jones <william.jones@embecosm.com>
+Client: William Jones
 
 The Barbican Rain Room was an artificial shower, digitally controlled so
 you could walk around in it while never getting wet. Imagine if every

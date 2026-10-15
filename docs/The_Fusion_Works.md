@@ -1,6 +1,6 @@
  
-Contacts David Russell <david@thefusionworks.com> and Lindsay Manning
-<Lindsay@thefusionworks.com>
+Contacts David Russell and Lindsay Manning
+
 
 1\) VR Motion Sickness
 

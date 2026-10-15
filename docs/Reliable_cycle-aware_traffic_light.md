@@ -1,5 +1,5 @@
  
-Client: Nigel Day, ENEA <Nigel.Day@enea.com>
+Client: Nigel Day, ENEA
 
 Most central Cambridge junctions snarl up at critical moments between
 lectures, with accidents, broken limbs and worse as students jump red

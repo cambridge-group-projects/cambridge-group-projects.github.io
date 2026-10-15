@@ -1,5 +1,5 @@
  
-Contact: Oli Bage <oli.bage@refinitiv.com>
+Contact: Oli Bage
 
 I would indeed love to get Refinitiv and the [London Stock Exchange
 Group](London_Stock_Exchange_Group) (we are merging at the

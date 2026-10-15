@@ -5,7 +5,7 @@
 </a>
 
 Client: Russell Bender, Potential Difference
-<russellpbender@yahoo.co.uk>
+
 
 "Darknet" is a new experimental theatre production under development by
 a Cambridge graduate for performance next year. It explores computer

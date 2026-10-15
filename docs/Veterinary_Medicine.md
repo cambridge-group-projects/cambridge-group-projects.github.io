@@ -1,5 +1,5 @@
  
-Potential client: Heidi Radke <hr264@cam.ac.uk>
+Potential client: Heidi Radke
 
 Like humans, dogs often suffer from injuries and problems in their
 joints. But while medical research constantly collects data on treatment

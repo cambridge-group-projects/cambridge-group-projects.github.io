@@ -11,9 +11,9 @@
 
 Potential contacts for 2020:
 
-Mike Harfoot <Mike.Harfoot@unep-wcmc.org> (computational modelling)
+Mike Harfoot (computational modelling)
 
-Ben Tregenna <ben.tregenna@unep-wcmc.org> (data infrastructure)
+Ben Tregenna (data infrastructure)
 
 ### Outlines for 2020
 

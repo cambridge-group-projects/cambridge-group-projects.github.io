@@ -1,2 +1,2 @@
  
-Initial enquiry from Nik Banerjee <nikbanerjee@jumptrading.com>
+Initial enquiry from Nik Banerjee

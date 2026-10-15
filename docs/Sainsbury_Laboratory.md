@@ -1,5 +1,5 @@
  
-Ioana Valea <ioana.valea@slcu.cam.ac.uk>
+Ioana Valea
 
 ### Feedback in discussion
 

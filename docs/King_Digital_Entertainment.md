@@ -1,5 +1,5 @@
  
-Client: Vince Darley (Vince.Darley@king.com)
+Client: Vince Darley
 
 2017:
 

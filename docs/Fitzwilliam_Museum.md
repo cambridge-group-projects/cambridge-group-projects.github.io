@@ -1,7 +1,7 @@
  
-Contact: Joanne Vine <jrv31@cam.ac.uk>
+Contact: Joanne Vine
 
-Potential client: Daniel Pett <dejp3@cam.ac.uk> says I’m interested in
+Potential client: Daniel Pett says I’m interested in
 quite a few things based around collections and data:
 
 1\) Machine learning and computer vision - the work my former colleague,

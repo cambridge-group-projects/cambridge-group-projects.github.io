@@ -1,6 +1,6 @@
  
 Client: Craig Mills, United Nations Environment Programme World
-Conservation Monitoring Centre <Craig.Mills@unep-wcmc.org>
+Conservation Monitoring Centre
 
 The UNEP-World Conservation Monitoring Centre wants to improve public
 engagement with wildlife conservation. One very successful approach is

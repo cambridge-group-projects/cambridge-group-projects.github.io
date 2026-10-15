@@ -1,6 +1,6 @@
  
-Original contact: Siobhan Sweeney <siobhan@clara.ai>
+Original contact: Siobhan Sweeney
 
-Technical: Yuki Cheung <chyuki@gmail.com>
+Technical: Yuki Cheung
 
 [Class-y Action](Class-y_Action)

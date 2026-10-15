@@ -1,8 +1,8 @@
  
-Contacts: Dan Storisteanu <dan@simprints.com> Nicolas Moreno de Palma
-<nicolas@simprints.com>
+Contacts: Dan Storisteanu Nicolas Moreno de Palma
 
-With: Jonathan Heeney <jlh66@cam.ac.uk>
+
+With: Jonathan Heeney
 
 suggestion ...
 

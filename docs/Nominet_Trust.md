@@ -1,5 +1,5 @@
  
-Contact: Anne Radl <Anne.Radl@nominettrust.org.uk>
+Contact: Anne Radl
 
 `- last contact November 2016`
 

@@ -1,5 +1,5 @@
  
-Contact from Nicky Blake <nicola.blake@coutu.org.uk>
+Contact from Nicky Blake
 
 On behalf of Sherry Coutu
 

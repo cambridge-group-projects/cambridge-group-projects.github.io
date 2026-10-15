@@ -4,13 +4,13 @@ see that page for follow-on projects.
 
 ### 2020
 
-No proposal. Alan Scott <alan.scott@broadcom.com> expressed interest
+No proposal. Alan Scott expressed interest
 for future years.
 
 ### 2019 proposal
 
 Project was [Meeting Zoom](Meeting_Zoom) with client Imdad
-Sardharwalla imdad.sardharwalla@argondesign.com
+Sardharwalla
 
 #### original suggestion
 
@@ -42,9 +42,9 @@ localisation model.
 
 ### 2018 project
 
-Contact: 'Steve Barlow' <steve.barlow@argondesign.com>
+Contact: 'Steve Barlow'
 
-Client: Jack Haughton <jack.haughton@argondesign.com>
+Client: Jack Haughton
 
 [Augmented Reality Furnishing](Augmented_Reality_Furnishing)
 

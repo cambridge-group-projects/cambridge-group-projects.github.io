@@ -1,5 +1,5 @@
  
-Contact: Jeff Watson <Geoff.Watson@milkandmore.co.uk>
+Contact: Jeff Watson
 
 Chief Technology Officer
 

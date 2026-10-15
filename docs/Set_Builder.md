@@ -1,6 +1,6 @@
  
 Client: Matt Johnson, [Frontier](Frontier)
-<mjohnson@frontier.co.uk>
+
 
 In older entertainment software levels were often created very quickly
 through the use of specialised tools to paint and author them using

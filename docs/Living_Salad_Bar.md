@@ -1,5 +1,5 @@
  
-Client: Jasmin Jahić, Queens Sustainability Lab <jj542@cam.ac.uk>
+Client: Jasmin Jahić, Queens Sustainability Lab
 
 Commercial salad growers must operate at scale, stripping whole plants
 to truck around the country. In contrast, a typical salad plate or

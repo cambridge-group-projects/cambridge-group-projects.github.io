@@ -1,6 +1,6 @@
  
-Contact: "Elliott, Michael" <Michael.Elliott@jpmorgan.com> and
-"Agozino, Biko JJ" <biko.jj.agozino@jpmorgan.com>
+Contact: "Elliott, Michael" and
+"Agozino, Biko JJ"
 
 ### Ideas for 2022
 
@@ -8,7 +8,7 @@ will be coming
 
 ### Ideas for 2019
 
-"Agozino, Biko JJ" <biko.jj.agozino@jpmorgan.com>
+"Agozino, Biko JJ"
 
 We certainly do have ideas from earlier in the year that we put aside
 for the Cambridge group projects. Let me see where they got to in the

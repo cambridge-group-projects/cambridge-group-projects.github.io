@@ -1,7 +1,7 @@
  
 Client [Entrepreneur First](Entrepreneur_First)
 
-Contact: Matt Clifford <matt@entrepreneurfirst.org.uk>
+Contact: Matt Clifford
 
 Many tech companies collect data about potential employees via online
 application forms. But it's hard to know whether your own answers to

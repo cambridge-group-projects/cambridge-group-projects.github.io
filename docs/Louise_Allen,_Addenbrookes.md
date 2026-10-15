@@ -1,5 +1,5 @@
  
-Contact: "Allen, Louise" <louise.allen@addenbrookes.nhs.uk>
+Contact: "Allen, Louise"
 
 ### 2016 agreed
 

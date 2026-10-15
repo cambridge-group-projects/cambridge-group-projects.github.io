@@ -1,10 +1,9 @@
  
 Introduced by [Collusion](Collusion)
 
-Daria Jelonek <daria.jelonek@network.rca.ac.uk>,
-daria@studioaboveandbelow.com
+Daria Jelonek,
 
-and perry@studioaboveandbelow.com
+and Perry
 
 Final version: [West Augmentation](West_Augmentation)
 

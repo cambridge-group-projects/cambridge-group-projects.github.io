@@ -1,9 +1,9 @@
  
 (Bank of America)
 
-Letizia Pepe <letizia.pepe@baml.com>
+Letizia Pepe
 
-Piers Thompson <piers.thompson@baml.com>
+Piers Thompson
 
 ### 2016
 

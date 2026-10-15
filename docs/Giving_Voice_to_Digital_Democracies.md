@@ -4,7 +4,7 @@ GVDD is a project team based at CRASSH
 Brief written, waiting to confirm client: [Deliberative Social
 Media](Deliberative_Social_Media)
 
-Potential second project: Marcus Tomalin <mt126@cam.ac.uk> suggested:
+Potential second project: Marcus Tomalin suggested:
 
 How about one of the following?
 

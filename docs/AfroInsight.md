@@ -1,5 +1,5 @@
  
-Client: Lee Wilson <lee.wilson@kavavar.com>
+Client: Lee Wilson
 
 AfroBarometer is a pan-African research network that collects public
 attitude data on a variety of topics, including health. The World Health

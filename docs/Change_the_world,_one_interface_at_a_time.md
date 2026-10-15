@@ -1,6 +1,6 @@
  
 Conor Farrington, Department of Public Health
-<cjtf2@medschl.cam.ac.uk>
+
 
 Better project title may be [The Adaptive
 Web](The_Adaptive_Web)

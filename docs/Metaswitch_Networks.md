@@ -1,18 +1,18 @@
  
 Clients:
 
-- Emma Gordon <Emma.Gordon@metaswitch.com>
-- Lancelot Robson <Lancelot.Robson@metaswitch.com>
+- Emma Gordon
+- Lancelot Robson
 
 Other contacts:
 
-- John Palombo <John.Palombo@metaswitch.com>
-- Beth Gorman <Beth.Gorman@metaswitch.com>
+- John Palombo
+- Beth Gorman
 
 ### Project proposals for 2016
 
-Client: Lancelot Robson <Lancelot.Robson@metaswitch.com>, with advice
-from stephen.remington@yahoo.co.uk and Neil.King@uis.cam.ac.uk
+Client: Lancelot Robson, with advice
+from Stephen Remington and Neil King
 
 - [Sailing by sound](Sailing_by_sound)
 

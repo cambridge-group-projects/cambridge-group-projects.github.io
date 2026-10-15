@@ -1,5 +1,5 @@
  
-Contact: Steve Wade <steve.wade@phonecoop.coop>
+Contact: Steve Wade
 
 Steve's profile on the Cambridge Network:
 

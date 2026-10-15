@@ -1,4 +1,4 @@
  
-Contact: Ilia Zintchenko <ilia@mindi.io>
+Contact: Ilia Zintchenko
 
 <https://mindi.io>

@@ -1,9 +1,9 @@
  
-Contact: Michael Gifford <Michael.Gifford@niab.com>
+Contact: Michael Gifford
 
 ## Proposal for 2022
 
-Simon Smart <Simon.Smart@niab.com>
+Simon Smart
 
 Analysis of satellite imagery has become a crucial part of the business
 of agriculture. One problem that needs solving at scale is a method to

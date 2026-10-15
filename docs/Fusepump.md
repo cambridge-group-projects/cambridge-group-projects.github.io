@@ -1,6 +1,6 @@
  
-Contacts: Leigh Simpson <leigh.simpson@fusepump.com>, Lauren Dawe
-(lauren.dawe@fusepump.com)
+Contacts: Leigh Simpson, Lauren Dawe
+
 
 ### 2015 project
 

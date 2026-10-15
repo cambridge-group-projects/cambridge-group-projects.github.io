@@ -1,5 +1,5 @@
  
-Client: Matt Johnson, Frontier <mjohnson@frontier.co.uk>
+Client: Matt Johnson, Frontier
 
 In sandbox games like Minecraft, the only way to define more interesting
 game scenarios is to write and install Java mods. It is possible to make

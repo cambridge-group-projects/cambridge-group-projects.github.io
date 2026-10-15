@@ -1,5 +1,5 @@
  
-Client: Chandra Harrison, Qualcomm <c_charri@qti.qualcomm.com>
+Client: Chandra Harrison, Qualcomm
 
 There are several ways that computers can "read your mind" by observing
 emotional state - measuring skin conductance, or even estimating pulse

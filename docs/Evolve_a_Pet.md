@@ -5,7 +5,7 @@
 </a>
 
 Client: Keira Cheetham, [Illumina](Illumina)
-<KCheetham@illumina.com>
+
 
 The goal of this project is to create a game that teaches GCSE or A
 level science students about genomes and genomic sequencing. The idea is

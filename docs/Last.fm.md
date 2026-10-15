@@ -1,7 +1,7 @@
  
 Will propose a new project for 2014 - topic to be confirmed
 
-Contact: David Jeffery <david@last.fm>
+Contact: David Jeffery
 
 Previous project in 2013 won the professional achievement prize for
 [Scrobble Exchange: A massively multiplayer

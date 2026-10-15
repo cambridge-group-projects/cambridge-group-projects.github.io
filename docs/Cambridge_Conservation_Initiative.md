@@ -2,7 +2,7 @@
 2021 project:
 
 [Galapagoan Machine Learning](Galapagoan_Machine_Learning),
-working with Sophia Cooke <sophiacooke18@gmail.com>
+working with Sophia Cooke
 
 Earlier:
 
@@ -11,8 +11,7 @@ science](Conservation_citizen_science)
 
 Discuss with:
 
-John Fanshawe <John.Fanshawe@birdlife.org>
+John Fanshawe
 
-tim.wilkinson@unep-wcmc.org
 
-Chris Sandbrook <cgsandbrook@gmail.com>
+Chris Sandbrook

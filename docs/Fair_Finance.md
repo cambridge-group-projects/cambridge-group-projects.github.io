@@ -1,7 +1,7 @@
  
-Potential client: 'Faisel Rahman' <faisel@fairfinance.org.uk>
+Potential client: 'Faisel Rahman'
 
-Original contact: matthew.jones@jbs.cam.ac.uk (Matthew is an affiliate
+Original contact: Matthew Jones (Matthew is an affiliate
 of JBS, but also Chairman of the Board for Fair Finance)
 
 Project could look at development of a mobile platform for

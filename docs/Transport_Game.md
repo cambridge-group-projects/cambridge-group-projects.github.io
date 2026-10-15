@@ -6,7 +6,7 @@
 
 Client: Steve Platt, [Cambridge Architectural
 Research](Cambridge_Architectural_Research)
-<steve.platt@carltd.com>
+
 
 It's hard for voters and taxpayers to assess what impact different
 funding policies will really have on their lives. The goal of this

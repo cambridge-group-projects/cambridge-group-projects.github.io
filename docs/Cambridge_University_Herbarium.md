@@ -1,4 +1,4 @@
  
-Contact: Lauren Gardiner <lmg32@hermes.cam.ac.uk>
+Contact: Lauren Gardiner
 
 <http://data.plantsci.cam.ac.uk/herbarium/>

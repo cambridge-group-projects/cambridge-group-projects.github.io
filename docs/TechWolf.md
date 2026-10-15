@@ -1,7 +1,7 @@
  
-Contact: Jeroen Van Hautte <jeroen@techwolf.ai>
+Contact: Jeroen Van Hautte
 
-Client: Ben Searle <ben@techwolf.be>
+Client: Ben Searle
 
 Title: NLProject Manager Description: Software Engineering has pioneered
 agility across multiple functions, however, the overhead of managing

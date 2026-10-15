@@ -1,5 +1,5 @@
  
-Proposed by Jasmin Jahić <jj542@cam.ac.uk>, to be discussed with Chris
+Proposed by Jasmin Jahić, to be discussed with Chris
 Cooper-Bland of Endava for 2026
 
 This is currently phrased as a research project, so a specific problem

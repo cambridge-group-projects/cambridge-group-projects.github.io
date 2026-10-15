@@ -1,6 +1,6 @@
  
-Contact: Geoff Walker <geoff.walker@faradaypredictive.com> and Will
-Boulton <will.boulton@artesis.co.uk>
+Contact: Geoff Walker and Will
+Boulton
 
 #### ongoing discussion
 

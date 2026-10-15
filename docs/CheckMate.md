@@ -1,6 +1,6 @@
  
 Client: [Illumina](Illumina) Contact: "Oldham, Scott"
-<soldham@illumina.com>
+
 
 Personal genome sequencing is now available to the masses! An individual
 human's genome sequence contains 3 billion bases. It can be represented

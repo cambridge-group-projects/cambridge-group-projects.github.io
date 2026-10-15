@@ -5,7 +5,7 @@
 </a>
 
 Client: Taylan Toygarlar, [IMC
-(Netherlands)](IMC_(Netherlands)) (Taylan.toygarlar@imc.nl)
+(Netherlands)](IMC_(Netherlands))
 
 Financial markets today are one of the biggest raw data generators of
 our time, with billions of data points per day for some products. Most

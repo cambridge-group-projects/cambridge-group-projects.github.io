@@ -2,7 +2,7 @@
 # Has become [Algo-Trading Game](Algo-Trading_Game)
 
 Client: Radmilo Racic, [IMC (Netherlands)](IMC_(Netherlands))
-(Radmilo.racic@imc.nl)
+
 
 Data mining and statistical modeling is an essential part of generating
 successful models. There are various approaches to generate a

@@ -1,5 +1,5 @@
  
-Contact: Raoul-Gabriel Urma <raoul@cambridgespark.com>
+Contact: Raoul-Gabriel Urma
 
 2020 project: [Automatic Assessment of R
 Code](Automatic_Assessment_of_R_Code)

@@ -1,4 +1,4 @@
-Client - Pablo Garcia, Art Institute of Chicago <pgarci@artic.edu>
+Client - Pablo Garcia, Art Institute of Chicago
 
 The ancestors of computer graphics, in the 18th and 19th centuries, used
 sophisticated mechanisms to render realistic perspective views,

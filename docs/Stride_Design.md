@@ -1,10 +1,9 @@
  
-Contact: 'Vicky Smith' <vicky.smith@stridedesign.com>
+Contact: 'Vicky Smith'
 
-Initial contact: Andrew Nairne <acn36@cam.ac.uk>
+Initial contact: Andrew Nairne
 
 Project manager on behalf of Carol Ann Duffy: Helen Taylor -
-pa.poetlaureate@googlemail.com
 
 The Poet Laureate's Web Thresholds
 

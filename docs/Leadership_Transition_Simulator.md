@@ -1,5 +1,5 @@
  
-Client: Megan Renoir, Stopping as Success <meganrenoir@gmail.com>
+Client: Megan Renoir, Stopping as Success
 
 International agencies work hard to support low-income communities in
 becoming self-sufficient and taking control of their own progress toward

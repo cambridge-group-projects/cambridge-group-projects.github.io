@@ -1,20 +1,19 @@
  
 ## 2026
 
-Tobias has been in contact with Hrutvik Kanabar
-<Hrutvik.Kanabar2@arm.com>, with respect to ISA semantics on ARM
+Tobias has been in contact with Hrutvik Kanabar, with respect to ISA semantics on ARM
 and/or exploring Lean as a verification tool.
 
 ## 2021
 
-Pawel Moll <Pawel.Moll@arm.com> is interested
+Pawel Moll is interested
 
 ## 2020
 
-Pawel Moll <Pawel.Moll@arm.com> would be happy to receive an
+Pawel Moll would be happy to receive an
 invitation
 
-federico.garzadeleon@arm.com has been discussing volunteer work on
+Federico at Arm has been discussing volunteer work on
 digital projects at the [Fitzwilliam
 Museum](Fitzwilliam_Museum), and would like to see a group
 project on a related topic.
@@ -22,7 +21,6 @@ project on a related topic.
 ## 2019
 
 Following discussion led to [AI Chef](AI_Chef) with client
-Isabella.Gottardi@arm.com
 
 Around 466 million people in the world, including 34 million children
 cannot use communication channels that most of us take for granted. It
@@ -52,13 +50,13 @@ that would be very useful for testing and application focus.
 
 ## 2017
 
-Khaled Benkrid <Khaled.Benkrid@arm.com>
+Khaled Benkrid
 
-Sean Hong <Sean.Hong@arm.com>
+Sean Hong
 
-Ashkan Tousimojarad <Ashkan.Tousimojarad@arm.com>
+Ashkan Tousimojarad
 
-Xabier Iturbe <Xabier.Iturbe@arm.com>
+Xabier Iturbe
 
 1\. Hypbrid IoT System Development Framework
 
@@ -125,11 +123,11 @@ will be tested using a proof-of-concept application.
 
 ## 2015
 
-Contact in 2015: Dominic Vergine <Dominic.Vergine@arm.com>
+Contact in 2015: Dominic Vergine
 
-'Pawel Moll' <Pawel.Moll@arm.com>
+'Pawel Moll'
 
-'Lee Smith' <Lee.Smith@arm.com>
+'Lee Smith'
 
 [Intensive Care for Ebola](Intensive_Care_for_Ebola)
 

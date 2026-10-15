@@ -1,5 +1,5 @@
  
-Contact: David Sharp <david.sharp@ocado.com>
+Contact: David Sharp
 
 2020 project: [Feeding Body and Mind](Feeding_Body_and_Mind)
 

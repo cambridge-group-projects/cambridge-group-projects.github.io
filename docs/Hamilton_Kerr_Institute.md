@@ -1,7 +1,7 @@
  
 Contacts:
 
-Spike Bucklow <sb10029@cam.ac.uk>
+Spike Bucklow
 
 2021
 
@@ -13,13 +13,12 @@ else to come up with a project either. Sorry."
 
 2019
 
-Could follow up exchange with Kasia Targonska-Hadzibabic
-<kt441@cam.ac.uk>, who suggested doing some content analysis of
+Could follow up exchange with Kasia Targonska-Hadzibabic, who suggested doing some content analysis of
 paintings. This could apply methods from recent PhD or Leonardo Impett.
 
 2018
 
-Project with Camille Polkownik <cp574@cam.ac.uk> (now left Cambridge)
+Project with Camille Polkownik (now left Cambridge)
 
 [Pigment Analysis](Pigment_Analysis)
 

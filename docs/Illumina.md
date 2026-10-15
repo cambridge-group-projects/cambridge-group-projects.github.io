@@ -6,9 +6,8 @@
 ### earlier suggestions
 
 Proposed client: Lisa Murray Staff Scientist, Bioinformatics
-lmurray@illumina.com
 
-long-term contact Scott Oldham -(soldham@illumina.com)
+long-term contact Scott Oldham -
 
 Suggestion:
 

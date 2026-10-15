@@ -1,7 +1,7 @@
  
 Client: [Cambridge Consultants](Cambridge_Consultants)
 
-Contact: Alistair Morfey <alistair.morfey@cambridgeconsultants.com>
+Contact: Alistair Morfey
 
 This project needs a clearer target market before proceeding
 

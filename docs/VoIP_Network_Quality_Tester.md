@@ -1,7 +1,7 @@
  
 Contact: John Palombo, [Metaswitch
 Networks](Metaswitch_Networks)
-<John.Palombo@metaswitch.com>
+
 
 VoIP and Video calls are very sensitive to latency, jitter and packet
 loss in IP networks, but there aren’t many good end-user tools available

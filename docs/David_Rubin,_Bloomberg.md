@@ -1,5 +1,5 @@
  
-"David Rubin (Lo) (BLOOMBERG/ LONDON)" <drubin19@bloomberg.net>
+"David Rubin (Lo) (BLOOMBERG/ LONDON)"
 
 Finalised as
 [Hashtag-FollowTheMarket](Hashtag-FollowTheMarket)

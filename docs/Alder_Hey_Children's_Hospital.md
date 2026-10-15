@@ -1,5 +1,5 @@
  
-Contact: Megan Foden <Megan.Foden@alderhey.nhs.uk>
+Contact: Megan Foden
 
 [Speech Error Detection &
 Correction](Speech_Error_Detection_&_Correction) Children

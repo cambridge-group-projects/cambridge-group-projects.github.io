@@ -1,5 +1,5 @@
  
-Client:Wing Yung Chan, The Hut Group <wingyungchan@gmail.com>
+Client:Wing Yung Chan, The Hut Group
 
 Online retailers face the interesting challenge of trying to understand
 a potentially large and unknown customer base. Once a customer has

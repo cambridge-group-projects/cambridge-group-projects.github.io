@@ -1,7 +1,7 @@
  
-Original contact Vladimir Vilde <vlmv2@cam.ac.uk>
+Original contact Vladimir Vilde
 
-Client: vladimir.vilde@dxan.co.uk
+Client: Vladimir Vilde
 
 Suggestion: [Zoom into Books](Zoom_into_Books)
 

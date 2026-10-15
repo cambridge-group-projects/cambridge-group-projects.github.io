@@ -1,6 +1,6 @@
  
 Client: Richard Watts, [Kynesim](Kynesim)
-<rrw@semiramis.org.uk>
+
 
 Considering replacing this with [Auto-Archive](Auto-Archive)
 

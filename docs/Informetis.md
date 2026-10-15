@@ -1,5 +1,4 @@
  
-Contact: yuichi.abe@informetis.com
 
 ## 2021 Discussion
 
@@ -96,7 +95,7 @@ based purely on technical performance and OEM pricing?
 
 ## 2020 Project
 
-Client: José Alcalá <jose.alcala@informetis.com>
+Client: José Alcalá
 
 Proposal awaiting finalisation:
 

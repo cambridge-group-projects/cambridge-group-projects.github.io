@@ -1,2 +1,2 @@
  
-Client contact: Jurgen Van Gael <jurgen@rangespan.com>
+Client contact: Jurgen Van Gael

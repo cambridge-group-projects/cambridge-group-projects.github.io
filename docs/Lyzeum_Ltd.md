@@ -1,5 +1,5 @@
  
-Contact: Julian Gilbey <jdg18@cam.ac.uk> (CTO of Lyzeum)
+Contact: Julian Gilbey (CTO of Lyzeum)
 
 2021 project:
 

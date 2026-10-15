@@ -1,7 +1,7 @@
  
 Contact for 2022:
 
-Lauren Teasdale <LTeasdale@ABINITIO.com>
+Lauren Teasdale
 
 Idea for 2022:
 

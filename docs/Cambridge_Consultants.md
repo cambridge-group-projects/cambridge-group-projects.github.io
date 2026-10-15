@@ -1,9 +1,9 @@
  
 Machine learning group leader Trevor Wood
-<trevor.wood@cambridgeconsultants.com> has apparently left.
+ has apparently left.
 
 Previously last contact was in 2013: Davina Jaczyk
-<davina.jaczyk@cambridgeconsultants.com>
+
 
 - Chris Roberts - [Recipe Curator](Recipe_Curator)
 - Rodrigo Queiro – [Dance Practice

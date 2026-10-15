@@ -1,5 +1,5 @@
  
-Victor Haghani <victor@elmfunds.com>
+Victor Haghani
 
 Dear Alan, Ian and Megan,
 
@@ -11,7 +11,6 @@ significant educational value. Looking forward to discussing this with
 you, and hoping it merits a place in your project list.
 
 With kind regards, Victor Haghani CEO and Founder, Elm Partners
-Victor@Elmfunds.com
 
 Title: Flipping to a Fruitful Future
 

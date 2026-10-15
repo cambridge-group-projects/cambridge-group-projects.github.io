@@ -1,6 +1,6 @@
  
 Client: Dave Ansell, Cambridge Science Centre
-<dave@cambridgesciencecentre.org>
+
 
 The newly established Cambridge Science Centre is building a major
 interactive public science exhibition space in Cambridge. We want this

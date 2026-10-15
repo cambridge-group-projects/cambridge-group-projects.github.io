@@ -2,7 +2,7 @@
 # Replaced by [Virtual Reality Trading Desk](Virtual_Reality_Trading_Desk)
 
 Client: Taylan Toygarlar, [IMC
-(Netherlands)](IMC_(Netherlands)) (Taylan.toygarlar@imc.nl)
+(Netherlands)](IMC_(Netherlands))
 
 In this project you will be constrained to a single desktop grade
 machine with a high-end GPU. Most traders need to either monitor or take

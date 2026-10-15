@@ -1,7 +1,6 @@
 # Trouble Detector
 
 Client: Rob Humphris, 8power Ltd.
-rob@8power.com
 
 There are a large number of vibration analysis systems on the market, the majority of which have attempted to automate vibration fault analysis without significant success. 8power have been focusing to try and improve the resilience of the water industry and have a tried and tested IoT Vibration monitoring system that has been collating hourly measurements across a wide estate of assets for the last 5 years, with a number of examples of failures and incidents during that time.
 

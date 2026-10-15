@@ -1,5 +1,5 @@
  
-Stefanie Reichelt <reichelt.stefanie@gmail.com>
+Stefanie Reichelt
 
 On 22 Oct 2017, at 10:13, Alan Blackwell <afb21@cam.ac.uk> wrote:
 
@@ -7,7 +7,7 @@ I’m chasing up the remaining design briefs for projects next year. I’d
 be happy to contact your IfM colleague directly, if that would help.
 
 On 23 Aug 2017, at 23:12, Stefanie Reichelt
-<reichelt.stefanie@gmail.com> wrote:
+ wrote:
 
 Yes I am interested in following up. I discovered a colleague in IfM has
 done a project streamlining processes within the hospital. We will think

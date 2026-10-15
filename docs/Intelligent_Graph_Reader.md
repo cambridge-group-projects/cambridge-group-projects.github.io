@@ -5,9 +5,9 @@
 </a>
 
 Main client: Nilu Satharasinghe, [Sparrho](Sparrho)
-<nilu@sparrho.com>
 
-Additional contact: Vivian Chan <vivian@sparrho.com>
+
+Additional contact: Vivian Chan
 
 Google Scholar is a good way to find scientific results, but it only
 reads the words - not actual data. The goal of this project is to create

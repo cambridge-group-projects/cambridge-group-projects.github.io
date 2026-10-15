@@ -1,5 +1,5 @@
  
-Client: Tetiana Bersheda <tetiana@lexsnap.com>
+Client: Tetiana Bersheda
 
 Perhaps: [LawBot](LawBot)
 

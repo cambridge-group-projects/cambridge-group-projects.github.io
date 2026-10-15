@@ -5,7 +5,7 @@
 </a>
 
 Client: Radmilo Racic, [IMC (Netherlands)](IMC_(Netherlands))
-<Radmilo.racic@imc.nl>
+
 
 Algorithmic trading is an essential part of today’s financial markets,
 but releasing an algorithm out in the wild certainly comes with its own

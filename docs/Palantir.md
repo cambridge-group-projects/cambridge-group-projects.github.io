@@ -1,5 +1,5 @@
  
-Contact: Nora Younes <nyounes@palantir.com>
+Contact: Nora Younes
 
 Interested in good cause initiative
 

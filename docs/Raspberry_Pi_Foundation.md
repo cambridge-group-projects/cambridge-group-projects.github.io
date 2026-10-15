@@ -2,13 +2,13 @@
 2023 project: [Physical Computing for
 Beginners](Physical_Computing_for_Beginners)
 
-For 2024, Tracy suggested contacting Marc Scott: marc@raspberrypi.org
+For 2024, Tracy suggested contacting Marc Scott
 
 2023 project followed discussion with
 
-Tim Regan <tim.regan@raspberrypi.org>
+Tim Regan
 
-Tracy Gardner <tracy@raspberrypi.org>
+Tracy Gardner
 
 Regarding possible experiment with a Mark Guzdial "teaspoon language"
 

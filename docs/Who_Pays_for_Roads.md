@@ -1,5 +1,5 @@
  
-Proposed to Christopher Newfield <chris.newfield@isrf.org>
+Proposed to Christopher Newfield
 
 You may have noticed that many roads in Cambridge are not in good
 repair. How are decisions made, on the mathematical relationship between

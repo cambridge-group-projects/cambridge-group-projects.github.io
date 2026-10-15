@@ -1,6 +1,6 @@
  
-Potential clients: John Fanshawe <John.Fanshawe@birdlife.org> Ewan
-Campbell <eahc2@cam.ac.uk>
+Potential clients: John Fanshawe Ewan
+Campbell
 
 Cambridge composer Ewan Campbell creates beautiful graphic scores where
 the musical notes are curved and rendered over map landscapes or nature

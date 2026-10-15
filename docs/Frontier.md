@@ -151,7 +151,7 @@ Preferred? [Opposing Views](Opposing_Views)
 
 [VR AI Ping Pong Trainer](VR_AI_Ping_Pong_Trainer)
 
-Also with Eddy Aston in 2017 <eashton@frontier.co.uk>
+Also with Eddy Aston in 2017
 
 -Simulation LOD-ing
 
@@ -264,7 +264,7 @@ from within
 
 ## Projects in 2013:
 
-Contact: Ben Nicholson bnicholson@frontier.co.uk
+Contact: Ben Nicholson
 
 - [A platform for live online
   modding](A_platform_for_live_online_modding)

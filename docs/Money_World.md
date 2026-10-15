@@ -4,7 +4,7 @@
        alt="Title card from the Money World project video">
 </a>
 
-Client: Ben Azvine, [BT](BT) <ben.azvine@bt.com>
+Client: Ben Azvine, [BT](BT)
 
 UK voters are quite accustomed to seeing good quality visualisations of
 economic data, tax and public expenditure. But these aren't accessible

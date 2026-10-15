@@ -1,7 +1,7 @@
  
 For 2023:
 
-Potential client: Adham Ashton-Butt <adham.ashton-butt@bto.org>
+Potential client: Adham Ashton-Butt
 
 As I understand it, you’re looking for an interface that can be used by
 bioacoustics researchers to enhance semi-supervised labelling of
@@ -13,12 +13,11 @@ applied, the nature of the sample data that would be used in a
 demonstrator, and the kind of user community this would be aimed at.
 
 In 2022: [Flyathlon](Flyathlon), created in consultation with
-BTO Director Juliet Vickery <juliet.vickery@bto.org>
+BTO Director Juliet Vickery
 
 This is an updated variant of [Flyathlon (2019
 version)](Flyathlon_(2019_version)), which did not proceed
-with a team (previously proposed client: Jennifer Border
-<jennifer.border@bto.org>)
+with a team (previously proposed client: Jennifer Border)
 
 Originally based on suggestion by Chris Sandbrook: [Cuckoo
 Race](Cuckoo_Race)

@@ -1,5 +1,5 @@
  
-Contact: Nicolas Graube <Nicolas.Graube@csr.com>
+Contact: Nicolas Graube
 
 [Location-based teaching](Location-based_teaching)
 

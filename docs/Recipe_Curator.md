@@ -4,7 +4,7 @@
        alt="Title card from the Recipe Curator project video">
 </a>
 
-Client: Chris Roberts <chris.roberts@cambridgeconsultants.com>
+Client: Chris Roberts
 [Cambridge Consultants](Cambridge_Consultants)
 
 One area of my life that could do with the addition of a bit of

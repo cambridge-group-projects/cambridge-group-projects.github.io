@@ -1,3 +1,3 @@
-Contact: "Elliott, Michael" <Michael.Elliott@jpmorgan.com>
+Contact: "Elliott, Michael"
 
 [Careers from Here](Careers_from_Here)

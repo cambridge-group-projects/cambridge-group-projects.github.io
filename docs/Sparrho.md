@@ -1,5 +1,5 @@
  
-Client contact: Vivian Chan <v.chan@cantab.net>
+Client contact: Vivian Chan
 
 Project idea: [Intelligent Graph
 Reader](Intelligent_Graph_Reader)

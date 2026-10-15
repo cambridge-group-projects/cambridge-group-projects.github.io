@@ -1,7 +1,7 @@
  
 Client: [Frontier](Frontier)
 
-Contact: Matt Johnson <mjohnson@frontier.co.uk>
+Contact: Matt Johnson
 
 Create a structured framework with a rudimentary graphical display which
 allows the loading of scripted scenarios, consisting of environment

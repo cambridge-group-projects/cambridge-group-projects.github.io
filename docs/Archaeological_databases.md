@@ -2,7 +2,7 @@
 Not originally proposed as a group project, but may be possible - have
 sent an enquiry
 
-"Adam S. Green" <ag952@cam.ac.uk>
+"Adam S. Green"
 
 Thank you for the note! Generally, archaeological data derive from
 features (material things people make that can be moved), artifacts

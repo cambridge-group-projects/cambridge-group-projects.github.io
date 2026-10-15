@@ -20,4 +20,4 @@ Presentation / Picture book / Comic book reflow
 
 Translate text, and fit it to the pictures - include CHines and Arabic?
 
-Previous contact: Scarlet Schwiderski-Grosche scarlets@microsoft.com
+Previous contact: Scarlet Schwiderski-Grosche

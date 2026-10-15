@@ -1,6 +1,6 @@
  
-Contact Lee Stott <leestott@microsoft.com> and Geoff Hughes
-<Geoff.Hughes@microsoft.com>
+Contact Lee Stott and Geoff Hughes
+
 
 ## Proposals for 2018
 
@@ -33,7 +33,7 @@ Mercer did such a super job with last year:
 
 ## Projects in 2017
 
-Project 1, Client Matthew Smith <Matthew.Smith@microsoft.com>
+Project 1, Client Matthew Smith
 
 [Air Quality Radar](Air_Quality_Radar)
 

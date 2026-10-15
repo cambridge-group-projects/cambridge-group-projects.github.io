@@ -1,25 +1,25 @@
  
-Contact: Beatrix Schlarb-Ridley <beatrix@bas.ac.uk>
+Contact: Beatrix Schlarb-Ridley
 
 2019 project: [Groundwater App](Groundwater_App)
 
 potential project with BAS using ground-penetrating radar for
 identification of aquifers.
 
-Martin, Carlos <cama@bas.ac.uk>
+Martin, Carlos
 
-Mark Muller <mmuller.earthsci@gmail.com>
+Mark Muller
 
 #### previous years
 
 Initial contacts:
 
-- Beatrix Schlarb-Ridley <beatrix@bas.ac.uk>
-- Dave Connor <dacon@bas.ac.uk>
+- Beatrix Schlarb-Ridley
+- Dave Connor
 
 Technical contact:
 
-- Matt Polaine <maine@bas.ac.uk>
+- Matt Polaine
 
 Design brief: [Antarctic Chasm One](Antarctic_Chasm_One)
 

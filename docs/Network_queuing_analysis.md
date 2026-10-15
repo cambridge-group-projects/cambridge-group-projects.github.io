@@ -1,6 +1,6 @@
  
 Client: Pedro Estrela, [IMC (Netherlands)](IMC_(Netherlands))
-(Pedro.estrela@imc.nl)
+
 
 The Objective of this project is to measure network queuing in a
 distributed network, by correlating packets between locations and

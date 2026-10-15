@@ -13,7 +13,7 @@ An earlier version of this project was offered (but did not proceed)
 with the following description:
 
 Client: James Jillians, [Sparx](Sparx)
-<James.Jillians@sparx.co.uk>
+
 
 People increasingly rely on emoji to express the tone of digital
 communications. But as the set of emoji icons grows, it is frustrating

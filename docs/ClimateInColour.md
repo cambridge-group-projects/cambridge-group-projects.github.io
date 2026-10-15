@@ -1,4 +1,4 @@
  
-Discuss with Joycelyn Longdon <jl2182@cam.ac.uk>
+Discuss with Joycelyn Longdon
 
 Likely design client: Ana

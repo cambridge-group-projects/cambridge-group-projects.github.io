@@ -1,5 +1,5 @@
  
-Client: Lorraine Charles, Na'amal <lorraine@naamal.org>
+Client: Lorraine Charles, Na'amal
 
 Na’amal provides refugees and other underrepresented communities
 training in marketable skills, with a focus on the human/soft skills

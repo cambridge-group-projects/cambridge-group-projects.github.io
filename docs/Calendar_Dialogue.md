@@ -1,6 +1,5 @@
  
-Potential contacts at [Amazon](Amazon) - kevcrews@amazon.com,
-gojav@amazon.co.uk
+Potential contacts at [Amazon](Amazon),
 
 The Alexa Skills Kit allows developers to create new functionality for
 the Amazon Echo. You will use this to implement a natural language
