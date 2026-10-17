@@ -50,12 +50,12 @@ If you would like to propose a project idea for 2027/28 then please do get in to
 26. [Concrete Proof](Concrete_Proof)
 27. [Signal Sleuth](Signal_Sleuth)
 28. [Women's Health](Womens_Health)
+29. [Clear Score](Clear_Score)
 
 ### Design Brief Candidates  (for 2027)
 
 - Flea by Douce
 - Riverlane
-- [Clear Score](Clear_Score)
   
 ### Potential Clients (for 2027)
 
